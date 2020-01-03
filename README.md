@@ -7,7 +7,7 @@ university assingments, side projects, work, problem solving, research and every
 
 ---
 
-## Day 1:
+## Day 1, Jan 1st 2020:
 
 **Today's Progress**: pointer's declaration, access, storage, dereference, arithmetic, also dynamic memory allocation and  
 passing pointers to functions, returning pointers from functions, references, L and R-values in C++.  
@@ -22,3 +22,16 @@ of what I can do to enhance workflows, I don't it's a _MUST_ in the knowledge ba
 
 - [C++ Online Course, Chapter 12](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 - [Gulp JS Crash Course](https://youtu.be/1rw9MfIleEg "Traversy Media YouTube video")
+
+## Day 2, Jan 2nd 2020:
+
+**Today's Progress**: OOP in C++: classes, constructors, initialization list, delegation of constructors, copy constructors, class member manipulation, shallow vs deep copying, move constructors with l-value and r-value parameters, public vs private, methods, destructors, friends of class, static classes, 'this' pointer. LeetCoded in the Microsoft Top Questions, solving 4 problems in Arrays and Strings cathegory (since it's a paid feature of LeetCode, I cannot provide further details on the problem's number or description).
+
+**Thoughts**: I learnt about OOP about 2.5 years ago, coded in Java, and I was somewhat familiar with OOP in C++ since I was familiar with C structs and
+OOP overall, I think it's always good to reinforce the foundations of coding once in a while, and since I will be using Unreal Engine soon to do a guided
+videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics left, smart pointers, error handling, streams and STL; I'm really excited about the STL section, It will benefit me a lot for problem solving.
+
+**Link to Work / References** :
+
+- [C++ Online Course, Chapter 13](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
+- [LeetCode](https://leetcode.com/ "Microsoft's Top Questions is a paid feature of LeetCode")
