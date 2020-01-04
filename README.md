@@ -35,3 +35,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [C++ Online Course, Chapter 13](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 - [LeetCode](https://leetcode.com/ "Microsoft's Top Questions is a paid feature of LeetCode")
+
+## Day 3, Jan 3rd 2020:
+
+**Today's Progress**: Introduction to GraphQL, querying, nested querying, babel setup for projects, ES6 import/export and a small API example of a query returning a simple string.
+
+**Thoughts**: A little break from C++ as I don't want to overload me with a specific topic, since I've been done waaay more than an hour on the challenge, so the next topic I'm into (besides AI/ML wich I will start on Monday 6) is GraphQL, in my past job I worked with it by doing queries, mutations and subscriptions, but now I'm looking for knowledge in design and creation of GQL APis. I kinda have a previous experience _doing_ GQL, I did it with Absinthe for an Elixir backend, but it was kind of a mess and It didn't workout properly.
+
+**Link to Work / References** :
+
+- [GraphQL Online Course, Chapter 2](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
