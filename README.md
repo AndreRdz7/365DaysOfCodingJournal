@@ -46,3 +46,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [GraphQL Online Course, Chapter 2](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
+
+## Day 4, Jan 4th 2020:
+
+**Today's Progress**: Data types on GQL, custom types (class like), operation arguments, array manipulation, simple relational data and by arrays.
+
+**Thoughts**: Imagine the data as a graph is much more simpler than thought at first glance, we can even think of it as a "relational database" that can be cyclical and can access a lot of information as long as it's related without thinking about all inner joins of tables, and where clauses on queries etc. I think GQL is truly the future of APIs, I don't think it will be the norm for this year, but I have a gut feeling that most small companies and even large companies will start to create and/or migrate their apis to GQL, since these API's can be accesed with a client like Altair (on browser) or Postman.
+
+**Link to Work / References** :
+
+- [GraphQL Online Course, Chapter 2](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
