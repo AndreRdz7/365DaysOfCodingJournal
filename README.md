@@ -57,3 +57,15 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [GraphQL Online Course, Chapter 2](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
+
+
+## Day 5, Jan 5th 2020:
+
+**Today's Progress**: Mutations (POST, PUT, DELETE, etc. operations) in GQL, custom defined input types for mutations leading to a better and more undestandable code, babel configuration of plugins.
+
+**Thoughts**: Been familiar with mutations in graphql only on the frontend, on the backend it looks way more interesting and I think this part is another example of the power of GQL and why it's the future. Tomorrow I will start to add Machine Learning/Artificial Intelligence and Data Science to this challenge.
+
+**Link to Work / References** :
+
+- [GraphQL Online Course, Chapter 3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
