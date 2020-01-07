@@ -79,4 +79,4 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [AI Online Course, Chapter 1,2,3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
-- [Automated Discovery of Business Process SimulationModels from Event Logs. Camargo, M., Dumas, M., González-Rojas, O.](https://arxiv.org/pdf/1910.05404.pdf "Paper with the foundation of what I will be working on")
+- [Automated Discovery of Business Process Simulation Models from Event Logs. Camargo, M., Dumas, M., González-Rojas, O.](https://arxiv.org/pdf/1910.05404.pdf "Paper with the foundation of what I will be working on")
