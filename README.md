@@ -69,3 +69,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [GraphQL Online Course, Chapter 3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
+
+## Day 6, Jan 6th 2020:
+
+**Today's Progress**: Started a new journey in the world of research, I enrolled in a _R&D_ career path on my university, where I will work with profesors all around the world to perform research and develop new, innovative and open source projects, I'm starting to familiarize with the project, _grosso modo_ it consist of Business Process Simulations with automatization and enhancement of parameters in orden to obtain the most realistic simulation possible with the given data logs. I will be working with Python and Jupyter notebooks in the future of this project. Re-started my AI journey with Q-Learning, getting the fundamentals of reinforcement learning, the Bellman equation and Markov decision processes, I have 3 papers to read to go deeper and fully understand the concepts, I will read them tomorrow.
+
+**Thoughts**: This research "course" looks very interesting and very promising, I will be working with at least 3 PhD professors and I finally will be involved on this career path that I've been dreaming on.
+
+**Link to Work / References** :
+
+- [AI Online Course, Chapter 1,2,3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [Automated Discovery of Business Process SimulationModels from Event Logs. Camargo, M., Dumas, M., González-Rojas, O.](https://arxiv.org/pdf/1910.05404.pdf "Paper with the foundation of what I will be working on")
