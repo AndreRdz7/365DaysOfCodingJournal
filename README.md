@@ -81,3 +81,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [AI Online Course, Chapter 1,2,3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [Automated Discovery of Business Process Simulation Models from Event Logs. Camargo, M., Dumas, M., González-Rojas, O.](https://arxiv.org/pdf/1910.05404.pdf "Paper with the foundation of what I will be working on")
+
+## Day 7, Jan 7th 2020:
+
+**Today's Progress**: Read 'Reinforcement Learning I: Introduction' from Richard Sutton ad Andrew Barto; onto AI, the policy vs plan of reinforcement learning, the 'living penalty', full Q-learning intuition and the temporal difference. Added 2 papers to my to read list.
+
+**Thoughts**: I honestly was expecting a lot more from Hadelin de Ponteves and Kiril Eremenko, since I listen to thoir SuperDataScience podcast (which I love) and I have been enrolled in one of their courses previously and they were really good (in my opinion), but this one feels so shallow, don't get me wrong, it's explained in a way many people can understand without a super background on mathematics or computer science, but it lacks on awe-inspiring content. The paper was also really well written, not to technical not too casual with some examples that anyone can understand.
+
+**Link to Work / References** :
+
+- [AI Online Course, Chapter 3,4](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [Reinforcement Learning I: Introduction. Sutton, R., Barto, A.](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.32.7692 "Site where you can download or visualize the paper")
