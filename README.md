@@ -92,3 +92,15 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [AI Online Course, Chapter 3,4](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [Reinforcement Learning I: Introduction. Sutton, R., Barto, A.](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.32.7692 "Site where you can download or visualize the paper")
+
+## Day 8, Jan 8th 2020:
+
+**Today's Progress**: Worked a lot on trial and error, simulations and mostly exploration of the tools Signavio, BIMP and Simod, in order to comprehend what the programs are doing and analizing the data outputs by the given inputs.
+
+**Thoughts**: Business Process Modeling is a hot topic in Europe, mostly in research universities and being part of many PhD students, I'm currently working with one PhD professor and indirectly with other 3 located in different parts of the world, so this is going to be very enriched learning.
+
+**Link to Work / References** :
+
+- [BPM tool Signavio](https://www.signavio.com/ "Free for academics")
+- [Simulation tool BIMP](http://bimp.cs.ut.ee/ "Free to use")
+- [Simod repository](https://github.com/AdaptiveBProcess/Simod "Jupyter notebook Simod")
