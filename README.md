@@ -104,3 +104,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [BPM tool Signavio](https://www.signavio.com/ "Free for academics")
 - [Simulation tool BIMP](http://bimp.cs.ut.ee/ "Free to use")
 - [Simod repository](https://github.com/AdaptiveBProcess/Simod "Jupyter notebook Simod")
+
+## Day 9, Jan 9th 2020:
+
+**Today's Progress**: Worked with my professor from research developing a mxml to xes parser in Java (repo will be available tomorrow) in order to start creating 'pipelines' from Signavio to Simod and verifying everything works correctly to start adding functionalities to Simod in a forked repository.
+
+**Thoughts**: Didn't remember how powerfull is java, specially on older formats of data, we worked with .jar libraries that helped us a lot, but finding them was kinda tricky, since we had to "scrap" a little bit into OpenXES and other websites to get the right compatible library.
+
+**Link to Work / References** :
+
+- [Simod repository](https://github.com/AdaptiveBProcess/Simod "Jupyter notebook Simod")
