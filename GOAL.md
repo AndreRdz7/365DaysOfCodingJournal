@@ -9,10 +9,11 @@ describe the projects I'm working on or I will work on.
 ## To Learn
 
 - C++ for coding interviews, AI and game development
-- Python for ML/AI
-- React (improve)
+- Machine Learning and Artificial Intelligence from the root (concepts) to implementation (libraries/kits/code)
+- Python for ML/AI and Data Science, improving current skills and learning new ones, also the usage of Jupyter Notebook
+- React (improve) to create awesome and interactive interfaces
 - UX/UI with accessibility
-- Node.js (improve) for BackEnd
+- Node.js (improve) for BackEnd development
 - GraphQL
 - Azure Cloud
 - Salesforce Developer
@@ -23,5 +24,8 @@ describe the projects I'm working on or I will work on.
 ## Learning
 
 - C++ std library
+- Q-Learning in Python
 
 ## Projects
+
+- Simod functionality expansion
