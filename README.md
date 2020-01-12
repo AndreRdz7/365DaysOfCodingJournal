@@ -118,9 +118,9 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 ## Day 10, Jan 10th 2020:
 
-**Today's Progress**: .
+**Today's Progress**: Worked many hours trying to figure out how the notebook works and find why it does not work with other inputs rather than the provided. At the end, slight modifications where done and from now on, my forked repository will be the one I will be working on.
 
-**Thoughts**: .
+**Thoughts**: Reading other people's code (even Python) can be tricky if not documented properly, my goal is to document any progress I do and eventually, document the previous work done.
 
 **Link to Work / References** :
 
