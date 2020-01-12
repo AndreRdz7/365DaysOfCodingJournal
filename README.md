@@ -115,3 +115,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [AI Online Course, Chapter 6](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [Simod repository](https://github.com/AdaptiveBProcess/Simod "Jupyter notebook Simod")
+
+## Day 10, Jan 10th 2020:
+
+**Today's Progress**: .
+
+**Thoughts**: .
+
+**Link to Work / References** :
+
+- [Simod repository](https://github.com/AndreRdz7/Simod.| "Jupyter notebook Simod")
+- [MXML to XES converter](https://github.com/AndreRdz7/MXMLtoXES/tree/master "IntelliJ IDEA Java Project")
