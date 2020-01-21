@@ -126,3 +126,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod repository](https://github.com/AndreRdz7/Simod.| "Jupyter notebook Simod")
 - [MXML to XES converter](https://github.com/AndreRdz7/MXMLtoXES/tree/master "IntelliJ IDEA Java Project")
+
+## Day 11, Jan 11th 2020:
+
+**Today's Progress**: Watched many hours of tutorials on Adobe XD to improve my prototyping/sketching and UI/UX notions on web.
+
+**Thoughts**: It's a super nice to use tool, It's a shame it is not available for Ubuntu (my main OS), fortunately I have a Windows laptop so I can learn it and use it. It really feels like a drag and drop website builder, wish I had learnt this before.
+
+**Link to Work / References** :
+
+- [User Experience Design Essentials Course, Chapter 1-6](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
+
