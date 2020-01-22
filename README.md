@@ -137,3 +137,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [User Experience Design Essentials Course, Chapter 1-6](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
 
+## Day 12, Jan 12th 2020:
+
+**Today's Progress**: Operator overloading theory,overloading asingment operator (copy and move), overloading operators as member functions, overloading operators as global functions and overloading the stream insertion and extraction operators.
+
+**Thoughts**: Wow, I think this is some next level C++, it's actually not a thing that one will normally use in a program, it has specific use cases and definetly comes in worthy in large scale projects. I find very interesting to overload "native" functionalities from a language to do whatever you want to do (as long as it keeps it's arity).
+
+**Link to Work / References** :
+
+- [C++ Online Course, Chapter 14](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
+
