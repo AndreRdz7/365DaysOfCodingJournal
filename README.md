@@ -147,3 +147,12 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [C++ Online Course, Chapter 14](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 
+## Day 13, Jan 13th 2020:
+
+**Today's Progress**: Inheritance concept, terminology and notation, composition, deriving classes, protected members and class access, constructors and destructors (super constructors).
+
+**Thoughts**: This looks like some serious OOP advantage over common procedural programming. I'm currently thinking of learning some Qt for C++ UI and build something great that uses everything I've learnt so far, but, I want to finish this course first and then learn the basics of Qt while building something nice.
+
+**Link to Work / References** :
+
+- [C++ Online Course, Chapter 15](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
