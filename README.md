@@ -166,3 +166,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [C++ Online Course, Chapter 15](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
+
+## Day 15, Jan 15th 2020:
+
+**Today's Progress**: Back to AI, onto Deep Q-Learning, starting the process of the environment design, using kivy for the UI, defining initial states on the goal from the starting point. The environment consist of a car trying to reach a corner startring from the opposite corner, the 'lane' consists of a non-straigth path sorrounded by sand, where it 'slows' the car and gives penalty to the AI. The car has angle and rotation properties to properly turn to reach the goal, it has 3 sensors, that detects objects in the front, the left and the right, as well as 3 signals that are triggered by them. It also has many functions that update the movility given the last state and the environment, choosing the best option given by the AI. I penalyzes hitting on walls (edge of map) and it's countered by the sensors and updating the direction of the car (since it can only go forward). The penalty of hitting walls and drive away from the wall are the heaviest, while doing some progress it's a tenth of positive reward equivalent to the worst penalty. The main libraries for the AI is (obviously) numpy and pytorch. The Network class inherits from the pytorch Neural Network implementation, the input layer will be determined by the input_size parameter, as well ad the output neurons determined by the nb_action parameter, the full connections is the pytorch NN are fully connected by the Linear constructor giving the output of a Neural Network input(5) -> 30 hidden -> 30 hidden -> output(3). The forward function (for forward propagation) works on the state given by the environment, by using a rectifier function (RELU) to activate the neurons on the first hidden layer and getting the q values from the second hidden layer with the previous activations. Last but not least, the experience replay implemented as a class, constructed by the last 100 transitions memory space and the memory (list of events).
+
+**Thoughts**: A 'environmentless' model will make the car act like a mad insect, just roaming around without directions (except from avoid the borders), it is reduced to a mere random movement. Libraries such as TensorFlow and PyTorch makes AI so much easier to implement, just import it, create it and use it.
+
+**Link to Work / References** :
+
+- [AI Online Course, Chapter 7](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
