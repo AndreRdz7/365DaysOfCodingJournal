@@ -156,3 +156,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [C++ Online Course, Chapter 15](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
+
+## Day 14, Jan 14th 2020:
+
+**Today's Progress**: Keeping up with inheritance...passing arguments to base class constructos, copy/move constructos and operator '=' with derived classes, redefinig bases class methods (kinda like 'overloading', where the same name does other thing), multiple inheritance (just scratched the surface of the concept, no work done on this secction).
+
+**Thoughts**: Multiple inheritance looks amazing, I'm eager to learn more aboout it, I'm honestly dissapointed the course does not cover it well, but at least it developed curiosity in my to learn more about that topic, seems more tedious (higher levels of abstraction, maybe things will be way too general to make it work) than complex to implement it.
+
+**Link to Work / References** :
+
+- [C++ Online Course, Chapter 15](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
