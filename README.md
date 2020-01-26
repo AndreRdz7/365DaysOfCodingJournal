@@ -186,3 +186,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [AI Online Course, Chapter 7](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+
+## Day 17, Jan 17th 2020:
+
+**Today's Progress**: Made a MXML parser to CSV in order to make qualitative analysis on datasets related to our investigation. Using Pandas to manipulate the CSV and get usefult information.
+
+**Thoughts**: We are going a bit slow on the investigation process, nonetheless we are very motivated to improve and get good results as an extent of that. I'm very excited of what I'm learning, the more days passes I feel more and more comfortable of what I'm doing and its solely because I understanding it further and further.
+
+**Link to Work / References** :
+
+- [MXML to CSV](https://github.com/AndreRdz7/MXMLtoCSV "IntelliJ IDEA Project")
