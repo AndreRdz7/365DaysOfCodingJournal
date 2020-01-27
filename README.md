@@ -196,3 +196,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [MXML to CSV](https://github.com/AndreRdz7/MXMLtoCSV "IntelliJ IDEA Project")
+
+## Day 18, Jan 18th 2020:
+
+**Today's Progress**: Update function calculated using the last reward and the new signal to process as parameteres, the first thing to do is setting the new action to perform and add it to the memory with the push function. Then the action is selected given the new stage and if our memory storage has 100 or more memories, we trigger the learn function on the batches returned, then the last action is updated with the currect action, as well as the state, and the reward; the reward window is extended with the last reward, if the length exceeds 1000, the oldest result is deleted and finally returns the action so the program can perform it and repeat the process again. The score is calculated by calculating the mean of the reward window. To save the progress of the AI a save and load functions are implemented using PyTorch save dictionary. Read the theory of dynamic programming of Richard Bellman but did not understandit at 100%, there was a few math notation and concepts I'm totally unrelated to and had a though time actually, maybe later in the year, with more knowledge, I can better understand it.
+
+**Thoughts**: Oh yes, a fully functional AI model with graphic representation, very happy for it! nevertheless I did not make it with my own hands, I'm planning to expand it and make it "smarter" in with way more sensors and variables, perhaps even speed, acceleration and many other stuff. I love Formula 1, so making an AI capable of achieve the best track path on the 22 circuits of this year's season will be a dream come true.
+
+**Link to Work / References** :
+
+- [AI Online Course, Chapter 7](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [The theory of dynamic programming](http://smo.sogang.ac.kr/doc/bellman.pdf "")
