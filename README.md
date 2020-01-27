@@ -258,3 +258,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Notebook](https://github.com/AndreRdz7/CalendarVisualization "Jupyter Notebook")
 - [Fundamentals of Business Process Management](https://www.springer.com/gp/book/9783662565087 "Buy the book")
+
+## Day 24, Jan 24th 2020:
+
+**Today's Progress**: Dynamic polymorphism, Base class pointers, virtual functions and destructors, override specifier, Base class references and Abstract classes as Interfaces
+
+**Thoughts**: The big concept of static vs dynamic I had in C++ was memory allocation for storage, never imagined that could be applied to so many things, ranging from constructors and destructors and virtual functions. I'm awed of the versatillity and power C++ provides, what most people say is that is super hard typed, memory picky, strict, hard to handle, obsolete and way less useful than it used to be (well, this could be true tho), but I think is that maybe they are missing a lot, I'm getting **_way_** behind my goal in LeetCode, but I will definetly solve as much problems as humanly possible with all my other stuff only in C++.
+
+**Link to Work / References** :
+
+- [C++ Online Course, Chapter 16](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
