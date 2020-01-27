@@ -218,3 +218,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [User Experience Design Essentials Course, Chapter 7-9](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
 
+## Day 20, Jan 20th 2020:
+
+**Today's Progress**: Back to the research, I was working hard on undestand concepts and finally came with a new updated parser that solved many problems we did not realize were happening, from MXML to XES.
+
+**Thoughts**: A step up in the research, since we are trying to find an algorith to get the most accurate calendars of work.
+
+**Link to Work / References** :
+
+- [MXMLtoXES](https://github.com/AndreRdz7/MXMLtoXES "Updated")
+
+
