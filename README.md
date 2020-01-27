@@ -207,3 +207,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [AI Online Course, Chapter 7](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [The theory of dynamic programming](http://smo.sogang.ac.kr/doc/bellman.pdf "")
+
+## Day 19, Jan 19th 2020:
+
+**Today's Progress**: Back to one of my favourite things, UX/UI. A basic canvas for mocking on mobile and how to use my smartphone to actually test it and see how it responds. Some more Adobe XD features.
+
+**Thoughts**: Not really much today, been a little bit tired and unmotivated, dunno why actually.
+
+**Link to Work / References** :
+
+- [User Experience Design Essentials Course, Chapter 7-9](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
+
