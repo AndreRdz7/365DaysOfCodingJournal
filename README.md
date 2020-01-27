@@ -228,4 +228,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [MXMLtoXES](https://github.com/AndreRdz7/MXMLtoXES "Updated")
 
+## Day 21, Jan 21th 2020:
+
+**Today's Progress**: More from UX/UI, now with colors and text/fonts, for better presentation, good contrasts, even gradients, not much theory of colors or something like that, was pretty much an Adobe XD tutorial on colors, kinda dissapointed, the best part was the realistic buttons. New courses from my semester! I'll learn advanced databases, intelligent systems, compilers and computer vision, as well as keep making progress on research.
+
+**Thoughts**: Need to go back to GraphQL and C++, finish them up as well as this and focus on AI and ML. Very happy and excited about the new semester, looks awesome, and I will commit to it a 100%, will be my best semester.
+
+**Link to Work / References** :
+
+- [User Experience Design Essentials Course, Chapter 10-11](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
 
