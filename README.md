@@ -230,11 +230,11 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 ## Day 21, Jan 21th 2020:
 
-**Today's Progress**: More from UX/UI, now with colors and text/fonts, for better presentation, good contrasts, even gradients, not much theory of colors or something like that, was pretty much an Adobe XD tutorial on colors, kinda dissapointed, the best part was the realistic buttons. New courses from my semester! I'll learn advanced databases, intelligent systems, compilers and computer vision, as well as keep making progress on research.
+**Today's Progress**: Wanted a break from everything, so I searched in my Learnathon YouTube playlist something interesting and fount a video of Pug, wich is a HTML preprocessor in Node.js that basically turns HTML into a programming language with loops, conditionals, cases, mixins, etc. 
 
-**Thoughts**: Need to go back to GraphQL and C++, finish them up as well as this and focus on AI and ML. Very happy and excited about the new semester, looks awesome, and I will commit to it a 100%, will be my best semester.
+**Thoughts**: Very interesting, highly recommend it to watch it at least for curiosity, just to know there is something out there called Pug that makes HTML more enjoyable.
 
 **Link to Work / References** :
 
-- [User Experience Design Essentials Course, Chapter 10-11](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
+- [Pug Template Engine](https://www.youtube.com/watch?v=kt3cEjjkCZA&list=PLfFNwm8Ee2NKmUaWjo0SSYsNjqMAUP6QQ&index=24&t=0s "freeCodeCamp.org YouTube video")
 
