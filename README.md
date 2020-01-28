@@ -289,3 +289,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
+
+## Day 27, Jan 27th 2020:
+
+**Today's Progress**: Adobe XD functionalities like drawing custom icons (ideal for apps), stokes and lines, pen tool. Tips on how to work with Adobe Illustrator and InDesign alongside XD.
+
+**Thoughts**: Feels werid-ish, not quite that happy with today's work, since I don't have Illustrator nor InDesign and as a Software Engineer my main task is to plan, code and execute, my graphic design habilities are far beneath the siol, so this came weird for me, I know some UI needs to bee done with more than CSS and Google Images, but this is really not for me.
+
+**Link to Work / References** :
+
+- [User Experience Design Essentials Course, Chapter 12-14](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
+
