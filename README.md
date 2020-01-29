@@ -300,3 +300,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [User Experience Design Essentials Course, Chapter 12-14](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
 
+## Day 28, Jan 28th 2020:
+
+**Today's Progress**: A lot of discussion with my professor on where we should take the research, we are taking the right path and going on with a nice pace, our aim is to publish a paper for the BPM 2020 in Sevilla, Spain, with me as a coauthor for the paper. And with me as the lead and only author for a demo paper on my work to attend and do a speech at the same conference. Another options we are aiming are ICPM in Italy, CIC anc MICAI in Mexico. Updated the previous notebook to include hours in the schedule tracker.
+
+**Thoughts**: Can't be more excited for my progress, I will put a 200% more effort to make thinks right.
+
+**Link to Work / References** :
+
+- [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
+
