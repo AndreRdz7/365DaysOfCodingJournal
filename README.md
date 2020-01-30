@@ -310,3 +310,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 
+## Day 28, Jan 28th 2020:
+
+**Today's Progress**: More progress on my applied research, on methods of calculating effective working hours when a log is given. More details will be displayed on the paper I will be co-author, for now, I'll just explain in a nutshell the progress.
+
+**Thoughts**: We are about 1 and a half month to the deadline of the paper submission, we are very excited for our progress.
+
+**Link to Work / References** :
+
+- [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
+
+
