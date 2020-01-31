@@ -32,6 +32,10 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 
 - Quantitative Process Analysis on Business Process Models
 
+## Miscellaneous
+
+- CodeWars Kyo 7
+
 ---
 
 ## Projects/Achievements to make
