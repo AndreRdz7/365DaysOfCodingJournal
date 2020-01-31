@@ -310,11 +310,21 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 
-## Day 28, Jan 28th 2020:
+## Day 29, Jan 29th 2020:
 
 **Today's Progress**: More progress on my applied research, on methods of calculating effective working hours when a log is given. More details will be displayed on the paper I will be co-author, for now, I'll just explain in a nutshell the progress.
 
 **Thoughts**: We are about 1 and a half month to the deadline of the paper submission, we are very excited for our progress.
+
+**Link to Work / References** :
+
+- [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
+
+## Day 30, Jan 30th 2020:
+
+**Today's Progress**: More progress on my applied research, using a combined data of the event types of starting and completing tasks, an aproximate schedule is set for the minimum hour in the log and the maximum hour in the log, and their respective day, no assumptions are made that the resources work con continued days and at the same hours, but most of the software for simulation, including Simod (what we will upgrade) has this limitations of starting and ending day and starting and ending hour, there cannot be flexible schedules like Monday 8-10, Wednesday 8-12 and Friday 9-13; we understand the mayority of the industry runs fixed schedules, specially the ones that have logs, so for now, we will focus on fixed schedules but we leave the door open for flexible schedules.
+
+**Thoughts**: The progress that we had was... not what actually was needed, the actual logs does not contais a json object we were trying to insert on the XES file, so another approach needs to be done.
 
 **Link to Work / References** :
 
