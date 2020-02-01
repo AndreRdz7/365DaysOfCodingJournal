@@ -331,4 +331,12 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 - [Code Wars](https://www.codewars.com/)
 
+## Day 31, Jan 31th 2020:
 
+**Today's Progress**: I discussed with my professor and we decided we need to upgrade our simulation tools, we kindly asked Abel (BIMP creator) to make some updates on his software, while he decides to update it or not, we are contemplating to use an open source one and have another researcher to upgrade it to our needs. Some extensions on Simod forked repository, for calendar creations, not only default and 24/7, work still in progress
+
+**Thoughts**: Going strong, one and a half month to go. At this pace we will make it to BPM 2020. I'm really happy
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
