@@ -175,7 +175,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 **Link to Work / References** :
 
-- [AI Online Course, Chapter 7](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [AI Online Course, Chapter 7](https://www.udemy.com/course/artificial-intelligence-az/ "Udemy paid course")
 
 ## Day 16, Jan 16th 2020:
 
@@ -185,7 +185,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 **Link to Work / References** :
 
-- [AI Online Course, Chapter 7](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [AI Online Course, Chapter 7](https://www.udemy.com/course/artificial-intelligence-az/ "Udemy paid course")
 
 ## Day 17, Jan 17th 2020:
 
@@ -205,7 +205,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 **Link to Work / References** :
 
-- [AI Online Course, Chapter 7](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [AI Online Course, Chapter 7](https://www.udemy.com/course/artificial-intelligence-az/ "Udemy paid course")
 - [The theory of dynamic programming](http://smo.sogang.ac.kr/doc/bellman.pdf "")
 
 ## Day 19, Jan 19th 2020:
@@ -333,10 +333,20 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 ## Day 31, Jan 31th 2020:
 
-**Today's Progress**: I discussed with my professor and we decided we need to upgrade our simulation tools, we kindly asked Abel (BIMP creator) to make some updates on his software, while he decides to update it or not, we are contemplating to use an open source one and have another researcher to upgrade it to our needs. Some extensions on Simod forked repository, for calendar creations, not only default and 24/7, work still in progress
+**Today's Progress**: I discussed with my professor and we decided we need to upgrade our simulation tools, we kindly asked Abel (BIMP creator) to make some updates on his software, while he decides to update it or not, we are contemplating to use an open source one and have another researcher to upgrade it to our needs. Some extensions on Simod forked repository, for calendar creations, not only default and 24/7, work still in progress.
 
-**Thoughts**: Going strong, one and a half month to go. At this pace we will make it to BPM 2020. I'm really happy
+**Thoughts**: Going strong, one and a half month to go. At this pace we will make it to BPM 2020. I'm really happy.
 
 **Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 32, Feb 1st 2020:
+
+**Today's Progress**: Finished the Deep Convolutional Q-Learning tutorial to make an AI play Doom, it's very interesting how 'easy' is to make an AI to 'see' and learn from it, since I will be taking a Computer Vision course at the university this semester, I'm planning to make something with AI for the final project. Startes the A3C intuition, the best *yet* AI algorithm provided by Google.
+
+**Thoughts**: AI is such a fantastic topic, my research is focused on Data Mining and Data Visualization (moreless), so I'm planning to maybe go big, further and beyond and trying to integrate some algorithms to improve the dathered data.
+
+**Link to Work / References** :
+
+- [AI Online Course, Chapter 11-13](https://www.udemy.com/course/artificial-intelligence-az/ "Udemy paid course")
