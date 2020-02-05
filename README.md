@@ -353,7 +353,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 ## Day 33, Feb 2nd 2020:
 
-**Today's Progress**: Busy day, but I managed to learn/code for +1hr, sticking to my goals, back to GraphQL, onto mutations and proper folder structure
+**Today's Progress**: Busy day, but I managed to learn/code for +1hr, sticking to my goals, back to GraphQL, onto mutations and proper folder structure.
 
 **Thoughts**: Without messing with the database, GQL looks pretty easy (at least for now, I know subscriptions aka sockets are one tricky boi to implement), I'm really happy that I made progress even with a day full of chores and responsabilities.
 
@@ -361,3 +361,15 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [GraphQL Online Course, Chapter 3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
+
+## Day 34, Feb 3rd 2020:
+
+**Today's Progress**: Consistency is key, that's why I managed to organize myself and finish the GraphQL basics, finishing the mutations with the updates and the subscriptions (sockets) that turned out to be quite easier to implement in the backend than in the frontend (previous experience).
+
+**Thoughts**: Really happy about the progress, I'll continue on the weekend, since I need urgently to work on React on the Logic1 part and my research. Been way more tired lately, I'm starting to get worried.
+
+**Link to Work / References** :
+
+- [GraphQL Online Course, Chapter 3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
+
