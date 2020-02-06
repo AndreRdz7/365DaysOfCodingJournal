@@ -373,3 +373,23 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [GraphQL Online Course, Chapter 3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
 
+## Day 35, Feb 4th 2020:
+
+**Today's Progress**: Worked in the Simod notebook, specifically on the calendar creation, where only default values were available (24/7 & 9to5MonToFri). A lot of trial and error since it was not documented and the names are not quite as descriptive, specially the widget part.
+
+**Thoughts**: Struggled a lot, but, was worth it, I'm starting to feel this project is mine (of course, in a non possesive way, I know it is not my work, but I really like being a part of).
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 36, Feb 5th 2020:
+
+**Today's Progress**: Apparently what I did was wrong, well, if not wrong, was unnecesary for the moment, I misunderstood a bit my professor, but, the project is not broken, just "wasted" a weekend. Worked with Scylla, a simulator (replacing BIMP in our workflow) to check the calendars, comparing the default (9 to 5, Monday to Friday) with a custom variation, turns out, the notebook (BPM Calendar) works as spected, so It will be integrated to the Simod notebook as a function, the thing is. 
+
+**Thoughts**: Struggled a lot, but, was worth it, I'm starting to feel this project is mine (of course, in a non possesive way, I know it is not my work, but I really like being a part of).
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+- [Scylla, BPMN Process Simulator](https://github.com/bptlab/scylla)
