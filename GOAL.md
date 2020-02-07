@@ -9,6 +9,7 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 - C++ for coding interviews, AI and game development
 - Machine Learning and Artificial Intelligence from the root (concepts) to implementation (libraries/kits/code)
 - Python for ML/AI and Data Science, improving current skills and learning new ones, also the usage of Jupyter Notebook
+- Computer Vision
 - React (improve) to create awesome and interactive interfaces
 - UX/UI with accessibility
 - Node.js (improve) for BackEnd development
