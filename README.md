@@ -393,3 +393,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 - [Scylla, BPMN Process Simulator](https://github.com/bptlab/scylla)
+
+## Day 37, Feb 6th 2020:
+
+**Today's Progress**: Great progress made in the research, my output was as espected. The purpose of the BPM Calendar notebook is finally reached, retrieving a Calendar, it's next iteration will be getting the amount of resources. Started the XML creator, given the output of the previous notebook, it will create an XML configuration file for Scylla, and repeat the simulation in a pipeline, were we will determine the actual calendar of the resources.
+
+**Thoughts**: Felt great it worked, needs refactoring, cleaning and documentation, but I'm really happy nevertheless.
+
+**Link to Work / References** :
+
+- [XML Creator](https://github.com/AndreRdz7/XML_Configuration_Creator)
+- [Scylla, BPMN Process Simulator](https://github.com/bptlab/scylla)
