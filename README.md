@@ -404,3 +404,15 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [XML Creator](https://github.com/AndreRdz7/XML_Configuration_Creator)
 - [Scylla, BPMN Process Simulator](https://github.com/bptlab/scylla)
+
+## Day 38, Feb 7th 2020:
+
+**Today's Progress**: Finished my winter intensive courses in college, I'm feeling **really** tired, dunno why, but somehow managed to do 1+ hr on this challenge on upgrading the GraphQL environment with Prisma, a DB mounted on Heroku and using Docker.
+
+**Thoughts**: It is great how many technologies are integrated in a such a simple project.
+
+**Link to Work / References** :
+
+
+- [GraphQL Online Course, Chapter 5](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [GitHub Repo](https://github.com/AndreRdz7/GraphQL_Prisma "Code from the Course")
