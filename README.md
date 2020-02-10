@@ -413,6 +413,25 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 **Link to Work / References** :
 
-
 - [GraphQL Online Course, Chapter 5](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraphQL_Prisma "Code from the Course")
+
+## Day 39, Feb 8th 2020:
+
+**Today's Progress**: Finished the calendar functionality on the BPM Calendar notebook, a full month of work in applied research, down to few lines of code. Upgraded de XML Creator but I can't get it to work properly.
+
+**Thoughts**: Many many hours of work reduced to a single small notebook, feeling proud of me and my professor.
+
+**Link to Work / References** :
+
+- [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
+
+## Day 10, Feb 9th 2020:
+
+**Today's Progress**: Struggled a lot trying to make my work done on Logic1 responsive, I don't understand why some pages are fully responsive and others simply look awful, I need help from my colleague [JC](https://github.com/JCVelazco "GH Profile").
+
+**Thoughts**: Feels bad to not improve my previous work, honestly.
+
+**Link to Work / References** :
+
+- No repo available (private)
