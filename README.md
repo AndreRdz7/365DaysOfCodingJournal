@@ -426,7 +426,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 
-## Day 10, Feb 9th 2020:
+## Day 40, Feb 9th 2020:
 
 **Today's Progress**: Struggled a lot trying to make my work done on Logic1 responsive, I don't understand why some pages are fully responsive and others simply look awful, I need help from my colleague [JC](https://github.com/JCVelazco "GH Profile").
 
@@ -435,3 +435,15 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - No repo available (private)
+
+## Day 41, Feb 10th 2020:
+
+**Today's Progress**: Finished XML Creator for Scylla configuration, my professor is very satisfied with my work, and I'm very proud of it, I have put onto it many many hours and the reward is actually tangible. Next step will be to make it a pipeline and decide the direction of the research paper based on the 'recently' published (similar topic) from belgium researchers. Finished some little topics on Prisma on my journy on GraphQL, next step will be Authentication. New semester beggins, with Compilers and Intelligent Systems looking very promising.
+
+**Thoughts**: Had some anxiety lapses on December and January due to the fact I reached the final round on Microsft for intern and did not get an offer, I knew since then that I needed to practice and study more, nevertheless, I feel less and less motivated everyday to do Interview Problems, even tho landing a job on Microsoft is what I want the most right now. On a happier topic, I'm feeling very proud of myself for the reasearch progress.
+
+**Link to Work / References** :
+
+- [XML Creator](https://github.com/AndreRdz7/XML_Configuration_Creator)
+- [GraphQL Online Course, Chapter 5](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [GitHub Repo](https://github.com/AndreRdz7/GraphQL_Prisma "Code from the Course")
