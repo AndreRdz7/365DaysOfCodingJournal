@@ -447,3 +447,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [XML Creator](https://github.com/AndreRdz7/XML_Configuration_Creator)
 - [GraphQL Online Course, Chapter 5](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraphQL_Prisma "Code from the Course")
+
+## Day 42, Feb 11th 2020:
+
+**Today's Progress**: More new classes, Computer Vision: learnt some theory behind what it does and the building blocks of CV, on Advanced Databases, by my own, watched a long video about SQL queries, to refresh my memory.
+
+**Thoughts**: More promising courses, I have high hopes for this semester, I will deliver my best at every class.
+
+**Link to Work / References** :
+
+- [SQL Tutorial](https://youtu.be/HXV3zeQKqGY  "Starting at 1:15:50")
