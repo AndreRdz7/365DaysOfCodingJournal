@@ -32,6 +32,7 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 ## Learnt
 
 - Quantitative Process Analysis on Business Process Models
+- UX/UI prototyping in Adobe XD
 
 ## Miscellaneous
 
@@ -47,3 +48,4 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 ## Projects/Achievements done
 
 - MXML parsers to XES/CSV to further analyze on other places such as Simod(XES) or make data exploration with Pandas(CSV)
+- XML writter for simulation configuration for the Scylla simulator
