@@ -457,3 +457,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [SQL Tutorial](https://youtu.be/HXV3zeQKqGY  "Starting at 1:15:50")
+
+## Day 42, Feb 12th 2020:
+
+**Today's Progress**: New analysis on the BPM Calendar notebook, on a new .csv file from a real source (not simulated), however, the output was not as spected, the amount of resources was way too high and the data was so messy, we need to do first a role discovery based on the Simod notebook to further clean the data. Added to the XML Creator a file writing functionality.
+
+**Thoughts**: No BPM Sevilla, Spain, sinche Marlon will be part of the chair, we cannot send our paper ther, however, we will send it to a magazine, wich (as stated by my professor) will be much better for him and for me, so no more deadline on March 26th. I will still output the most out of me.
+
+**Link to Work / References** :
+
+- [XML Creator](https://github.com/AndreRdz7/XML_Configuration_Creator)
+- [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
