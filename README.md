@@ -458,7 +458,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [SQL Tutorial](https://youtu.be/HXV3zeQKqGY  "Starting at 1:15:50")
 
-## Day 42, Feb 12th 2020:
+## Day 43, Feb 12th 2020:
 
 **Today's Progress**: New analysis on the BPM Calendar notebook, on a new .csv file from a real source (not simulated), however, the output was not as spected, the amount of resources was way too high and the data was so messy, we need to do first a role discovery based on the Simod notebook to further clean the data. Added to the XML Creator a file writing functionality.
 
@@ -467,4 +467,24 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [XML Creator](https://github.com/AndreRdz7/XML_Configuration_Creator)
+- [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
+
+## Day 44, Feb 13th 2020:
+
+**Today's Progress**: More compilers theory, of how the general pipeline works, some topics on lexical analysis and semantic analysis. A review of Chomsky hierarchy and formal languages. More ML fundamentals, on the features classification (quantitative and qualitative), and some golden rules like: "Do not modify your data to make it fit for an algorithm and learn to work with incomplete data". How supervised algorithms are validated with techniques like k-fold cross-validation and random cross-validation.
+
+**Thoughts**: I know I've been in this semester for a week, but it looks the best so far, I'm really really happy.
+
+**Link to Work / References** :
+
+- No worklink available
+
+## Day 45, Feb 14th 2020:
+
+**Today's Progress**: More progress on discovering how to improve Simod, now we know the mid-output part of the process, it will be mixed with my BPM Calendar notebook and the feature I added to Simod to further create the calendars by Role (not resource) and go further with our research.
+
+**Thoughts**: I spent many hours into it, because the code that simod.py uses is spread across many many files and it's not very well documented, sadly.
+
+**Link to Work / References** :
+
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
