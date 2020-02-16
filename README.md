@@ -488,3 +488,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
+
+## Day 46, Feb 15th 2020:
+
+**Today's Progress**: Learn the basics of Matplotlib file displaying, as well as OpenCV image read concepts, and some drawing functions.
+
+**Thoughts**: I'm super excited about my CV class, so I decided to take a little step forward to anticipate some of the usage of OpenCV with Python, since my professor will be using MATLAB.
+
+**Link to Work / References** :
+
+- [OpenCV Online Course, Chapters 1-3](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/ "Udemy paid course")
+- [OpenCV Repo](https://github.com/AndreRdz7/OpenCV "Anaconda/Jupyter required")
