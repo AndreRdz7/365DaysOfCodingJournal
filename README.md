@@ -499,3 +499,34 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [OpenCV Online Course, Chapters 1-3](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/ "Udemy paid course")
 - [OpenCV Repo](https://github.com/AndreRdz7/OpenCV "Anaconda/Jupyter required")
+
+## Day 47, Feb 16th 2020:
+
+**Today's Progress**: Since we are competing with another work, we decided to make a deep insight on our competence, so I read the article published by Elsevier on ScienceDirect. Apparently, what we are trying to do is moreless already done by them, but not exactly, and it's performed in R, and it's virtually no documented at all, not even a Readme, so it was really though figuring out what the code was doing (specially because I'm not quite familiar with R, just a few ML examples on it).
+
+**Thoughts**: The expectations are high, and our competence is fierce, the paper was published last year but not that long ago, the code hasn't been updated since "the last" commit that it is actually named 'initial commit', so probably it will be abandoned, this gives us a window to improve our research and perform better with automatation and a GUI.
+
+**Link to Work / References** :
+
+- [ScienceDirect Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437919305150 "You need to pay or be an academic in order to read it")
+- [Paper's Code](https://github.com/nielsmartin/resource_availability_calendars)
+
+## Day 48, Feb 17th 2020:
+
+**Today's Progress**: Upgraded the XML writter in order to parse Simod's output on calendars into XML for Scylla, not that hard of a task but rather a little bit of time consuming, fun nonetheless.
+
+**Thoughts**: I know this work will be 'useless' as soon as my colleague [Antonio Sánchez](https://github.com/ansacaa "GH Profile") finishes the new, upgraded and better version of scylla, but in python (not an executable jar file), but this will help me to improve my skills and code better and faster once the new versions of the simulator and splitminer are released.
+
+**Link to Work / References** :
+
+- [XML Creator](https://github.com/AndreRdz7/XML_Configuration_Creator)
+
+## Day 49, Feb 18th 2020:
+
+**Today's Progress**: Long chapter reading on database transactions theory, it was a lot of content, I learn't a lot of things like issues that can occurr on concurrent access on databases, how to handle them and the event log completness, recoverability, serializability and what information should include.
+
+**Thoughts**: Such an interesting topic, and I think it should be included in basic DB courses, because normally, real world databases will have concurrency.
+
+**Link to Work / References** :
+
+- [Fundamentals of Database Systems, Elmasri](http://cis.csuohio.edu/~sschung/cis612/Elmasri_6e_Ch21_Transaction.pdf "Chapter 21")
