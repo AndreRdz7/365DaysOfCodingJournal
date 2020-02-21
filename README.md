@@ -530,3 +530,23 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [Fundamentals of Database Systems, Elmasri](http://cis.csuohio.edu/~sschung/cis612/Elmasri_6e_Ch21_Transaction.pdf "Chapter 21")
+
+## Day 50, Feb 19th 2020:
+
+**Today's Progress**: Spent a lot of time doing work on the research, by mkaing the notebook better on how Simod works and adding a threshold support value to the schedules to 'mark' them correct. Tried to integrate Scylla to Simod, but the reference of Simo 1.0.0 is even less documented, so many many things were black boxes and configurations varied a lot between versions.
+
+**Thoughts**: Uhh, kinda stuck right now, I actually don't know what to do to fix this, I'll ask my professor.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 51, Feb 20th 2020:
+
+**Today's Progress**: Exercises on regular languages and regular expressions, a little bit of a review from 2 semesters ago. Talked with my professor on what to do now that I reached a wall, so we decided to change the scylla jar we are using to a GUI-less one, since I have the configuration xml writer there should be no problem to execute it, I just need to get the bpmn file from splitminer on Production.xes and figure out the simulation file.
+
+**Thoughts**: Many things to do and don't know where to start, but I better start it now if I want to finishit for Monday.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
