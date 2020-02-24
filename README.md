@@ -550,3 +550,23 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 52, Feb 21th 2020:
+
+**Today's Progress**: More computer vision theory and a little bit of practice on convolution operations, the downside of my course is that the professor uses Matlab, a non production/industry environment, so I use OpenCV and I need to constantly look for code equivalences.
+
+**Thoughts**: Very lazy day actually, but managed to learn some things, repository will be available after deadline for homework.
+
+**Link to Work / References** :
+
+- No Repo Available
+
+## Day 53, Feb 22th 2020:
+
+**Today's Progress**: Started (and semi-finished) my Intelligent Systems homework, where I need to analyze text and add features using [MeaningCloud](https://www.meaningcloud.com/) and [Parallel Dots](https://www.paralleldots.com/) APIs. It was really fun and actually easy to do, just get the key, read the csv and perform the cols iterativeley. The big downsides were the amount of calls and the frequency of calls, Parallel Dots only allows 1000 calls a day within 1 sec each for the free tier, and MeaningCloud 20000 monthly with .5 seconds interval, and for sentiment analysis it uses 2 calls to get the response, so I spent a lot of it, If more work is needed, I may be use another account since I can't afford to pay 80-100 dollars for a homework.
+
+**Thoughts**: Super fun to perform, I enjoyed a lot, once the deadline is met, the repository will be available (without the dataset).
+
+**Link to Work / References** :
+
+- No Repo Available
