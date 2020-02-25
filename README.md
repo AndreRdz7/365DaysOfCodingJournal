@@ -570,3 +570,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - No Repo Available
+
+## Day 54, Feb 23th 2020:
+
+**Today's Progress**: Finished the 'responsiveness' on the Logic1CS webpage I was working on, apparently, jobs done, We are waiting for feedback in order to change, add or even develop new projects with them. Upgraded the Simod calendar recovery and resource pool, the XML creator was redesigned into a python script in order to call it from the notebook, some code cleaning was performed.
+
+**Thoughts**: I think we are slowing down in a very bad way, we were having a great pace but suddenly, the 3 researcher students (including me) had a lot of trouble, More effort needs to be done.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
