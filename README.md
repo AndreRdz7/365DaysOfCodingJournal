@@ -580,3 +580,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 55, Feb 24th 2020:
+
+**Today's Progress**: More recap on finite automata for my compilers course, feels nice to remember things from 1+ year ago. More work done with Simod, with a better .jar file including the dependencies and how to execute it, it will be used alongside splitminer (yet the java version), the only missing thing is the xml simulation file for scylla, since the configuration is done and the bpmn file will be obtained with splitminer, Maybe I will use the Jupyter Notebook widgets to get some values, I don't want them to be hardcoded. Plus, more lectures on OpenCV and image processing techniques such as image blurring, smoothing and morfological operations and some theory behind the kernels (kinda like filters).
+
+**Thoughts**: Back on track on research and computer vision, feeling with moreless large amounts of energy.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
