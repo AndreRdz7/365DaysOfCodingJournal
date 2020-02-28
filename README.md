@@ -590,3 +590,33 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 56, Feb 25th 2020:
+
+**Today's Progress**: Worked with database desgin, on Entity Relation diagram and design of the system of a wholesale store based on memberships and divided in departments, as part of my advanced databases course to implement transactions. No repo will be available (PHP, PDO, HTML, CSS, Bootstrap project) until the delivery date is met (to avoid plagiarism).
+
+**Thoughts**: This looks fun, It was a long time since I designed a system from scratch.
+
+**Link to Work / References** :
+
+- No Repo Available
+
+## Day 57, Feb 26th 2020:
+
+**Today's Progress**: Started my homework on computer vision, on image reading, and image and kernel validation, I don't quite fully undestand what the professor is asking so I need to talk to him to finish the homework.
+
+**Thoughts**: Python + CV = Love. Homework is private, repo will be available as soon as the deadline is met.
+
+**Link to Work / References** :
+
+- No Repo Available
+
+## Day 58, Feb 27th 2020:
+
+**Today's Progress**: Done my compilers homework, getting regular expressions and their finite automata, the trickiest part was the regex of a languages that do not includes abba as a subword.
+
+**Thoughts**: Spent few minutes on 5 exercises and a lot more on the one mentioned above, felt weird. Since it's a handmade (no code) I don't think I will upload it to GH even after deadline.
+
+**Link to Work / References** :
+
+- No Repo Available
