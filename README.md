@@ -620,3 +620,23 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - No Repo Available
+
+## Day 59, Feb 28th 2020:
+
+**Today's Progress**: Finished my Computer Vision homework, with basically was a hand-made convolution function given a image and a (gaussian) kernel, was not hard, and there are only 5 homeworks in the semester so I hope it gets thougher than this.
+
+**Thoughts**: That was easy, fun nevertheless, repo will be available once deadline is met.
+
+**Link to Work / References** :
+
+- No Repo Available
+
+## Day 60, Feb 29th 2020:
+
+**Today's Progress**: Troubleshooting with [Weka](https://www.cs.waikato.ac.nz/ml/weka/) to convert csv file to arff (weka format), as part of my intelligent systems homework, but not much information is on the internet, some questions are as old as 2012 and didn't help me a lot, I managed to fix some issues, but others, apparently are problems with the content of the data, anyway, I spent many hours on it and didn't get any results.
+
+**Thoughts**: Needless to say, I'm not satisfied, tomorrow will be full research and I'll wait for help from my professor to solve the weka problems.
+
+**Link to Work / References** :
+
+- No Repo Available
