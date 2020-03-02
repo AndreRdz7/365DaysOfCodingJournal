@@ -640,3 +640,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - No Repo Available
+
+## Day 61, Mar 1st 2020:
+
+**Today's Progress**: Getting the bpmn file out of splitkmines and writing the sim file in xml to provide to scylla, a litte inconveninence was encountered because the part of the process I extracted the xml did not contain their resource and the probability gateways did not have any data, so I have to imporove the file and make it automatic, will be job for tomorrow.
+
+**Thoughts**: Finally some advances in research, I know I've said it maybe a lot, but I need to elevate the pace, I don't know whats is happening to me, I cannot focus full time on my things.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
