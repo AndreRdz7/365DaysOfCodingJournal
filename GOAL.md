@@ -24,7 +24,6 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 ## Learning
 
 - C++ std library and OOP
-- Deep Q-Learning in Python
 - UI/UX prototyping
 - GraphQL
 - Pandas (Python)
@@ -33,6 +32,9 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 
 - Quantitative Process Analysis on Business Process Models
 - UX/UI prototyping in Adobe XD
+- Image Convolution
+- Database transactions
+- Q-Learning & Deep Q-Learning basics
 
 ## Miscellaneous
 
@@ -44,6 +46,7 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 
 - Simod functionality expansion
 - Co-author of a scientific paper on Business Process Management analysis
+- C language interpreter
 
 ## Projects/Achievements done
 
