@@ -650,3 +650,23 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 62, Mar 2nd 2020:
+
+**Today's Progress**: My professor is satisfied with my work, automation needs to be done, so I'll work on it. Finally! some code in compiles using flex, it was a hello world like exercise but code is code. On intelligent systems, the theory behing SVM it's awesome, I may use it for the final proyect, using word2vec + SVM, since the final goal is a highscore on kaggle, not the "perfect" model.
+
+**Thoughts**: The ReGex conversor to Deterministic Finite Automata from flex to a c file it's just mind blowing, honestly, when I get to know that such things exists, I convice myself that there are a lot of gifted persons in the world contributing to it.
+
+**Link to Work / References** :
+
+- No Repo Available
+
+## Day 63, Mar 3rd 2020:
+
+**Today's Progress**: More theory on Computer Vision, started a Udacity Free Program and in class, I made a challenge with my friend JC to finish the course in 11 weeks, let's see how much we learn together, since we are team in the CV course con college.
+
+**Thoughts**: Still not very productive, getting distracted a lot, I'm desperate!.
+
+**Link to Work / References** :
+
+[Introduction to Computer Vision by Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810 "Introduction to Computer Vision")
