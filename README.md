@@ -669,4 +669,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 **Link to Work / References** :
 
-[Introduction to Computer Vision by Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810 "Introduction to Computer Vision")
+- [Introduction to Computer Vision by Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810 "Introduction to Computer Vision")
+
+## Day 64, Mar 4th 2020:
+
+**Today's Progress**: Practiced some SQL Queries by creating the database for the first homework in the university server, with some redesigning to improve performance and make it easier to understand and implement. Tried to progress on the research but the code is so badly documented that sometimes I don't know where to look when I'm trying to find something I need, however, once I got the things I need, I can further work on my part.
+
+**Thoughts**: Feeling ok, getting contacted a lot from LinkedIn, unfortunately, full-time offers outside my posibilities to finish my carreer or it ended up in me not fullfilling requirements (specially 5+ years of experience or so).
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
