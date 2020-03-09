@@ -680,3 +680,33 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 65, Mar 5th 2020:
+
+**Today's Progress**: Overview of context free grammar and regular grammar in my Compilers class, started my essay in research-based learning for my Database course, learn a lot in my intelligent systems class, on pattern based algorithms, with the great advantage of being human-readable, some theory behind decision trees and association rules.
+
+**Thoughts**: Lots of homework to do, If I haven't, now is time, yes, to or-ga-ni-ze my time properly.
+
+**Link to Work / References** :
+
+- No Repo Available
+
+## Day 66, Mar 6th 2020:
+
+**Today's Progress**: Some progress on research, tuns out I was doing it not right, I was analyzing data one step ahead than I should, no problem, now I know and my professor is still confident about me and the progress we all are making. Decided that the computer vision project will be sign language recognition, for now, we have letters and numbers both for men and women, but we need full words if we want to make it better.
+
+**Thoughts**: Kinda dissapointed with the CV class, it's really boring, feels like a copy-the-code-understand-it-later-(maybe?).
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 67, Mar 7th 2020:
+
+**Today's Progress**: Finished my second homework of Intelligent Systems, consisting in convert a csv file to arff (for Weka) and obtaining insights about the data, I was really fun to watch many many plots and trying to give them the proper interpretation, understand how the data is separated between spam and non spam. Finished my essay on research-based learning.
+
+**Thoughts**: Weka looks really powerfull, yet, feels very limited on what you can do, no doubt is super powerfull and fast, but there is something that doesn't convince me a lot.
+
+**Link to Work / References** :
+
+- No Repo Available
