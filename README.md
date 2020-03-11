@@ -710,3 +710,33 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - No Repo Available
+
+## Day 68, Mar 8th 2020:
+
+**Today's Progress**: Super improved my XML writer for the simulation, however, the data it takes it's not "real" and the structure is very convenient for me, but I made it based on my previous interaction with data delivered by Simod, very close to the goal. I'll be back to my past job at Inment Dev becaouse I really need a stronger income for my girlfriend's masters degree, I'll rejoin on Wednesday.
+
+**Thoughts**: I gotta be honest, I'm not super happy to add more stress to my life iwth more workloads but there is no better satisfaction than to see my love succeeding in life and improving herself.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 69, Mar 9th 2020:
+
+**Today's Progress**: Yes, finally, the theory on Imbalances class for Machine Learning, the last homework was kind of a nightmare because it was so unbalances that making out conclussions was very hard, but now we are authorized to do undersampling to make it even. Started my database homework on implementing transactions on PDO.
+
+**Thoughts**: .
+
+**Link to Work / References** :
+
+- No Repo Available
+
+## Day 67, Mar 7th 2020:
+
+**Today's Progress**: Spent about 8 hours doing the homework of PDO, learnt a lot of what NOT to do on php and PDO because at the end it failed, I failed my team and failed to myself.
+
+**Thoughts**: One of the worst days I've ever had, I'm going to redo the whole project and I'll do it the right way this time, with a lot of transactions, triggers, events, etc., to show myself I can with proper preparation and to my professor before the exam (next Tuesday) to improve my grading, so, be on the lookout for that repository.
+
+**Link to Work / References** :
+
+- No Repo Available, Yet
