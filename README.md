@@ -731,7 +731,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 67, Mar 7th 2020:
+## Day 67, Mar 10th 2020:
 
 **Today's Progress**: Spent about 8 hours doing the homework of PDO, learnt a lot of what NOT to do on php and PDO because at the end it failed, I failed my team and failed to myself.
 
@@ -740,3 +740,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - No Repo Available, Yet
+
+## Day 67, Mar 11th 2020:
+
+**Today's Progress**: Yes back to work, doing Angular (yay!), implementing sketches on financial reports that will make calls from a GraphQL API, very excited to keep working and improving my skills, and also keep supporting my girlfriend. New meeting, new project for CV, no more hand sign recognition, instead it will be a handwrite to speech/text.
+
+**Thoughts**: Yeah, not that excited about the CV project,it was actually based on a hackathon winning project (but with very basic reading, like printing reading) and it's ok for a single person, maybe 2, not for 5.
+
+**Link to Work / References** :
+
+- No Repo Available
