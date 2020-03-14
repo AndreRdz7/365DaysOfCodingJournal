@@ -731,7 +731,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 67, Mar 10th 2020:
+## Day 70, Mar 10th 2020:
 
 **Today's Progress**: Spent about 8 hours doing the homework of PDO, learnt a lot of what NOT to do on php and PDO because at the end it failed, I failed my team and failed to myself.
 
@@ -741,7 +741,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available, Yet
 
-## Day 67, Mar 11th 2020:
+## Day 71, Mar 11th 2020:
 
 **Today's Progress**: Yes back to work, doing Angular (yay!), implementing sketches on financial reports that will make calls from a GraphQL API, very excited to keep working and improving my skills, and also keep supporting my girlfriend. New meeting, new project for CV, no more hand sign recognition, instead it will be a handwrite to speech/text.
 
@@ -750,3 +750,23 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - No Repo Available
+
+## Day 72, Mar 12th 2020:
+
+**Today's Progress**: Pushdown automaton theory, feels amazing to remember such things, we will begin to write the final project (interpreter) very very soon). Bagging and Boosting on Machine Learning, learnt the advantages and disadvantages of both tecniques, personally, I thing ML/AI is the most interesting topic that can be related to math and pure computer science right now. FInished the third homework, making knn algorithms with k=3 and k=5 to train in weka and the test it and upload it to Kaggle(private contest).
+
+**Thoughts**: The highest score was .58xxxx, and I personally felt really bad, I was virtually on last place, but then I discovered that all of the other participants used all the features we have mined, not only emotions, that made me feel better because I was the only one that followed the instructions haha.
+
+**Link to Work / References** :
+
+- No Repo Available, Private Competition
+
+## Day 73, Mar 13th 2020:
+
+**Today's Progress**: Done the 4th homework of intelligent systems, using 4 pattern-based classifiers, I used J48 (Decision Tree), Random Forest, FURIA and REPTRee and the highest perform was .63xxxx by FURIA. Did some other views in my job, about financial utilities for the hospital.
+
+**Thoughts**: Weka is fun to use, but I want to write some code, I don't know, mixed feelings on it. I love my job, home office + angular, I can't ask for more right now.
+
+**Link to Work / References** :
+
+- No Repo Available, Private Competition
