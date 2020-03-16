@@ -770,3 +770,25 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - No Repo Available, Private Competition
+
+## Day 74, Mar 14th 2020:
+
+**Today's Progress**: Done some lectures in Udacity about Computer Vision, very interesting by the way, a little bit more of GraphQL (because I need to finish it ASAP, I really like the topic and want to finish it).
+
+**Thoughts**: My rest day, organized my next week and recovered my energy, but of course, keeping the challenge up by doing at least one hour, feeling proud, I'm almost 80% of the challenge until upgrading it to 365.
+
+**Link to Work / References** :
+
+- [Introduction to Computer Vision by Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810 "Introduction to Computer Vision")
+- [GraphQL Online Course, Chapter 6](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
+- [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
+
+## Day 75, Mar 15th 2020:
+
+**Today's Progress**: Added 5 more features to my dataset for Intelligent Systems, using the abhorrend parallel dots API, adding the intent of the text (spoiler, I'm very dissapointed with the results), in order to do homework 5 and 6 tomorrow. Done a full summary for the Intelligent System's exam, although it will be next week.
+
+**Thoughts**: Ah yes, Coronavirus, I'm quarantined and the best thing to do is to feed my brain, I'll have a very busy week doing a lot of homework, working in my research, working in my job and yes, LeetCoding (I will, I promise, you'll see).
+
+**Link to Work / References** :
+
+- No Repo Available, Private Competition
