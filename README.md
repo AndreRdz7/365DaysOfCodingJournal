@@ -2,7 +2,7 @@
 
 In this repository I will document the progress, results and outputs of this challenge I'm making.  
 My minimum goal is to finish the challenge without skipping a day and then, upgrade it to 365 days of code.  
-I will document a wide range of activities, including but not limited to reading, tutorials, lessons, 
+I will document a wide range of activities, including but not limited to reading, tutorials, lessons,
 university assingments, side projects, work, problem solving, research and everything related to coding/programming I do.
 I'm tempted to include the Euler project challenge within this.
 
@@ -58,7 +58,6 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [GraphQL Online Course, Chapter 2](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
-
 
 ## Day 5, Jan 5th 2020:
 
@@ -206,7 +205,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [AI Online Course, Chapter 7](https://www.udemy.com/course/artificial-intelligence-az/ "Udemy paid course")
-- [The theory of dynamic programming](http://smo.sogang.ac.kr/doc/bellman.pdf "")
+- [The theory of dynamic programming](http://smo.sogang.ac.kr/doc/bellman.pdf)
 
 ## Day 19, Jan 19th 2020:
 
@@ -240,7 +239,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 ## Day 22, Jan 22th 2020:
 
-**Today's Progress**: Wanted a break from everything, so I searched in my Learnathon YouTube playlist something interesting and fount a video of Pug, wich is a HTML preprocessor in Node.js that basically turns HTML into a programming language with loops, conditionals, cases, mixins, etc. 
+**Today's Progress**: Wanted a break from everything, so I searched in my Learnathon YouTube playlist something interesting and fount a video of Pug, wich is a HTML preprocessor in Node.js that basically turns HTML into a programming language with loops, conditionals, cases, mixins, etc.
 
 **Thoughts**: Very interesting, highly recommend it to watch it at least for curiosity, just to know there is something out there called Pug that makes HTML more enjoyable.
 
@@ -250,7 +249,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 ## Day 23, Jan 23th 2020:
 
-**Today's Progress**: Heavy on research, made an Jupyter Notebook to make data exploration and read a *very* interesting chapter of a really nice book written by Marlon Dumas, et. al., wich is a professor I will be working on indirectly, probably will meet him soon. The notebook are some basics of Pandas, I'm planning to get way better at pandas to make it a toolkit that I can handle, not only for this project, but for ML in general.
+**Today's Progress**: Heavy on research, made an Jupyter Notebook to make data exploration and read a _very_ interesting chapter of a really nice book written by Marlon Dumas, et. al., wich is a professor I will be working on indirectly, probably will meet him soon. The notebook are some basics of Pandas, I'm planning to get way better at pandas to make it a toolkit that I can handle, not only for this project, but for ML in general.
 
 **Thoughts**: The book is written amazingly, fully understand it every single concept, maybe because I'm way more familiar with the topic and had previous knowledge of it, but I think anyone can understant it, highly recommend it if interested on the topic.
 
@@ -268,7 +267,6 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - [C++ Online Course, Chapter 16](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
-
 
 ## Day 25, Jan 25th 2020:
 
@@ -343,7 +341,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 ## Day 32, Feb 1st 2020:
 
-**Today's Progress**: Finished the Deep Convolutional Q-Learning tutorial to make an AI play Doom, it's very interesting how 'easy' is to make an AI to 'see' and learn from it, since I will be taking a Computer Vision course at the university this semester, I'm planning to make something with AI for the final project. Startes the A3C intuition, the best *yet* AI algorithm provided by Google.
+**Today's Progress**: Finished the Deep Convolutional Q-Learning tutorial to make an AI play Doom, it's very interesting how 'easy' is to make an AI to 'see' and learn from it, since I will be taking a Computer Vision course at the university this semester, I'm planning to make something with AI for the final project. Startes the A3C intuition, the best _yet_ AI algorithm provided by Google.
 
 **Thoughts**: AI is such a fantastic topic, my research is focused on Data Mining and Data Visualization (moreless), so I'm planning to maybe go big, further and beyond and trying to integrate some algorithms to improve the dathered data.
 
@@ -385,7 +383,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 ## Day 36, Feb 5th 2020:
 
-**Today's Progress**: Apparently what I did was wrong, well, if not wrong, was unnecesary for the moment, I misunderstood a bit my professor, but, the project is not broken, just "wasted" a weekend. Worked with Scylla, a simulator (replacing BIMP in our workflow) to check the calendars, comparing the default (9 to 5, Monday to Friday) with a custom variation, turns out, the notebook (BPM Calendar) works as spected, so It will be integrated to the Simod notebook as a function, the thing is. 
+**Today's Progress**: Apparently what I did was wrong, well, if not wrong, was unnecesary for the moment, I misunderstood a bit my professor, but, the project is not broken, just "wasted" a weekend. Worked with Scylla, a simulator (replacing BIMP in our workflow) to check the calendars, comparing the default (9 to 5, Monday to Friday) with a custom variation, turns out, the notebook (BPM Calendar) works as spected, so It will be integrated to the Simod notebook as a function, the thing is.
 
 **Thoughts**: Struggled a lot, but, was worth it, I'm starting to feel this project is mine (of course, in a non possesive way, I know it is not my work, but I really like being a part of).
 
@@ -456,7 +454,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 **Link to Work / References** :
 
-- [SQL Tutorial](https://youtu.be/HXV3zeQKqGY  "Starting at 1:15:50")
+- [SQL Tutorial](https://youtu.be/HXV3zeQKqGY "Starting at 1:15:50")
 
 ## Day 43, Feb 12th 2020:
 
@@ -792,3 +790,13 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 **Link to Work / References** :
 
 - No Repo Available, Private Competition
+
+## Day 76, Mar 16th 2020:
+
+**Today's Progress**: Tried to finish my Intelligent Systems' homework, unfortunatly, although I managed to create cost matrix for CostSensitiveClassifier algorithm with FURIA, I couldn't do and undersampling with SpreadSubSample nor an oversampling with SMOTE, because somehow the button to apply those filters specifically was disabled. Finished 3/4 of my homework/exam for compilers, on designing Context Free Grammars and evaluate a Grammar to produce words, the missing part is a flex file that recognizes Java-like numbers, symbols and reserved words, that will be the fun part.
+
+**Thoughts**: Very dissapointed with my day, I was expecting to be way waaaaay more productive but Weka stopped me for about 3 hours with no solution, anyway, I still have some days to be very productive. I'm a bit worried, about the research, today I didn't have any motivation to do it, not at all, I don't know why, hopefully I will feel inspired tomorrow.
+
+**Link to Work / References** :
+
+- No Repo Available (Interpreter) Yet.
