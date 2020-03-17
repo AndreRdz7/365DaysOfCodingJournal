@@ -793,10 +793,11 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 ## Day 76, Mar 16th 2020:
 
-**Today's Progress**: Tried to finish my Intelligent Systems' homework, unfortunatly, although I managed to create cost matrix for CostSensitiveClassifier algorithm with FURIA, I couldn't do and undersampling with SpreadSubSample nor an oversampling with SMOTE, because somehow the button to apply those filters specifically was disabled. Finished 3/4 of my homework/exam for compilers, on designing Context Free Grammars and evaluate a Grammar to produce words, the missing part is a flex file that recognizes Java-like numbers, symbols and reserved words, that will be the fun part.
+**Today's Progress**: Tried to finish my Intelligent Systems' homework, unfortunatly, although I managed to create cost matrix for CostSensitiveClassifier algorithm with FURIA, I couldn't do and undersampling with SpreadSubSample nor an oversampling with SMOTE, because somehow the button to apply those filters specifically was disabled. Finished 3/4 of my homework/exam for compilers, on designing Context Free Grammars and evaluate a Grammar to produce words, the missing part is a flex file that recognizes Java-like numbers, symbols and reserved words, that will be the fun part. Keeping the mood of Databases, did problems 1378, 1350 & 1068 of LeetCode.
 
-**Thoughts**: Very dissapointed with my day, I was expecting to be way waaaaay more productive but Weka stopped me for about 3 hours with no solution, anyway, I still have some days to be very productive. I'm a bit worried, about the research, today I didn't have any motivation to do it, not at all, I don't know why, hopefully I will feel inspired tomorrow.
+**Thoughts**: Very dissapointed with my day, I was expecting to be way waaaaay more productive but Weka stopped me for about 3 hours with no solution, anyway, I still have some days to be very productive. I'm a bit worried, about the research, today I didn't have any motivation to do it, not at all, I don't know why, hopefully I will feel inspired tomorrow. LeetCoded, as promised, tomorrow will be the first thing to do instead before bed (when my energy is at lowest).
 
 **Link to Work / References** :
 
 - No Repo Available (Interpreter) Yet.
+- [LeetCode](https://leetcode.com/)
