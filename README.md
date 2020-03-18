@@ -801,3 +801,14 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available (Interpreter) Yet.
 - [LeetCode](https://leetcode.com/)
+
+## Day 77, Mar 17th 2020:
+
+**Today's Progress**: Read some extracts of articles related to graph databases in order to do the second phase of research-based learning, I choose that topic because I find it really interesting and I think it will be the standard in the future, like GraphQL will be a must learn in univerisites.
+Did problems 1342, 509, 346 of LeetCode.
+
+**Thoughts**: Not the most productive day, not happy at all but keeping the LeetCode streak is vital, I spect to finish 4 homeworks tomorrow and use the whole Thursday, Friday for research (and LeetCode).
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
