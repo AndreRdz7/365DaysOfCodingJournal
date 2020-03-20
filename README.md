@@ -812,3 +812,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 78, Mar 18th 2020:
+
+**Today's Progress**: Finished my 'essay' on graph databases for the research-based learning activity, it took me quite some more time than expected, but finished it anyway. Finished my fifth homework of intelligent systems, went up in kaggle from 6 to 1 (for now, obvi), and was really fun. Started my sixth homework and yep, did not finished the 4 I wanted.
+
+**Thoughts**: Lost my streak on LeetCode, I'm feeling super tired, maybe tomorrow I will continue, maybe only finish my homeworks, I need to rest, although I'm not sick I don't have too much energy.
+
+**Link to Work / References** :
+
+- [Articles From ACM Digital Library](https://services.acm.org/public/qj/keep_inventing/qjprofm_control.cfm?promo=DA4SCA)
