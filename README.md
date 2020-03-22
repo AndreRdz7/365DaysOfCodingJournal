@@ -822,3 +822,25 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [Articles From ACM Digital Library](https://services.acm.org/public/qj/keep_inventing/qjprofm_control.cfm?promo=DA4SCA)
+
+## Day 79, Mar 19th 2020:
+
+**Today's Progress**: Finished my sixth homework of intelligent systems, improved just a little bit over last homework, still in first place (for now). 
+
+**Thoughts**: Wasn't on the mood really, I'm feeling so tired, may take a 'day off' just covering the bare minimum for this challenge, taking advantage that there is no workload for now and the closest not-finished homework deadline is Thursday 26 (besides research).
+
+**Link to Work / References** :
+
+- No Repo Available, Private Competition
+
+## Day 80, Mar 20th 2020:
+
+**Today's Progress**: Took my day off, only watched some YouTube videos about software trends of 2020, about web development, ML/AI, interviews, etc.
+
+**Thoughts**: Recovered some energy, may take half day off tomorrow and I think I'll be fully replainished for classes and work.
+
+**Link to Work / References** :
+
+- [Web Framework for 2020](https://www.youtube.com/watch?v=lYWYWyX04JI "Academind")
+- [AI in 2020](https://www.youtube.com/watch?v=6SWpN64Ivb4 "Henry AI Labs")
+- [Coding Interviews](https://www.youtube.com/watch?v=t9Mvh5wbyXc "Holistic Developer")
