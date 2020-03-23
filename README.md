@@ -844,3 +844,23 @@ Did problems 1342, 509, 346 of LeetCode.
 - [Web Framework for 2020](https://www.youtube.com/watch?v=lYWYWyX04JI "Academind")
 - [AI in 2020](https://www.youtube.com/watch?v=6SWpN64Ivb4 "Henry AI Labs")
 - [Coding Interviews](https://www.youtube.com/watch?v=t9Mvh5wbyXc "Holistic Developer")
+
+## Day 81, Mar 21th 2020:
+
+**Today's Progress**: Started new Udemy course, on Reinforcement Learning that promised to be out-of-the-box and not like the others, so I decided to give it a try, and so far I think it's a meh, for now, not my favorite, not the worst. Basically what I learnt was the explore-exploit applications and some methors like Bayesian/Thompson Sampling, Upper Confidence Bound and navie Epsilon-Greedy.
+
+**Thoughts**: Pretty meh, some things are not explained at all or just vaguely explained, but other things are quitely good explained.
+
+**Link to Work / References** :
+
+- [Reinforcement Learning](https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python/ "Paid Udemy Course")
+
+## Day 82, Mar 22th 2020:
+
+**Today's Progress**: Tried to finish my research homework but failed horribly, basically did no progress at all, other than cleaning some unnecesary files and stablishing analogies, I really now what to do but I cannot do it, don't know why.
+
+**Thoughts**: I failed, awfully.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
