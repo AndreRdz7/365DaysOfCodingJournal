@@ -864,3 +864,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 83, Mar 23th 2020:
+
+**Today's Progress**: Did mi intelligent system's exam, did pretty well, I studied a lot for it, I'm very proud of it. Postponed my research homework for Wednesday, I feel terrible about it, I think I'm failing me and my mentor.
+
+**Thoughts**: I really want to be better at time management, no more distractions. I'm getting desperate.
+
+**Link to Work / References** :
+
+- No Repo Available
