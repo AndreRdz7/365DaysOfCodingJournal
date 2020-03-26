@@ -874,3 +874,23 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - No Repo Available
+
+## Day 84, Mar 24th 2020:
+
+**Today's Progress**: Nailed it, took me longer than expected but finished my progress on research, feels good. Did my advanced databases exam and I gotta way it was super easy, or maybe I studied a lot, but I finished it in 15 minutes and got a perfect score.
+
+**Thoughts**: This semester will be high greades, fortunatly for my GPA, I expect +95/100.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 85, Mar 25th 2020:
+
+**Today's Progress**: Almost finished my compiler exam, I works completely and it's good, but, I need to separate reserved words and other stuff individually, they are, for now, mixed together, just for testing.
+
+**Thoughts**: It was pretty fun, actually, enjoyed a lot doing it.
+
+**Link to Work / References** :
+
+- No Repo Available, For Now
