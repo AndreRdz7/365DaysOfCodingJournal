@@ -894,3 +894,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - No Repo Available, For Now
+
+## Day 86, Mar 26th 2020:
+
+**Today's Progress**: Finished my compilers exam, It was pretty fun, flex is really interesting, can't wait to start using yacc. Found bugs with my professor in my work of research, we hunted some but thre are some remaining, I'll address it tomorrow to keep going forward.
+
+**Thoughts**: I don't know why I can't sleep well, and wake up feeling good the next day and be productive, I'm so tired of it.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
