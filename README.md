@@ -904,3 +904,24 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 87, Mar 27th 2020:
+
+**Today's Progress**: Hunted some bugs in Simod, still work to do, sigh, I just want to integrate the new SplitMiner and the Simulator from my colleagues. Continued my journey on OpenCV, with video basics, like connecting the camera or using video files, and drawing live on camera, this will be somewhat 'useless' for my project, because we will use simple images, but it was fun nonetheless.
+
+**Thoughts**: This whole situation makes me nervous, I lose concentration really easy.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+- [OpenCV Online Course, Chapters 4-5](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/ "Udemy paid course")
+
+## Day 87, Mar 27th 2020:
+
+**Today's Progress**: Went reckless and relentless with OpenCV, since I wasn't on the mood really for finishig correcting Simod, learned a lot, basically, all the basics of object detection, including template matching, 2 different approaches for corner detection, edge detection, grid detection, contour detection, feature matching and a super cool algorithm called watershed, and some introduction to face detection.
+
+**Thoughts**: This OpenCV thing is really interesting, unfortunatly I can't think of a unique project to do by myself.
+
+**Link to Work / References** :
+
+- [OpenCV Online Course, Chapters 6](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/ "Udemy paid course")
