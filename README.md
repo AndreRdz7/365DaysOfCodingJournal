@@ -916,7 +916,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 - [OpenCV Online Course, Chapters 4-5](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/ "Udemy paid course")
 
-## Day 87, Mar 27th 2020:
+## Day 88, Mar 28th 2020:
 
 **Today's Progress**: Went reckless and relentless with OpenCV, since I wasn't on the mood really for finishig correcting Simod, learned a lot, basically, all the basics of object detection, including template matching, 2 different approaches for corner detection, edge detection, grid detection, contour detection, feature matching and a super cool algorithm called watershed, and some introduction to face detection.
 
@@ -925,3 +925,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [OpenCV Online Course, Chapters 6](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/ "Udemy paid course")
+
+## Day 89, Mar 29th 2020:
+
+**Today's Progress**: Simod fully debugged and almos fully-automated for Scylla simulation execution. Phew, took a while, and some errors were insane, like, typos that broke everything, or missing tags that I totally missed to lookout.
+
+**Thoughts**: Finally, I made it, I can rest peacefully at night.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
