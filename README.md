@@ -799,7 +799,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 **Link to Work / References** :
 
-- No Repo Available (Interpreter) Yet.
+- [Interpreter](https://github.com/AndreRdz7/Basic_Interpreter).
 - [LeetCode](https://leetcode.com/)
 
 ## Day 77, Mar 17th 2020:
@@ -893,7 +893,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Link to Work / References** :
 
-- No Repo Available, For Now
+- [Interpreter](https://github.com/AndreRdz7/Basic_Interpreter)
 
 ## Day 86, Mar 26th 2020:
 
@@ -903,6 +903,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Link to Work / References** :
 
+- [Interpreter](https://github.com/AndreRdz7/Basic_Interpreter)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
 ## Day 87, Mar 27th 2020:
