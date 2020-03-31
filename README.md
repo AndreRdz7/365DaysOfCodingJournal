@@ -936,3 +936,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 90, Mar 30th 2020:
+
+**Today's Progress**: More theory on compilers, on FIRST and FOLLOW functions useful for syntactic recognizers, very interesting theory, cannot wait to apply it to my interpreter with Bison. More theory on Intelligent Systems, on statistics for ML models, comparing 1 vs 1, 1 vs all and all vs all, very interesting topic, also, the professor gave us full insight about Covid-19 in our city, with predictions based on SEIR model with data from a lot of sources, pretty scary, but interesting aswell. Delivered my part to my professor on research, but again, another trouble, works son the GUI but not in CLI, neet to figure it out.
+
+**Thoughts**: Mixed feelings with the Intelligent Systems class, not about the professor or the way he teaches, but the topic of covid, it all seems so unrealistic, like, dystopic.
+
+**Link to Work / References** :
+
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
