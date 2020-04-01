@@ -227,7 +227,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [MXMLtoXES](https://github.com/AndreRdz7/MXMLtoXES "Updated")
 
-## Day 21, Jan 21th 2020:
+## Day 21, Jan 21st 2020:
 
 **Today's Progress**: More from UX/UI, now with colors and text/fonts, for better presentation, good contrasts, even gradients, not much theory of colors or something like that, was pretty much an Adobe XD tutorial on colors, kinda dissapointed, the best part was the realistic buttons. New courses from my semester! I'll learn advanced databases, intelligent systems, compilers and computer vision, as well as keep making progress on research.
 
@@ -237,7 +237,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [User Experience Design Essentials Course, Chapter 10-11](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
 
-## Day 22, Jan 22th 2020:
+## Day 22, Jan 22nd 2020:
 
 **Today's Progress**: Wanted a break from everything, so I searched in my Learnathon YouTube playlist something interesting and fount a video of Pug, wich is a HTML preprocessor in Node.js that basically turns HTML into a programming language with loops, conditionals, cases, mixins, etc.
 
@@ -247,7 +247,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Pug Template Engine](https://www.youtube.com/watch?v=kt3cEjjkCZA&list=PLfFNwm8Ee2NKmUaWjo0SSYsNjqMAUP6QQ&index=24&t=0s "freeCodeCamp.org YouTube video")
 
-## Day 23, Jan 23th 2020:
+## Day 23, Jan 23rd 2020:
 
 **Today's Progress**: Heavy on research, made an Jupyter Notebook to make data exploration and read a _very_ interesting chapter of a really nice book written by Marlon Dumas, et. al., wich is a professor I will be working on indirectly, probably will meet him soon. The notebook are some basics of Pandas, I'm planning to get way better at pandas to make it a toolkit that I can handle, not only for this project, but for ML in general.
 
@@ -329,7 +329,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 - [Code Wars](https://www.codewars.com/)
 
-## Day 31, Jan 31th 2020:
+## Day 31, Jan 31st 2020:
 
 **Today's Progress**: I discussed with my professor and we decided we need to upgrade our simulation tools, we kindly asked Abel (BIMP creator) to make some updates on his software, while he decides to update it or not, we are contemplating to use an open source one and have another researcher to upgrade it to our needs. Some extensions on Simod forked repository, for calendar creations, not only default and 24/7, work still in progress.
 
@@ -549,7 +549,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 52, Feb 21th 2020:
+## Day 52, Feb 21st 2020:
 
 **Today's Progress**: More computer vision theory and a little bit of practice on convolution operations, the downside of my course is that the professor uses Matlab, a non production/industry environment, so I use OpenCV and I need to constantly look for code equivalences.
 
@@ -559,7 +559,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 53, Feb 22th 2020:
+## Day 53, Feb 22nd 2020:
 
 **Today's Progress**: Started (and semi-finished) my Intelligent Systems homework, where I need to analyze text and add features using [MeaningCloud](https://www.meaningcloud.com/) and [Parallel Dots](https://www.paralleldots.com/) APIs. It was really fun and actually easy to do, just get the key, read the csv and perform the cols iterativeley. The big downsides were the amount of calls and the frequency of calls, Parallel Dots only allows 1000 calls a day within 1 sec each for the free tier, and MeaningCloud 20000 monthly with .5 seconds interval, and for sentiment analysis it uses 2 calls to get the response, so I spent a lot of it, If more work is needed, I may be use another account since I can't afford to pay 80-100 dollars for a homework.
 
@@ -569,7 +569,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 54, Feb 23th 2020:
+## Day 54, Feb 23rd 2020:
 
 **Today's Progress**: Finished the 'responsiveness' on the Logic1CS webpage I was working on, apparently, jobs done, We are waiting for feedback in order to change, add or even develop new projects with them. Upgraded the Simod calendar recovery and resource pool, the XML creator was redesigned into a python script in order to call it from the notebook, some code cleaning was performed.
 
@@ -845,7 +845,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [AI in 2020](https://www.youtube.com/watch?v=6SWpN64Ivb4 "Henry AI Labs")
 - [Coding Interviews](https://www.youtube.com/watch?v=t9Mvh5wbyXc "Holistic Developer")
 
-## Day 81, Mar 21th 2020:
+## Day 81, Mar 21st 2020:
 
 **Today's Progress**: Started new Udemy course, on Reinforcement Learning that promised to be out-of-the-box and not like the others, so I decided to give it a try, and so far I think it's a meh, for now, not my favorite, not the worst. Basically what I learnt was the explore-exploit applications and some methors like Bayesian/Thompson Sampling, Upper Confidence Bound and navie Epsilon-Greedy.
 
@@ -855,7 +855,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [Reinforcement Learning](https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python/ "Paid Udemy Course")
 
-## Day 82, Mar 22th 2020:
+## Day 82, Mar 22nd 2020:
 
 **Today's Progress**: Tried to finish my research homework but failed horribly, basically did no progress at all, other than cleaning some unnecesary files and stablishing analogies, I really now what to do but I cannot do it, don't know why.
 
@@ -865,7 +865,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 83, Mar 23th 2020:
+## Day 83, Mar 23rd 2020:
 
 **Today's Progress**: Did mi intelligent system's exam, did pretty well, I studied a lot for it, I'm very proud of it. Postponed my research homework for Wednesday, I feel terrible about it, I think I'm failing me and my mentor.
 
@@ -946,3 +946,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 91, Mar 31st 2020:
+
+**Today's Progress**: A lot learnt on Advanced Databases, on how to use MySQL with triggers, stored procedures, functions, events, varaiables, and other nice stuff, pretty fun class, have a lot to do from homework, brightside, we can use any language for backend and frontend, meaning, Angular + Node.js. 
+
+**Thoughts**: Getting mentally ready for 30-Day LeetCode Challenge.
+
+**Link to Work / References** :
+
+- No Repo Available
