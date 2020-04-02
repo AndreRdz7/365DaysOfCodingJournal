@@ -956,3 +956,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - No Repo Available
+
+## Day 92, Apr 1st 2020:
+
+**Today's Progress**: Almost finished my database first homework, I made all the steps needed for a procedure but encapsulation (in the actual procedure) is needed, pretty fun tho. Started the LeetCode Challenge on 30 Days, done the problem 136 (challenge) and the follow up, 137. Struggled with my reseach 'task', I can perform it the 'easy' way but not in the 'right' way. 
+
+**Thoughts**: 1 problem a day looks easy, but consistency is key, for now it's pretty simple, but I bet the last days will take up several minutes on hard problems.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
