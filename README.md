@@ -825,7 +825,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 ## Day 79, Mar 19th 2020:
 
-**Today's Progress**: Finished my sixth homework of intelligent systems, improved just a little bit over last homework, still in first place (for now). 
+**Today's Progress**: Finished my sixth homework of intelligent systems, improved just a little bit over last homework, still in first place (for now).
 
 **Thoughts**: Wasn't on the mood really, I'm feeling so tired, may take a 'day off' just covering the bare minimum for this challenge, taking advantage that there is no workload for now and the closest not-finished homework deadline is Thursday 26 (besides research).
 
@@ -949,7 +949,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 ## Day 91, Mar 31st 2020:
 
-**Today's Progress**: A lot learnt on Advanced Databases, on how to use MySQL with triggers, stored procedures, functions, events, varaiables, and other nice stuff, pretty fun class, have a lot to do from homework, brightside, we can use any language for backend and frontend, meaning, Angular + Node.js. 
+**Today's Progress**: A lot learnt on Advanced Databases, on how to use MySQL with triggers, stored procedures, functions, events, varaiables, and other nice stuff, pretty fun class, have a lot to do from homework, brightside, we can use any language for backend and frontend, meaning, Angular + Node.js.
 
 **Thoughts**: Getting mentally ready for 30-Day LeetCode Challenge.
 
@@ -959,9 +959,19 @@ Did problems 1342, 509, 346 of LeetCode.
 
 ## Day 92, Apr 1st 2020:
 
-**Today's Progress**: Almost finished my database first homework, I made all the steps needed for a procedure but encapsulation (in the actual procedure) is needed, pretty fun tho. Started the LeetCode Challenge on 30 Days, done the problem 136 (challenge) and the follow up, 137. Struggled with my reseach 'task', I can perform it the 'easy' way but not in the 'right' way. 
+**Today's Progress**: Almost finished my database first homework, I made all the steps needed for a procedure but encapsulation (in the actual procedure) is needed, pretty fun tho. Started the LeetCode Challenge on 30 Days, done the problem 136 (challenge) and the follow up, 137. Struggled with my reseach 'task', I can perform it the 'easy' way but not in the 'right' way.
 
 **Thoughts**: 1 problem a day looks easy, but consistency is key, for now it's pretty simple, but I bet the last days will take up several minutes on hard problems.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 93, Apr 2nd 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 202, it was 'tricky', but overall it was fun. Got more Compilers homework, that actually looks not fun at all, sadly. More theory on Intelligent Systems, with Bayesian Networks, looks cool, kinda similar to DecisionTrees, I'm excited to do the new homework. Back to my job, since the client took way too long to respond (since it's a hospital, with this pandemic sure they have a lot of work), some slight modifications where done to financial reports.
+
+**Thoughts**: Consistency is key.
 
 **Link to Work / References** :
 
