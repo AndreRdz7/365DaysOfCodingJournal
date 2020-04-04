@@ -976,3 +976,14 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 94, Apr 3rd 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 53, it was familiar, I knew the best specific algorithm for the problem, the Kadane's Algorithm, so it was 'easy' for me to solve it, most of these problems are super easy to solve usigin a lot of time and a lot of memory, the real challenge is to use the fastest and the one with the lower memory consumption. Finished my database homework my procedure, it works as spected, I'm really happy about the result. Also, discussed with my team about the project, we have roles now and the milestones for it, it will be a nice project, I'll work on the backend and the frontend with Angular, Node, Postgres, and MongoDB.
+
+**Thoughts**: It was a fun day, I'm looking for resources to have better results at kaggle on NLP on detecting spam emails, because I'm really unhappy with the results.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Kadane's Algorithm](https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6)
