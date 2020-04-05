@@ -987,3 +987,13 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Kadane's Algorithm](https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6)
+
+## Day 95, Apr 4th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 283, I think, overall it has good difficulty, it feels like we are upgrading, also did 1303 just because. More documentation and explanation on the databases project, also created the template on Angular and soon I will make the backend and integrate them both, should not take more than a couple of hours. Learnt about ApolloCache, read a lot and searched for infomation on how to implement it on Angular, for my surprise, I realized that had to be done on the backend...waste of hours
+
+**Thoughts**: This LeetCode Challenge could build me up a habit, happy about it.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
