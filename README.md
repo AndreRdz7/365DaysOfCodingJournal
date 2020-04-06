@@ -997,3 +997,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 96, Apr 5th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 122, quite interesting, not super hard not super easy, was somewhat familiar to me, and it has a lot of variats I would like to solve, because they range from easy to hard, also did 1350 to practice SQL. I missed CodeJam, I dunno why, I registered and set my calendar but I did not get notified and realized it was this day in the evening, so I watched some summaries solving the problems, they seem quite challenging, I know competitive programming is different than interview questions, but they look so different from regular LeetCode problems.
+
+**Thoughts**: Recovering energy for the week, that is going to be super though.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
