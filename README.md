@@ -1007,3 +1007,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 97, Apr 6th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 49, I was 'easy' in brute force but I was thinking all the posibilities to make it pure O(n) and didn't found a solution, turned out, it basically the fastest is O(nk)-ish more like O(nlogn) with O(n) in memory. Did my 7th homework in intelligent systems with very dissapointing results, Bayesian Networks performed super bad, I don't know if it failed for my features or the way I treated the missing values, but I was expecting better results, I might vectorize all and do SVM, but proooooobably not in Weka but only nltk and scikit learn, using my computer and not my laptop. Worked more with the database homework, since it was an unbalanced amount of work, I helped with a trigger and it was pretty fun. Worked with Angular, adding functionalities, now, the hospital can handle urgencies and improved medical services (more data).
+
+**Thoughts**: Happy with my work with Angular, leart new form validation mechanics and another way to bind data other than ngmodel.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
