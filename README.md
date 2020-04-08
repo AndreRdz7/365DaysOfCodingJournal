@@ -1017,3 +1017,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 98, Apr 7th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem actually unknown, I searched in the overall pool of problems and did not found it, followed the hints on LeetCode since I was not sure I fully understood the problem, at the end, after the hints I was right and was a successfull upload, also did problems 1351 and 1365. Also did my part of the database project, the first milestone, the backend of the login with Node and MongoDB, with crypted password and jwt, tomorrow will ad the frontend in Angular.
+
+**Thoughts**: Took it 'easy' today, I was feeling really stressed but I'm good in my timings, everythig acording to the plan.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
