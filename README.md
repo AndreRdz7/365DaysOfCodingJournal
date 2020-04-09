@@ -1027,3 +1027,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 99, Apr 7th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 876, linked list, find the middle value, pretty easy to be honest, solved the right way since it was 100% faster and 100% less memory on C++, also did 1085, 586 and 100. Did the frontend part of the login and register for the project, I really like Angular, it's just perfect for me. Also tried to work on my job, but the project is really big and got lost between files I thought I had to modify and in the end I could finish my task so I asked for help and guidance to my superior. Advanced a little bit on my article-like report on relational vs graph databases.
+
+**Thoughts**: So close I can taste it, the 100th day.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
