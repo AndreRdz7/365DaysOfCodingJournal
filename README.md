@@ -1,10 +1,9 @@
-# 100DaysOfCodeJournal
+# 365DaysOfCodeJournal
 
-In this repository I will document the progress, results and outputs of this challenge I'm making.  
-My minimum goal is to finish the challenge without skipping a day and then, upgrade it to 365 days of code.  
+In this repository I will document the progress, results and outputs of this challenge I'm making.
+100 Days completed !!  
 I will document a wide range of activities, including but not limited to reading, tutorials, lessons,
 university assingments, side projects, work, problem solving, research and everything related to coding/programming I do.
-I'm tempted to include the Euler project challenge within this.
 
 ---
 
@@ -1028,7 +1027,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 99, Apr 7th 2020:
+## Day 99, Apr 8th 2020:
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 876, linked list, find the middle value, pretty easy to be honest, solved the right way since it was 100% faster and 100% less memory on C++, also did 1085, 586 and 100. Did the frontend part of the login and register for the project, I really like Angular, it's just perfect for me. Also tried to work on my job, but the project is really big and got lost between files I thought I had to modify and in the end I could finish my task so I asked for help and guidance to my superior. Advanced a little bit on my article-like report on relational vs graph databases.
 
@@ -1037,3 +1036,14 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 100, Apr 9th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 844, that was somewhat string manipulation but it can be done just by iterating and keeping some record on variables, did no more problem, I felt **really** bad today, had terrible headaches. Finished my task on my job, with guidance on where the files are was easier and more enjoyable. And yeah, 100 days...
+
+**Thoughts**: Really proud of my self, time to step up and do #365DaysOfCode, and I actually have the perfect thing to step up the game. From now on, I will do at least 3 problems on LeetCode and I will do the Junior Training Sheet for competitive programming, with about 950 problems (didn't have enough with LeetCode right?), it estimated to last 750-900 hours to finish it, so it will be a nice challenge alongside my classes, my reseach, my job, my goals, my hobbies and personal study. Oh, and I will upload to GitHub every single problem solved, alongisde my datasheet that tracks my times on reading, thinking, coding, debuggin ans status about submissions. Next level will demand the most of myself, but I know with self discipline I can achieve anything.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/htmlview#)

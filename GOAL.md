@@ -6,8 +6,7 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 
 ## To Learn
 
-- C++ for coding interviews, AI and game development
-- Machine Learning and Artificial Intelligence from the root (concepts) to implementation (libraries/kits/code)
+- C++ for AI and game development
 - Python for ML/AI and Data Science, improving current skills and learning new ones, also the usage of Jupyter Notebook
 - Computer Vision
 - React (improve) to create awesome and interactive interfaces
@@ -17,16 +16,15 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 - Azure Cloud
 - Salesforce Developer
 - Ethereum+Solidity
-- Swift
 - Docker and Kubernetes
 - NoSQL (improve)
 
 ## Learning
 
-- C++ std library and OOP
+- C++ std library and OOP for coding interviews and competitive programming
+- Machine Learning and Artificial Intelligence from the root (concepts) to implementation (libraries/kits/code)
 - UI/UX prototyping
 - GraphQL
-- Pandas (Python)
 
 ## Learnt
 
@@ -35,10 +33,12 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 - Image Convolution
 - Database transactions
 - Q-Learning & Deep Q-Learning basics
+- Pandas (Python)
 
 ## Miscellaneous
 
 - CodeWars Kyo 7
+- CF-A
 
 ---
 
@@ -48,6 +48,7 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 - Simod functionality expansion
 - Co-author of a scientific paper on Business Process Management analysis
 - C language interpreter
+- Junior Training Sheet
 
 ## Projects/Achievements done
 
