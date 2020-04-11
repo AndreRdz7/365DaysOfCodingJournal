@@ -1047,3 +1047,15 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/htmlview#)
+
+## Day 101, Apr 10th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 155, a 'system design' on a stack that also tracks the minimum number, I was fun, also did another problem, 141, a [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/ "Official site") classic. Started the Junior Training sheet, did 3 problems, 677-D2-A, 634-D2-A and 112-D2-A, just to warmup and see how it works, I'm very excited about it.
+
+**Thoughts**: I spent a few hours on home chores, and also talking and playing with my friend (via [Discord]()). Wasn't a very productive day, I neet to turbo up for the weekend to finish my research task and keep studying and practicing
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Junior Training Sheet Record (Topics1 page)](https://docs.google.com/spreadsheets/d/1FxO1yV1b_4CeicATM_J-NJN24XZF6fXyxN7610DRSlY/edit?usp=sharing)
+- [Code from Training](https://github.com/AndreRdz7/JuniorTrainingSheet)
