@@ -1052,10 +1052,24 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 155, a 'system design' on a stack that also tracks the minimum number, I was fun, also did another problem, 141, a [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/ "Official site") classic. Started the Junior Training sheet, did 3 problems, 677-D2-A, 634-D2-A and 112-D2-A, just to warmup and see how it works, I'm very excited about it.
 
-**Thoughts**: I spent a few hours on home chores, and also talking and playing with my friend (via [Discord]()). Wasn't a very productive day, I neet to turbo up for the weekend to finish my research task and keep studying and practicing
+**Thoughts**: I spent a few hours on home chores, and also talking and playing with my friend (via [Discord]()). Wasn't a very productive day, I neet to turbo up for the weekend to finish my research task and keep studying and practicing.
 
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Junior Training Sheet Record (Topics1 page)](https://docs.google.com/spreadsheets/d/1FxO1yV1b_4CeicATM_J-NJN24XZF6fXyxN7610DRSlY/edit?usp=sharing)
 - [Code from Training](https://github.com/AndreRdz7/JuniorTrainingSheet)
+
+## Day 102, Apr 11th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 543, a tree problem, I was starting to miss trees and recursion, it was interesting, also did problems 1, 2 and 167. Continued the Junior Training sheet, did 5 problems, 228-D2-A, 231-D2-A, 236-D2-A, 263-D2-A and 265-D2-A, easy but clever, has some trouble with c++ stirngs, so, I learnt and that's what matters the most. Started my task on Simod, to try to make things work by usign all my previous work, not too much to report, tomorrow will be the heavy day
+
+**Thoughts**: The idea of the Junior Training Sheet is really cool, I just wish I had discovered it way long ago, but, it's never too late and I'm pretty sure I will smash my interview this year on Microsoft.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Junior Training Sheet Record (Topics1 page)](https://docs.google.com/spreadsheets/d/1FxO1yV1b_4CeicATM_J-NJN24XZF6fXyxN7610DRSlY/edit?usp=sharing)
+- [Code from Training](https://github.com/AndreRdz7/JuniorTrainingSheet)
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
