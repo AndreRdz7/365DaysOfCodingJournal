@@ -1062,7 +1062,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 ## Day 102, Apr 11th 2020:
 
-**Today's Progress**: Solved LeetCode daily challenge, problem 543, a tree problem, I was starting to miss trees and recursion, it was interesting, also did problems 1, 2 and 167. Continued the Junior Training sheet, did 5 problems, 228-D2-A, 231-D2-A, 236-D2-A, 263-D2-A and 265-D2-A, easy but clever, has some trouble with c++ stirngs, so, I learnt and that's what matters the most. Started my task on Simod, to try to make things work by usign all my previous work, not too much to report, tomorrow will be the heavy day
+**Today's Progress**: Solved LeetCode daily challenge, problem 543, a tree problem, I was starting to miss trees and recursion, it was interesting, also did problems 1, 2 and 167. Continued the Junior Training sheet, did 5 problems, 228-D2-A, 231-D2-A, 236-D2-A, 263-D2-A and 265-D2-A, easy but clever, has some trouble with c++ stirngs, so, I learnt and that's what matters the most. Started my task on Simod, to try to make things work by usign all my previous work, not too much to report, tomorrow will be the heavy day.
 
 **Thoughts**: The idea of the Junior Training Sheet is really cool, I just wish I had discovered it way long ago, but, it's never too late and I'm pretty sure I will smash my interview this year on Microsoft.
 
@@ -1073,3 +1073,27 @@ Did problems 1342, 509, 346 of LeetCode.
 - [Code from Training](https://github.com/AndreRdz7/JuniorTrainingSheet)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
+## Day 103, Apr 12th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1046, a stings adhoc problem, solved it somewhat bruteforcing it, but the output time was really good. Continued the Junior Training sheet, did 4 problems, 381-D2-A, 344-D2-A, 281-D2-A and 268-D2-A, easy, one was a toupper(s[0]) and that was it. Failed to finish my task on research, the herited code is really confusing and somewhat impossible to debug.
+
+**Thoughts**: Being consistent on LeetCode and CodeForces, happy about it.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Junior Training Sheet Record (Topics1 page)](https://docs.google.com/spreadsheets/d/1FxO1yV1b_4CeicATM_J-NJN24XZF6fXyxN7610DRSlY/edit?usp=sharing)
+- [Code from Training](https://github.com/AndreRdz7/JuniorTrainingSheet)
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 104, Apr 13th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 525, array problem reminded me about the Kadane Algorithm, it was somewhat similar, to keep track of current state and use a map for memory, also did problems 1295 and 199. Continued the Junior Training sheet, did 3 problems, 427-D2-A, 431-D2-A, and 791-D2-A, super easy. Discussed with my professor about the research, once again, we are going to leave Simod alone and focus on our things, the code is messy and nos functional as spected, the are some hardcoded things that make it not easily upgradeable. More theory on Compilers, pretty interesting of how LR Compiles build trees based on a stack with contents with pointers. More theory on Intelligent Systems, on feature selection, to determine the best features and some algorithms for it, so, new homework to make, this is 8/10, we are reaching the final of the semester.
+
+**Thoughts**: Really happy about my day, motivated and productive.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Junior Training Sheet Record (Topics1 page)](https://docs.google.com/spreadsheets/d/1FxO1yV1b_4CeicATM_J-NJN24XZF6fXyxN7610DRSlY/edit?usp=sharing)
+- [Code from Training](https://github.com/AndreRdz7/JuniorTrainingSheet)
