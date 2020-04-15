@@ -1097,3 +1097,13 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Junior Training Sheet Record (Topics1 page)](https://docs.google.com/spreadsheets/d/1FxO1yV1b_4CeicATM_J-NJN24XZF6fXyxN7610DRSlY/edit?usp=sharing)
 - [Code from Training](https://github.com/AndreRdz7/JuniorTrainingSheet)
+
+## Day 105, Apr 14th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, unknown problem, apparently not released yet, about string rotation, it was very interesting, also did problem 21, another CtCI classic. Took my advanced databases class and it was quite boring, I pretty much did a recap on postgresql. The computer vision project was kinda messy, I clened the code a little bit. I rewatched 3+ hours of compilers classes and started my homework on build a syntax parser based on a LL(1) grammar.
+
+**Thoughts**: Took a little break on competitive programming, but still constant on LeetCode.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
