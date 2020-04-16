@@ -1107,3 +1107,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 106, Apr 15th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, 238, product of array except itself without division, did a "two pointer" approach, not very efficient but good output on time. Worked the whole day on the compilers homework, struggled a lot, did 2 wrong approaches, but the third was right but I'm having some troubles unfortunately. Failed to finish my task on research, failed hard.
+
+**Thoughts**: LeetCode constant, but getting fatigued on the rest.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
