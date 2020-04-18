@@ -1117,3 +1117,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 107, Apr 16th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, 678, about valid parenthesis but with a little plot twist, very interesting, the little tweak added the right amount of difficulty to be yet enjoyable. Solved my compilers homework doubt, I do not know what was I thinking, maybe sleep depravation or something is making me to think wrong and my logic thought wants some vacation. The Intelligent Systems' class was not quite good, I leart a lot about the aplications of computer vision, but not computer vision per se, didn't bothered me cause I learnt in another course the principles, but if not, I may be mad.
+
+**Thoughts**: LeetCode constant, need to get back in track with the Junior Training Sheet and my courses on C++, GraphQL and AI, I just, don't find the time, and for the record, I've been very productive lately.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
