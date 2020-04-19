@@ -1127,3 +1127,23 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 108, Apr 17th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, 200, a DFS/BFS problem, did it DFS with recursion, I did this problem on my preparation for my Microsoft Interview, I really like this problem. Did my databases homework part on creating roles, tables and values for it, organizing the deliverables and everithing for monday.
+
+**Thoughts**: LeetCode constant, still in the game, but it was my cake day so I took it easy.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 109, Apr 18th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, 64, the minimum path sum, got the brute force solution, but it was horrible, so I read the article on the best approaches and got it on DP with constant space (but not so great time). Solved my compilers homework, kinda, the grammar is correct and the recursive functions are correct (lexical analysis) because I tested them by hand, but for any weird reason my yylex() function crashes at some point on whitespaces or \n, so I asked for help
+
+**Thoughts**: I feel good it's (almost) done the homework, lesson learnt, not to leave the assignment for later, alligater.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
