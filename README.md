@@ -1140,10 +1140,31 @@ Did problems 1342, 509, 346 of LeetCode.
 
 ## Day 109, Apr 18th 2020:
 
-**Today's Progress**: Solved LeetCode daily challenge, 64, the minimum path sum, got the brute force solution, but it was horrible, so I read the article on the best approaches and got it on DP with constant space (but not so great time). Solved my compilers homework, kinda, the grammar is correct and the recursive functions are correct (lexical analysis) because I tested them by hand, but for any weird reason my yylex() function crashes at some point on whitespaces or \n, so I asked for help
+**Today's Progress**: Solved LeetCode daily challenge, 64, the minimum path sum, got the brute force solution, but it was horrible, so I read the article on the best approaches and got it on DP with constant space (but not so great time). Solved my compilers homework, kinda, the grammar is correct and the recursive functions are correct (lexical analysis) because I tested them by hand, but for any weird reason my yylex() function crashes at some point on whitespaces or \n, so I asked for help.
 
 **Thoughts**: I feel good it's (almost) done the homework, lesson learnt, not to leave the assignment for later, alligater.
 
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 110, Apr 19th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, 33, search in rotated array, heard of this problem before and solved it with a friend about, 7 months ago, but didn't remembered the full solution. Finished my homework of compilers, after many days of struggle, need to clean it before uploading it to GH.
+
+**Thoughts**: What a relief to finish the homework, so happy, the stress will go away finally. Not happy with the amount of problems I'm doing but at least I'm keeping it constant, need to improve.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 111, Apr 20th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, 1008, build a tree given the preorder, sounded familiar, somewhat, but it was fun, recursion with trees is my favorite approach (I searched the optimal solution and turned out to be iterative with a deque, smh). Did my compilers simple practice on bison, yes, no more LL(1) languages, now it will be LR bottom-up for the project. Learnt about one-class classification in my Intelligen Systems class, it was amazing, I've never heard about it before, my professor makes my classes so awe inspiring.
+
+**Thoughts**: Had plenty of time, but had to help my girlfriend with his homework, so, no more LeetCode nor JTS for today, sadly.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Bison Practice](https://github.com/AndreRdz7/Bison_Practice-1 "Original Code: Alberto Oliart Ros")
