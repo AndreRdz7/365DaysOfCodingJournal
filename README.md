@@ -1168,3 +1168,24 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Bison Practice](https://github.com/AndreRdz7/Bison_Practice-1 "Original Code: Alberto Oliart Ros")
+
+## Day 112, Apr 21st 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, an interactive problem of a matriz, pretty interesting, the first time I solve an interactive problem, kudos on LeetCode. Learnt more about Postgres and go my final project assignment, it will be the online grader I'm working on.
+
+**Thoughts**: Stamina low, LeetCode constant, need a break.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 113, Apr 22nd 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 560, subarray sum, solved it like O(n2), since it was on the lower 10th on time but 100% on space, really bad tradeoff I presume. Adavanced with my opinion article on graph databases. Finished my task the best I could on research, hope my professor likes it.
+
+**Thoughts**: I definetly need a break, I'm feeling really tired, hope the weekend can take a day off (except for my obligatory hour of this challenge), because I need to increment the amount of LeetCode problems, get back to the Junior Training Sheet, finish my plenty of courses, specially C++ and AI... Wow, the more I think about the pending things, the worse I feel, I'm not comfortable with my situation.
+
+**Link to Work / References** :.
+
+- [LeetCode](https://leetcode.com/)
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
