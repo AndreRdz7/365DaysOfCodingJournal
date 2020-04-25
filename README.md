@@ -1185,7 +1185,28 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts**: I definetly need a break, I'm feeling really tired, hope the weekend can take a day off (except for my obligatory hour of this challenge), because I need to increment the amount of LeetCode problems, get back to the Junior Training Sheet, finish my plenty of courses, specially C++ and AI... Wow, the more I think about the pending things, the worse I feel, I'm not comfortable with my situation.
 
-**Link to Work / References** :.
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 114, Apr 23rd 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 201, got it right-ish, the thing is I got TLE, the brute force solution is not accepted and bitwise problems are not my thing, so I looked up on LeetCode's official articles and got the answer correctly, definetly was not on my mind to do it that way. More compilers theory, on the symbol table for compilers, grosso modo, variables scope on the program. More theory on intelligent systems aboout genetic algorithms, needless to say it is an amazing topic, I was amazed the whole class, I liked it a lot, and I'm super excited to see Reinforcement Learning next class, no doubt I will learn more than I previously did. Onto reseatch, on the right path, now I have another task, we are gaining useful insights on the topic, but, I'm not sure we will be able to finish an article this semester.
+
+**Thoughts**: Busy days like this makes me feel good.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 115, Apr 24th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 146, LRU Cache from scratch on C++, applied the learnt things on constructors and destructors, the use of unordered_map over regular map and the power of iterators. Finished my essay/opinion article/whatever on databases, that was kinda boring to do. And finished my 8th homework of intelligent systems, about principal component analysis, got horrible results, I don't like how weka works on the results like this, will do a word2vec or something like that for the project.
+
+**Thoughts**: Happy about the homework done and being constant on LeetCode, morale++.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
