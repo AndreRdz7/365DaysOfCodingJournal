@@ -1210,3 +1210,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 116, Apr 25th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 155, a DP or greedy type, the jump game, few years ago did a similar problem, but it was on a stair and it was very similar, I prefer the greedy approach, although the DP is more intuitive. Did my databases homework for the team, It was easy, just run a PDO crud with postgres, the challenging part was to know what was failing with the apache service and the postgres default user and password on Ubuntu.
+
+**Thoughts**: Finally took my 'day off', on easy work and getting my mind back to ease, I'll take also tomorrow only doing the urgent pending stuff, and try to take a break to reduce stress and retake my productive days where more than 1 LeetCode problem was done, was doing JTS, and also studying C++, GQL, AI or whatever.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
