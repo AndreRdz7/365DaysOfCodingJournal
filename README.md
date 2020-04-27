@@ -1220,3 +1220,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 117, Apr 26th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1143, another DP problem, on substrings, i got the brute force 'no problem' but it was super expensive in time, so, with the LeetCode hints, got de DP version. Watched some TypeScript videos to refresh my memory on Udemy. Finished my task on Reasearch, almost almost, the calendar discovery is completed post grouping, however, the scylla .xes file does not work with the log reader... so, big problem here.
+
+**Thoughts**: Feeling better, let's make our week super productive.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
