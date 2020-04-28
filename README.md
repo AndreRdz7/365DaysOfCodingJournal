@@ -1230,3 +1230,14 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 118, Apr 27th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 221, find a square of 1s inside a matrix, did a brute force aproach, like a sliding window applying a filter to an image, but the window changes size, didn't manage to get the DP version. New compilers homework, to create the symbol table, using flex and bison, will do probably a linked list with union types as value, and a char array as the name of the type, I already made the tokenizer and the grammar, tomorrow will apply the maths and on wednesday will start the symbol table. More theory on Intelligent Systems, Reinforcement Learning, to take a step deeper on applications on what I know, no math approach. Also did my ninth homework, trying new algorithms with Weka, was very dissapointing, used SMOTE+Discretize(filter)+JRip, weka results were pretty good, but Kaggle results were pretty bad, basically a random would perform the same, then I tried Multilayer Perceptron, awesome GUI, but at the end, Kaggle results were meh, no better results at all.
+
+**Thoughts**: Feeling good, productive, finishing tasks early on, LeetCode constant, let's keep up the pace.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- Compilers homework will be available after deadline
