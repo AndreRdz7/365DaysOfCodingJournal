@@ -1241,3 +1241,14 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - Compilers homework will be available after deadline
+
+## Day 119, Apr 28th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, a 'system design' problem, on a stack with the first unique character, solved it witha regular queue and an unordered_map, tricky but not impossible, also solved 485 and 977. More homework on compilers, giving functionality on bison, tomorrow will implement the linked list and the symbol table. Learnt by myself about Mongo, more like a refresher because I previously worked with it, for my Database course quiz (next tuesday).
+
+**Thoughts**: More LeetCoding (a lot more fun that JTS, not gonna lie) and doing homework early on, to keep myself out of stress as much as possible.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- Compilers homework will be available after deadline
