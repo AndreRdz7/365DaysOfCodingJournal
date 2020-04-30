@@ -1252,3 +1252,14 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - Compilers homework will be available after deadline
+
+## Day 120, Apr 29th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 124, my first hard problem on this journey and it wasn't that hard, I found way harder de DP problems than this. Implemented the linked list struct and functions to insert, modify and read, alongside with error handling, looking good so far. Started my overview on Intelligent Systems for my exam.
+
+**Thoughts**: The week started great, but accumulated tiredness does not fade just yet, took some time off, probably will to on friday.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- Compilers homework will be available after deadline
