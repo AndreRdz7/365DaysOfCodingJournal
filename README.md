@@ -1263,3 +1263,16 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - Compilers homework will be available after deadline
+
+## Day 121, Apr 30th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem unknown, but it was to verify if a string satisfies a tree path from root to leaf, was not hard at all, DP problems were, definetly, will do May Challenge too. Continued my overview of Intelligent Systems, just Reinforcement Learning and the topic of today, data visualization is left. Corrected the compilers homework, now I know I have to reduce the function size and separe it on smaller functions according to the bison process. Started to testing the Junior Training Sheet program, by doing a speedrun, was pretty fun actually, but it will force myself to finish another pretty long task.
+
+**Thoughts**: I know, more things to do. No, I'm not crazy. Yes, I will finish every single project I started, trust me. Yes, the C++, ML, GQL, JTS and everything, I now I can and I will prove myself I can.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [LV0 Log](https://docs.google.com/spreadsheets/d/19HHwJN2zZlTFj2E4W2MQcNDoS67zLPHQVFRn6-zSp3w/edit?usp=sharing)
+- [LV0 Code](https://github.com/AndreRdz7/LV0/tree/master)
+- Compilers homework will be available after deadline
