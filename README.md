@@ -1287,3 +1287,13 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - Compilers homework will be available after deadline
+
+## Day 123, May 2nd 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 771, quite easy, solved it before the best way I could think of so I decided to do the brute-force-ish way, bad time good memory, Accepted, warming up for harder problems. Started my overview o distributed databases, since the class was just 10 min of a super overview, so I did my own overview, by learing by myself, quiz is on Tuesday and NoSQL is already reviewed, so I have less things to study for.
+
+**Thoughts**: My 'day-off' to replenish energy.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
