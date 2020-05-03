@@ -1276,3 +1276,14 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LV0 Log](https://docs.google.com/spreadsheets/d/19HHwJN2zZlTFj2E4W2MQcNDoS67zLPHQVFRn6-zSp3w/edit?usp=sharing)
 - [LV0 Code](https://github.com/AndreRdz7/LV0/tree/master)
 - Compilers homework will be available after deadline
+
+## Day 122, May 1st 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 278, about binary search trees, got in the mood so I did another 4 problems on binary trees, problems 374, 938, 700 and 270. Added a little bit to my compilers homework, making it correct on empty words. Started my coursera course on Graph Algoritms, learnt even more about BSF and DFS and algorithms derived that can improve solutions.
+
+**Thoughts**: I'm feeling great, learning and being better everyday.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- Compilers homework will be available after deadline
