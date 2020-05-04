@@ -1297,3 +1297,14 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 124, May 3rd 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 353, about maps, solved quite easily, it was basically the same approach as the last one, jewels and stones. Finished the chapter on blind search algorithms in graphs, passed the test, now, a notebook (Jupyter) must be completed and evaluated to finish the tasks and move on the next chapter, will upload to GH giving all credits to coursera and the professor, just will expose my solutions. Finished my research task, was not hard at all, some configuration modifications. Added de type comparison con the compilres homework, really tricky since C does not provide a natural way to do it.
+
+**Thoughts**: Enery recovered, LeetCode constant, feeling good.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- Compilers homework will be available after deadline
