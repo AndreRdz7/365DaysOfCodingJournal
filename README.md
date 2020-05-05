@@ -1307,4 +1307,16 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
-- Compilers homework will be available after deadline
+- Compilers homework will be available after deadline 
+
+## Day 125, May 4th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 476, bitwise, my worst category, didn't manage to get the result, only with LeetCode's hint and searching online, so the honest thing to do was not to submit it to the challenge, as actually did not manage to get the result by myself. More theory on compilers, honestly, was not very interesting but is useful for the project. Rearch task was good, my professor liked it, now a new task, to go further in a similar way but other approach. Studied the decentralized databases on a video, because the powerpoint was boring and was not very explicative. Started my research task, building a data structure for calendar discovery and some log data filling, but the output does not convince me at all, dunno why, look irrealistic.
+
+**Thoughts**: Super day, feeling great.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Distributed Databases](https://www.youtube.com/watch?v=0_m5gPfzEYQ&feature=youtu.be "CMU Database Group's YouTube channel)
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
