@@ -4,17 +4,17 @@ Besides forming a habit to code/learn daily, my goal is to learn a lot and becom
 
 Milestone completed: 100 Days 
 
+Next section will work like a Kanban (To Do, Doing & Done)
+
 ---
 
 ## To Learn
 
 - C++ for AI and game development (Qt and Unreal Engine)
 - Python for ML/AI and Data Science, improving current skills and learning new ones, also the usage of Jupyter Notebook
-- Computer Vision
 - React (improve) to create awesome and interactive interfaces
 - UX/UI with accessibility
 - Node.js (improve) for BackEnd development
-- GraphQL
 - Azure Cloud
 - Salesforce Developer
 - Ethereum+Solidity
@@ -27,6 +27,7 @@ Milestone completed: 100 Days
 - Machine Learning and Artificial Intelligence from the root (concepts) to implementation (libraries/kits/code)
 - UI/UX prototyping
 - GraphQL
+- Computer Vision
 
 ## Learnt
 
@@ -46,14 +47,16 @@ Milestone completed: 100 Days
 
 ## Projects/Achievements to make
 
-- Online Grader for C, Java and Python
-- Simod functionality expansion
+- Online Grader for C, C++, Java, JavaScript and Python
+- Simod functionality expansion - pending
 - Co-author of a scientific paper on Business Process Management analysis
 - C language interpreter
 - Junior Training Sheet
+- LV0 Codeforces Test
 - Spam recognizer in Python for a Kaggle competition
 
 ## Projects/Achievements done
 
 - MXML parsers to XES/CSV to further analyze on other places such as Simod(XES) or make data exploration with Pandas(CSV)
 - XML writter for simulation configuration for the Scylla simulator
+- Lexical Analyzer

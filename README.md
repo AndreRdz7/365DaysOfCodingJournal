@@ -1320,3 +1320,13 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Distributed Databases](https://www.youtube.com/watch?v=0_m5gPfzEYQ&feature=youtu.be "CMU Database Group's YouTube channel)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 126, May 5th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 378, another problem easily solved with a map, also did 744. Did my pre-partial quiz-like exam on Databases, based only on MongoDB, went well with 90%. Did my part of the last Databases homework, designing the structure of the data for a MongoDB database, was fun to do.
+
+**Thoughts**: Super day, feeling great.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
