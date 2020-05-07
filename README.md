@@ -1330,3 +1330,14 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 127, May 6th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 169, another map problem, but at first glance probably the solulion looks like a sorting problem, and can be done that way, I will increse from O(n) to O(nlogn) in time but decrease from O(n) to O(1) in space, so I think both are optimal solutions, depending on the tradeoff. Finished my Intelligent Systems review for my partial exam (tomorrow). Started my task on research but I got complicated, I dunno why, variables where modified without me explicitly changing any value, super weird.
+
+**Thoughts**: May I'm exaggerating, but I don't remember feeling this fatigue, woke up about 1:30 pm, I feel devastated, some days I have 'plenty' of energy, others, I feel I can't do anything.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod") 
