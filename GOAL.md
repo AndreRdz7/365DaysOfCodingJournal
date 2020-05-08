@@ -15,14 +15,13 @@ Next section will work like a Kanban (To Do, Doing & Done)
 - React (improve) to create awesome and interactive interfaces
 - UX/UI with accessibility
 - Node.js (improve) for BackEnd development
-- Azure Cloud
-- Salesforce Developer
 - Ethereum+Solidity
 - Docker and Kubernetes
-- NoSQL (improve)
+- NoSQL -> MongoDB (improve)
 
 ## Learning
 
+- Angular best practices, concepts and architecture
 - C++ std library and OOP for coding interviews and competitive programming
 - Machine Learning and Artificial Intelligence from the root (concepts) to implementation (libraries/kits/code)
 - UI/UX prototyping

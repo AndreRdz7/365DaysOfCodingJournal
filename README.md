@@ -1341,3 +1341,14 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod") 
+
+## Day 128, May 7th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 993, kinda weird, about cousins in trees, definetly not an 'easy' warming up problem, it was easy for be becuase I've solved tree problems recently, if not, probably would be harder. Did my Intelligent Systems exam, took me about 3 hours, not super hard, just tricky and really interesting, I'm aiming for a 105 (extra points). Also spent a lot of time with other exam not programming related (Intelectual property). Tried to finish my task but python is doing really weird things, I don't know what is happening.
+
+**Thoughts**: Feeling better, just the compilers homework for monday is pending (urgently), still constant in LeetCode, reorganized my learning path for C++, React, Angular, GQL, RL, Ethereum, Node, Docker and the projects of JTS, LV0, Coursera and school, everything while looking for a job to pay for my gf's MS Degree.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod") 
