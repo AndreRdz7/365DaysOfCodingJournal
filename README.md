@@ -1351,4 +1351,17 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
-- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod") 
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 129, May 8th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1232, with the help of the hints and the internet on the correlation formula, it was super easy, but needed the specific math backgroud in order to be solved properly. Back on track on learning outside classrome, on smart pointers on C++ and the basics operations on MongoDB Shell (I need to confess that I previously worked with MongoDB but only with mongoose, did no query on the console...), tried to finish my task on research but failed, got an exteded deadline for monday.
+
+**Thoughts**: Really enjoyed my rest day, let's grind it tomorrow, I know, my 1st day on the challeng was with C++, it's been 4 months, but I will leave no project nor learning path incomplete this year.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+- [MongoDB, Chapter 2,3](https://www.udemy.com/course/mongodb-the-complete-developers-guide/ "Udemy paid course")
+- [C++ Online Course, Chapter 17](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
