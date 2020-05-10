@@ -1364,4 +1364,16 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 - [MongoDB, Chapter 2,3](https://www.udemy.com/course/mongodb-the-complete-developers-guide/ "Udemy paid course")
-- [C++ Online Course, Chapter 17](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
+- [C++ Online Course, Chapter 17](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course") 
+
+## Day 130, May 9th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 369, kinda interesting I got to say, about binary search but was somewhat strange the problem, and it had integer overflow, so a long long variable must be used (or any equivalent in another language). Back to Udemy streak, baby steps are easier and are still steps vs no steps at all, error handling in C++ and the MongoDB Shell configuration and some insight no MongoDB Compass. Made some progress on the online grader, adapting the dashboard to the project, creating the form, tomorrow I will design the DB and possibly adding GQL.
+
+**Thoughts**: I think I need a larger break, I wake up feeling awful, then it gets better, but after some work, I get bored super easily and actually feeling tired.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [MongoDB, Chapter 4,5](https://www.udemy.com/course/mongodb-the-complete-developers-guide/ "Udemy paid course")
+- [C++ Online Course, Chapter 18](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
