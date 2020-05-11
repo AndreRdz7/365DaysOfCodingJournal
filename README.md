@@ -1307,7 +1307,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
-- Compilers homework will be available after deadline 
+- Compilers homework will be available after deadline
 
 ## Day 125, May 4th 2020:
 
@@ -1340,7 +1340,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
-- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod") 
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
 ## Day 128, May 7th 2020:
 
@@ -1364,7 +1364,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 - [MongoDB, Chapter 2,3](https://www.udemy.com/course/mongodb-the-complete-developers-guide/ "Udemy paid course")
-- [C++ Online Course, Chapter 17](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course") 
+- [C++ Online Course, Chapter 17](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 
 ## Day 130, May 9th 2020:
 
@@ -1377,3 +1377,13 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [MongoDB, Chapter 4,5](https://www.udemy.com/course/mongodb-the-complete-developers-guide/ "Udemy paid course")
 - [C++ Online Course, Chapter 18](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
+
+## Day 131, May 10th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 997, about some mapping and other stuff, the thing is I struggled because did not considerate a lot of things for the problem, it took me 3-4 submissions to get accepted and it was pityful, so I decided to not get the coins on the challenge. Did my compilers homework, it's almost finished but I don't know why it has a bug in a function, it literally traverses de linked list looking for a value, if found justt exists de function, otherwise, raises an error, but it only goes from the head to the next and marks as not found, and it's basically the same code as printing the list (which works well) so it's driving me crazy.
+
+**Thoughts**: Almost done, but it's so frustrating it bugs out and I don't know why.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
