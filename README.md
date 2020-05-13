@@ -1251,7 +1251,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
-- Compilers homework will be available after deadline
+- [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
 ## Day 120, Apr 29th 2020:
 
@@ -1262,7 +1262,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
-- Compilers homework will be available after deadline
+- [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
 ## Day 121, Apr 30th 2020:
 
@@ -1275,7 +1275,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [LV0 Log](https://docs.google.com/spreadsheets/d/19HHwJN2zZlTFj2E4W2MQcNDoS67zLPHQVFRn6-zSp3w/edit?usp=sharing)
 - [LV0 Code](https://github.com/AndreRdz7/LV0/tree/master)
-- Compilers homework will be available after deadline
+- [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
 ## Day 122, May 1st 2020:
 
@@ -1286,7 +1286,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
-- Compilers homework will be available after deadline
+- [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
 ## Day 123, May 2nd 2020:
 
@@ -1307,7 +1307,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
-- Compilers homework will be available after deadline
+- [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
 ## Day 125, May 4th 2020:
 
@@ -1387,3 +1387,15 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+- [Symbol's table](https://github.com/AndreRdz7/Tarea4)
+
+## Day 132, May 11th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 733, a DFS based algorithm, not hard at all, but it had a little tweak to consider on the solution that comes quickly. More compilers theory, on how functions work, not really much new for me honestly. On intelligent Systems the class was a little off-topic, it was about LaTeX, in order to properly deliver the final project. Finished the compilers homework and oh boy, It drived me nuts, little errors that took me literally hours to figure out, but it's done after all.
+
+**Thoughts**: Feel so relieved, tomorrow my last exam and then, only projects and research, we are on *endgame* right now.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Symbol's table](https://github.com/AndreRdz7/Tarea4)
