@@ -1399,3 +1399,23 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Symbol's table](https://github.com/AndreRdz7/Tarea4)
+
+## Day 133, May 12th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 540, that had a straight up solution using a map, but it asked to solve it in O(logn(n)) because it was a sorted array, the intuiton was not precisely easy, but the statement of the problem gives the key hint, since the was no known target, the binary search must be performed based on the parity of the sub arrays; an xor will do the job without extra memory but in O(n) time. Had my databases exam, was ok-ish, got 88/100, the wrong answers where the ones of the class that lasted 15 minutes. Started the design of the database on competitive programming contest site.
+
+**Thoughts**: The sleep depravation really harms my productivity, feeling kinda useless, but still LeetCoding so I'm happy about it, the streak goes for 40 days .
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 134, May 13th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 402 with basically all of the help, I honestly couldn't reach any solution by my own, my only idea was the brute force that obviouosly will result in a TLE, so again no submission for the challege, gotta keep it real. Finished the design of the database for the programming contest webapp. Tried to finish my research task but I dunno what the hell is happening, none of the things I do work.
+
+**Thoughts**: had a terrible night, felt asleep about 6 am and woke up so tired and feeling awful, really bad day.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
