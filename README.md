@@ -1419,3 +1419,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 135, May 14th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 208, about implementing a trie (suffix tree), it was pretty fun, I used an auxiliary node for storing the boolean value if is a complete word and an array of 26 spaces (alphabet) initialized as NULL and pointing to to other nodes when a word is added. More 'theory' on compilers, basically the next part of the proyect, building the syntax tree with the instructions, looks it will be fun and only fun. The Intelligent systems course finished with a bang, with "the group(only me and 3 actively participating)" giving ideas on using what we've learnt to apply to real world problems. Sad it ended, happy it happened. Finished the sql file on creating the database for the online grader, looking good, had a meeting with my team and decided the approach to use php, js and python as backends, the majority will be handled with js, the docker part with php and python for microservices for csv files, I have my tasks for tomorrow since we have to show something on Tuesday. Started my BairesDev application process, solving some non-coding related exams such as logic and behavior and some coding related like algorithms JS, MySQL, I think I'll finish them in about 3 more hours. Tomorrow will do de Oracle challenge for the new grad / last semesters position.
+
+**Thoughts**: I love days like this, feeling good, did exercise, LeetCoded, an overall productive day.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
