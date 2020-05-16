@@ -1393,7 +1393,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 733, a DFS based algorithm, not hard at all, but it had a little tweak to consider on the solution that comes quickly. More compilers theory, on how functions work, not really much new for me honestly. On intelligent Systems the class was a little off-topic, it was about LaTeX, in order to properly deliver the final project. Finished the compilers homework and oh boy, It drived me nuts, little errors that took me literally hours to figure out, but it's done after all.
 
-**Thoughts**: Feel so relieved, tomorrow my last exam and then, only projects and research, we are on *endgame* right now.
+**Thoughts**: Feel so relieved, tomorrow my last exam and then, only projects and research, we are on _endgame_ right now.
 
 **Link to Work / References** :
 
@@ -1425,6 +1425,16 @@ Did problems 1342, 509, 346 of LeetCode.
 **Today's Progress**: Solved LeetCode daily challenge, problem 208, about implementing a trie (suffix tree), it was pretty fun, I used an auxiliary node for storing the boolean value if is a complete word and an array of 26 spaces (alphabet) initialized as NULL and pointing to to other nodes when a word is added. More 'theory' on compilers, basically the next part of the proyect, building the syntax tree with the instructions, looks it will be fun and only fun. The Intelligent systems course finished with a bang, with "the group(only me and 3 actively participating)" giving ideas on using what we've learnt to apply to real world problems. Sad it ended, happy it happened. Finished the sql file on creating the database for the online grader, looking good, had a meeting with my team and decided the approach to use php, js and python as backends, the majority will be handled with js, the docker part with php and python for microservices for csv files, I have my tasks for tomorrow since we have to show something on Tuesday. Started my BairesDev application process, solving some non-coding related exams such as logic and behavior and some coding related like algorithms JS, MySQL, I think I'll finish them in about 3 more hours. Tomorrow will do de Oracle challenge for the new grad / last semesters position.
 
 **Thoughts**: I love days like this, feeling good, did exercise, LeetCoded, an overall productive day.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 136, May 15th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 918, an upgraded version of the Kadane's algorithm problem, with a circular array, solved with help, I neet to practice more and review some algorithms to perform better, I probably will be getting interviewed by Oracle and I need to ace it. Had my meeting with my professor of the databases course, to clarify some aspects of the project. Complement the design of the Database and started to do some UI.
+
+**Thoughts**: My rest day, recovered and full of energy for tomorrow.
 
 **Link to Work / References** :
 
