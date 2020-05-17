@@ -7,7 +7,7 @@ university assingments, side projects, work, problem solving, research and every
 
 ---
 
-## Day 1, Jan 1st 2020:
+## Day 1, Jan 1st 2020
 
 **Today's Progress**: pointer's declaration, access, storage, dereference, arithmetic, also dynamic memory allocation and  
 passing pointers to functions, returning pointers from functions, references, L and R-values in C++.  
@@ -23,7 +23,7 @@ of what I can do to enhance workflows, I don't it's a _MUST_ in the knowledge ba
 - [C++ Online Course, Chapter 12](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 - [Gulp JS Crash Course](https://youtu.be/1rw9MfIleEg "Traversy Media YouTube video")
 
-## Day 2, Jan 2nd 2020:
+## Day 2, Jan 2nd 2020
 
 **Today's Progress**: OOP in C++: classes, constructors, initialization list, delegation of constructors, copy constructors, class member manipulation, shallow vs deep copying, move constructors with l-value and r-value parameters, public vs private, methods, destructors, friends of class, static classes, 'this' pointer. LeetCoded in the Microsoft Top Questions, solving 4 problems in Arrays and Strings cathegory (since it's a paid feature of LeetCode, I cannot provide further details on the problem's number or description).
 
@@ -36,7 +36,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [C++ Online Course, Chapter 13](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 - [LeetCode](https://leetcode.com/ "Microsoft's Top Questions is a paid feature of LeetCode")
 
-## Day 3, Jan 3rd 2020:
+## Day 3, Jan 3rd 2020
 
 **Today's Progress**: Introduction to GraphQL, querying, nested querying, babel setup for projects, ES6 import/export and a small API example of a query returning a simple string.
 
@@ -47,7 +47,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [GraphQL Online Course, Chapter 2](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
 
-## Day 4, Jan 4th 2020:
+## Day 4, Jan 4th 2020
 
 **Today's Progress**: Data types on GQL, custom types (class like), operation arguments, array manipulation, simple relational data and by arrays.
 
@@ -58,7 +58,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [GraphQL Online Course, Chapter 2](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
 
-## Day 5, Jan 5th 2020:
+## Day 5, Jan 5th 2020
 
 **Today's Progress**: Mutations (POST, PUT, DELETE, etc. operations) in GQL, custom defined input types for mutations leading to a better and more undestandable code, babel configuration of plugins.
 
@@ -69,7 +69,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [GraphQL Online Course, Chapter 3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
 
-## Day 6, Jan 6th 2020:
+## Day 6, Jan 6th 2020
 
 **Today's Progress**: Started a new journey in the world of research, I enrolled in a _R&D_ career path on my university, where I will work with profesors all around the world to perform research and develop new, innovative and open source projects, I'm starting to familiarize with the project, _grosso modo_ it consist of Business Process Simulations with automatization and enhancement of parameters in orden to obtain the most realistic simulation possible with the given data logs. I will be working with Python and Jupyter notebooks in the future of this project. Re-started my AI journey with Q-Learning, getting the fundamentals of reinforcement learning, the Bellman equation and Markov decision processes, I have 3 papers to read to go deeper and fully understand the concepts, I will read them tomorrow.
 
@@ -80,7 +80,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [AI Online Course, Chapter 1,2,3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [Automated Discovery of Business Process Simulation Models from Event Logs. Camargo, M., Dumas, M., González-Rojas, O.](https://arxiv.org/pdf/1910.05404.pdf "Paper with the foundation of what I will be working on")
 
-## Day 7, Jan 7th 2020:
+## Day 7, Jan 7th 2020
 
 **Today's Progress**: Read 'Reinforcement Learning I: Introduction' from Richard Sutton ad Andrew Barto; onto AI, the policy vs plan of reinforcement learning, the 'living penalty', full Q-learning intuition and the temporal difference. Added 2 papers to my to read list.
 
@@ -91,7 +91,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [AI Online Course, Chapter 3,4](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [Reinforcement Learning I: Introduction. Sutton, R., Barto, A.](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.32.7692 "Site where you can download or visualize the paper")
 
-## Day 8, Jan 8th 2020:
+## Day 8, Jan 8th 2020
 
 **Today's Progress**: Worked a lot on trial and error, simulations and mostly exploration of the tools Signavio, BIMP and Simod, in order to comprehend what the programs are doing and analizing the data outputs by the given inputs.
 
@@ -103,7 +103,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [Simulation tool BIMP](http://bimp.cs.ut.ee/ "Free to use")
 - [Simod repository](https://github.com/AdaptiveBProcess/Simod "Jupyter notebook Simod")
 
-## Day 9, Jan 9th 2020:
+## Day 9, Jan 9th 2020
 
 **Today's Progress**: Worked with my professor from research developing a mxml to xes parser in Java (repo will be available tomorrow) in order to start creating 'pipelines' from Signavio to Simod and verifying everything works correctly to start adding functionalities to Simod in a forked repository. Full description of Deep Q-Learning (Q-Learning + ANN) on the Udemy course, covering topics like learning, acting, experience replay and action selection policies (epsilon greedy, epsilon soft, softmax).
 
@@ -114,7 +114,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [AI Online Course, Chapter 6](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [Simod repository](https://github.com/AdaptiveBProcess/Simod "Jupyter notebook Simod")
 
-## Day 10, Jan 10th 2020:
+## Day 10, Jan 10th 2020
 
 **Today's Progress**: Worked many hours trying to figure out how the notebook works and find why it does not work with other inputs rather than the provided. At the end, slight modifications where done and from now on, my forked repository will be the one I will be working on.
 
@@ -125,7 +125,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [Simod repository](https://github.com/AndreRdz7/Simod.| "Jupyter notebook Simod")
 - [MXML to XES converter](https://github.com/AndreRdz7/MXMLtoXES/tree/master "IntelliJ IDEA Java Project")
 
-## Day 11, Jan 11th 2020:
+## Day 11, Jan 11th 2020
 
 **Today's Progress**: Watched many hours of tutorials on Adobe XD to improve my prototyping/sketching and UI/UX notions on web.
 
@@ -135,7 +135,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [User Experience Design Essentials Course, Chapter 1-6](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
 
-## Day 12, Jan 12th 2020:
+## Day 12, Jan 12th 2020
 
 **Today's Progress**: Operator overloading theory,overloading asingment operator (copy and move), overloading operators as member functions, overloading operators as global functions and overloading the stream insertion and extraction operators.
 
@@ -145,7 +145,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [C++ Online Course, Chapter 14](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 
-## Day 13, Jan 13th 2020:
+## Day 13, Jan 13th 2020
 
 **Today's Progress**: Inheritance concept, terminology and notation, composition, deriving classes, protected members and class access, constructors and destructors (super constructors).
 
@@ -155,7 +155,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [C++ Online Course, Chapter 15](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 
-## Day 14, Jan 14th 2020:
+## Day 14, Jan 14th 2020
 
 **Today's Progress**: Keeping up with inheritance...passing arguments to base class constructos, copy/move constructos and operator '=' with derived classes, redefinig bases class methods (kinda like 'overloading', where the same name does other thing), multiple inheritance (just scratched the surface of the concept, no work done on this secction).
 
@@ -165,7 +165,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [C++ Online Course, Chapter 15](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 
-## Day 15, Jan 15th 2020:
+## Day 15, Jan 15th 2020
 
 **Today's Progress**: Back to AI, onto Deep Q-Learning, starting the process of the environment design, using kivy for the UI, defining initial states on the goal from the starting point. The environment consist of a car trying to reach a corner startring from the opposite corner, the 'lane' consists of a non-straigth path sorrounded by sand, where it 'slows' the car and gives penalty to the AI. The car has angle and rotation properties to properly turn to reach the goal, it has 3 sensors, that detects objects in the front, the left and the right, as well as 3 signals that are triggered by them. It also has many functions that update the movility given the last state and the environment, choosing the best option given by the AI. I penalyzes hitting on walls (edge of map) and it's countered by the sensors and updating the direction of the car (since it can only go forward). The penalty of hitting walls and drive away from the wall are the heaviest, while doing some progress it's a tenth of positive reward equivalent to the worst penalty. The main libraries for the AI is (obviously) numpy and pytorch. The Network class inherits from the pytorch Neural Network implementation, the input layer will be determined by the input_size parameter, as well ad the output neurons determined by the nb_action parameter, the full connections is the pytorch NN are fully connected by the Linear constructor giving the output of a Neural Network input(5) -> 30 hidden -> 30 hidden -> output(3). The forward function (for forward propagation) works on the state given by the environment, by using a rectifier function (RELU) to activate the neurons on the first hidden layer and getting the q values from the second hidden layer with the previous activations. Last but not least, the experience replay implemented as a class, constructed by the last 100 transitions memory space and the memory (list of events).
 
@@ -175,7 +175,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [AI Online Course, Chapter 7](https://www.udemy.com/course/artificial-intelligence-az/ "Udemy paid course")
 
-## Day 16, Jan 16th 2020:
+## Day 16, Jan 16th 2020
 
 **Today's Progress**: Implementation the 'queue-like' functionality on the ReplayMemory, alongside with the random memory access to get a batch-sized sample to map them into pytorch variables. For the creation of the model class (Deep Q-Learning) some initializations are required from the previous classes, and a gamma variable that is used to discount the reward as the time passes (the more actions the model does the lower the reward will be) and the creation of the Adam optimized binded to the model (Pytorch NN) with a learning rate of 0.001 and a memory (ReplayMemory) with a capacity of a hundred thousand. Using softmax and multinomial functions we are able to not always choose the best action, and do some exploration, the Temperature variable is set to 7 to ensure it acts more 'car-like' than 'insect-like', of course with the highest probability of choosing the best option. The learn is where all of the Q-Learning math happens, starting with outputs calculation given the batch state, predicting the next outputs with the highest q value, calculating our target with the previuosly defined gamma value, using the smooth_l1_loss to calculate our temporal difference, reset our optimized, perform a backpropagation and the using the optimizer to update the weights of the Neural Network.
 
@@ -185,7 +185,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [AI Online Course, Chapter 7](https://www.udemy.com/course/artificial-intelligence-az/ "Udemy paid course")
 
-## Day 17, Jan 17th 2020:
+## Day 17, Jan 17th 2020
 
 **Today's Progress**: Made a MXML parser to CSV in order to make qualitative analysis on datasets related to our investigation. Using Pandas to manipulate the CSV and get usefult information.
 
@@ -195,7 +195,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [MXML to CSV](https://github.com/AndreRdz7/MXMLtoCSV "IntelliJ IDEA Project")
 
-## Day 18, Jan 18th 2020:
+## Day 18, Jan 18th 2020
 
 **Today's Progress**: Update function calculated using the last reward and the new signal to process as parameteres, the first thing to do is setting the new action to perform and add it to the memory with the push function. Then the action is selected given the new stage and if our memory storage has 100 or more memories, we trigger the learn function on the batches returned, then the last action is updated with the currect action, as well as the state, and the reward; the reward window is extended with the last reward, if the length exceeds 1000, the oldest result is deleted and finally returns the action so the program can perform it and repeat the process again. The score is calculated by calculating the mean of the reward window. To save the progress of the AI a save and load functions are implemented using PyTorch save dictionary. Read the theory of dynamic programming of Richard Bellman but did not understandit at 100%, there was a few math notation and concepts I'm totally unrelated to and had a though time actually, maybe later in the year, with more knowledge, I can better understand it.
 
@@ -206,7 +206,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [AI Online Course, Chapter 7](https://www.udemy.com/course/artificial-intelligence-az/ "Udemy paid course")
 - [The theory of dynamic programming](http://smo.sogang.ac.kr/doc/bellman.pdf)
 
-## Day 19, Jan 19th 2020:
+## Day 19, Jan 19th 2020
 
 **Today's Progress**: Back to one of my favourite things, UX/UI. A basic canvas for mocking on mobile and how to use my smartphone to actually test it and see how it responds. Some more Adobe XD features.
 
@@ -216,7 +216,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [User Experience Design Essentials Course, Chapter 7-9](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
 
-## Day 20, Jan 20th 2020:
+## Day 20, Jan 20th 2020
 
 **Today's Progress**: Back to the research, I was working hard on undestand concepts and finally came with a new updated parser that solved many problems we did not realize were happening, from MXML to XES.
 
@@ -226,7 +226,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [MXMLtoXES](https://github.com/AndreRdz7/MXMLtoXES "Updated")
 
-## Day 21, Jan 21st 2020:
+## Day 21, Jan 21st 2020
 
 **Today's Progress**: More from UX/UI, now with colors and text/fonts, for better presentation, good contrasts, even gradients, not much theory of colors or something like that, was pretty much an Adobe XD tutorial on colors, kinda dissapointed, the best part was the realistic buttons. New courses from my semester! I'll learn advanced databases, intelligent systems, compilers and computer vision, as well as keep making progress on research.
 
@@ -236,7 +236,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [User Experience Design Essentials Course, Chapter 10-11](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
 
-## Day 22, Jan 22nd 2020:
+## Day 22, Jan 22nd 2020
 
 **Today's Progress**: Wanted a break from everything, so I searched in my Learnathon YouTube playlist something interesting and fount a video of Pug, wich is a HTML preprocessor in Node.js that basically turns HTML into a programming language with loops, conditionals, cases, mixins, etc.
 
@@ -246,7 +246,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Pug Template Engine](https://www.youtube.com/watch?v=kt3cEjjkCZA&list=PLfFNwm8Ee2NKmUaWjo0SSYsNjqMAUP6QQ&index=24&t=0s "freeCodeCamp.org YouTube video")
 
-## Day 23, Jan 23rd 2020:
+## Day 23, Jan 23rd 2020
 
 **Today's Progress**: Heavy on research, made an Jupyter Notebook to make data exploration and read a _very_ interesting chapter of a really nice book written by Marlon Dumas, et. al., wich is a professor I will be working on indirectly, probably will meet him soon. The notebook are some basics of Pandas, I'm planning to get way better at pandas to make it a toolkit that I can handle, not only for this project, but for ML in general.
 
@@ -257,7 +257,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [Notebook](https://github.com/AndreRdz7/CalendarVisualization "Jupyter Notebook")
 - [Fundamentals of Business Process Management](https://www.springer.com/gp/book/9783662565087 "Buy the book")
 
-## Day 24, Jan 24th 2020:
+## Day 24, Jan 24th 2020
 
 **Today's Progress**: Dynamic polymorphism, Base class pointers, virtual functions and destructors, override specifier, Base class references and Abstract classes as Interfaces.
 
@@ -267,7 +267,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [C++ Online Course, Chapter 16](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 
-## Day 25, Jan 25th 2020:
+## Day 25, Jan 25th 2020
 
 **Today's Progress**: Back to work, read a lot of the new React code on my job and did a little bit of changes, merele aesthetic, wich will be all of my work for this week, make the page look beautiful.
 
@@ -277,7 +277,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Logic1CS website](https://logic1csweb.azurewebsites.net/home "Visit us!")
 
-## Day 26, Jan 26th 2020:
+## Day 26, Jan 26th 2020
 
 **Today's Progress**: Full on research today, managed to complete my task of data wrangling on the log.csv file generated by BIMP upon a .bpmn file created in Signavio. managed to use Pandas to create graphics and easily visualize the data so assuptions can be made.
 
@@ -287,7 +287,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 
-## Day 27, Jan 27th 2020:
+## Day 27, Jan 27th 2020
 
 **Today's Progress**: Adobe XD functionalities like drawing custom icons (ideal for apps), stokes and lines, pen tool. Tips on how to work with Adobe Illustrator and InDesign alongside XD.
 
@@ -297,7 +297,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [User Experience Design Essentials Course, Chapter 12-14](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/ "Udemy paid course")
 
-## Day 28, Jan 28th 2020:
+## Day 28, Jan 28th 2020
 
 **Today's Progress**: A lot of discussion with my professor on where we should take the research, we are taking the right path and going on with a nice pace, our aim is to publish a paper for the BPM 2020 in Sevilla, Spain, with me as a coauthor for the paper. And with me as the lead and only author for a demo paper on my work to attend and do a speech at the same conference. Another options we are aiming are ICPM in Italy, CIC anc MICAI in Mexico. Updated the previous notebook to include hours in the schedule tracker.
 
@@ -307,7 +307,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 
-## Day 29, Jan 29th 2020:
+## Day 29, Jan 29th 2020
 
 **Today's Progress**: More progress on my applied research, on methods of calculating effective working hours when a log is given. More details will be displayed on the paper I will be co-author, for now, I'll just explain in a nutshell the progress.
 
@@ -317,7 +317,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 
-## Day 30, Jan 30th 2020:
+## Day 30, Jan 30th 2020
 
 **Today's Progress**: More progress on my applied research, using a combined data of the event types of starting and completing tasks, an aproximate schedule is set for the minimum hour in the log and the maximum hour in the log, and their respective day, no assumptions are made that the resources work con continued days and at the same hours, but most of the software for simulation, including Simod (what we will upgrade) has this limitations of starting and ending day and starting and ending hour, there cannot be flexible schedules like Monday 8-10, Wednesday 8-12 and Friday 9-13; we understand the mayority of the industry runs fixed schedules, specially the ones that have logs, so for now, we will focus on fixed schedules but we leave the door open for flexible schedules. Just to relax myself did some CodeWars Katas on C++.
 
@@ -328,7 +328,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 - [Code Wars](https://www.codewars.com/)
 
-## Day 31, Jan 31st 2020:
+## Day 31, Jan 31st 2020
 
 **Today's Progress**: I discussed with my professor and we decided we need to upgrade our simulation tools, we kindly asked Abel (BIMP creator) to make some updates on his software, while he decides to update it or not, we are contemplating to use an open source one and have another researcher to upgrade it to our needs. Some extensions on Simod forked repository, for calendar creations, not only default and 24/7, work still in progress.
 
@@ -338,7 +338,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 32, Feb 1st 2020:
+## Day 32, Feb 1st 2020
 
 **Today's Progress**: Finished the Deep Convolutional Q-Learning tutorial to make an AI play Doom, it's very interesting how 'easy' is to make an AI to 'see' and learn from it, since I will be taking a Computer Vision course at the university this semester, I'm planning to make something with AI for the final project. Startes the A3C intuition, the best _yet_ AI algorithm provided by Google.
 
@@ -348,7 +348,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [AI Online Course, Chapter 11-13](https://www.udemy.com/course/artificial-intelligence-az/ "Udemy paid course")
 
-## Day 33, Feb 2nd 2020:
+## Day 33, Feb 2nd 2020
 
 **Today's Progress**: Busy day, but I managed to learn/code for +1hr, sticking to my goals, back to GraphQL, onto mutations and proper folder structure.
 
@@ -359,7 +359,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [GraphQL Online Course, Chapter 3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
 
-## Day 34, Feb 3rd 2020:
+## Day 34, Feb 3rd 2020
 
 **Today's Progress**: Consistency is key, that's why I managed to organize myself and finish the GraphQL basics, finishing the mutations with the updates and the subscriptions (sockets) that turned out to be quite easier to implement in the backend than in the frontend (previous experience).
 
@@ -370,7 +370,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [GraphQL Online Course, Chapter 3](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
 
-## Day 35, Feb 4th 2020:
+## Day 35, Feb 4th 2020
 
 **Today's Progress**: Worked in the Simod notebook, specifically on the calendar creation, where only default values were available (24/7 & 9to5MonToFri). A lot of trial and error since it was not documented and the names are not quite as descriptive, specially the widget part.
 
@@ -380,7 +380,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 36, Feb 5th 2020:
+## Day 36, Feb 5th 2020
 
 **Today's Progress**: Apparently what I did was wrong, well, if not wrong, was unnecesary for the moment, I misunderstood a bit my professor, but, the project is not broken, just "wasted" a weekend. Worked with Scylla, a simulator (replacing BIMP in our workflow) to check the calendars, comparing the default (9 to 5, Monday to Friday) with a custom variation, turns out, the notebook (BPM Calendar) works as spected, so It will be integrated to the Simod notebook as a function, the thing is.
 
@@ -391,7 +391,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 - [Scylla, BPMN Process Simulator](https://github.com/bptlab/scylla)
 
-## Day 37, Feb 6th 2020:
+## Day 37, Feb 6th 2020
 
 **Today's Progress**: Great progress made in the research, my output was as espected. The purpose of the BPM Calendar notebook is finally reached, retrieving a Calendar, it's next iteration will be getting the amount of resources. Started the XML creator, given the output of the previous notebook, it will create an XML configuration file for Scylla, and repeat the simulation in a pipeline, were we will determine the actual calendar of the resources.
 
@@ -402,7 +402,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [XML Creator](https://github.com/AndreRdz7/XML_Configuration_Creator)
 - [Scylla, BPMN Process Simulator](https://github.com/bptlab/scylla)
 
-## Day 38, Feb 7th 2020:
+## Day 38, Feb 7th 2020
 
 **Today's Progress**: Finished my winter intensive courses in college, I'm feeling **really** tired, dunno why, but somehow managed to do 1+ hr on this challenge on upgrading the GraphQL environment with Prisma, a DB mounted on Heroku and using Docker.
 
@@ -413,7 +413,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [GraphQL Online Course, Chapter 5](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraphQL_Prisma "Code from the Course")
 
-## Day 39, Feb 8th 2020:
+## Day 39, Feb 8th 2020
 
 **Today's Progress**: Finished the calendar functionality on the BPM Calendar notebook, a full month of work in applied research, down to few lines of code. Upgraded de XML Creator but I can't get it to work properly.
 
@@ -423,7 +423,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 
-## Day 40, Feb 9th 2020:
+## Day 40, Feb 9th 2020
 
 **Today's Progress**: Struggled a lot trying to make my work done on Logic1 responsive, I don't understand why some pages are fully responsive and others simply look awful, I need help from my colleague [JC](https://github.com/JCVelazco "GH Profile").
 
@@ -433,7 +433,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No repo available (private)
 
-## Day 41, Feb 10th 2020:
+## Day 41, Feb 10th 2020
 
 **Today's Progress**: Finished XML Creator for Scylla configuration, my professor is very satisfied with my work, and I'm very proud of it, I have put onto it many many hours and the reward is actually tangible. Next step will be to make it a pipeline and decide the direction of the research paper based on the 'recently' published (similar topic) from belgium researchers. Finished some little topics on Prisma on my journy on GraphQL, next step will be Authentication. New semester beggins, with Compilers and Intelligent Systems looking very promising.
 
@@ -445,7 +445,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [GraphQL Online Course, Chapter 5](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraphQL_Prisma "Code from the Course")
 
-## Day 42, Feb 11th 2020:
+## Day 42, Feb 11th 2020
 
 **Today's Progress**: More new classes, Computer Vision: learnt some theory behind what it does and the building blocks of CV, on Advanced Databases, by my own, watched a long video about SQL queries, to refresh my memory.
 
@@ -455,7 +455,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [SQL Tutorial](https://youtu.be/HXV3zeQKqGY "Starting at 1:15:50")
 
-## Day 43, Feb 12th 2020:
+## Day 43, Feb 12th 2020
 
 **Today's Progress**: New analysis on the BPM Calendar notebook, on a new .csv file from a real source (not simulated), however, the output was not as spected, the amount of resources was way too high and the data was so messy, we need to do first a role discovery based on the Simod notebook to further clean the data. Added to the XML Creator a file writing functionality.
 
@@ -466,7 +466,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [XML Creator](https://github.com/AndreRdz7/XML_Configuration_Creator)
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 
-## Day 44, Feb 13th 2020:
+## Day 44, Feb 13th 2020
 
 **Today's Progress**: More compilers theory, of how the general pipeline works, some topics on lexical analysis and semantic analysis. A review of Chomsky hierarchy and formal languages. More ML fundamentals, on the features classification (quantitative and qualitative), and some golden rules like: "Do not modify your data to make it fit for an algorithm and learn to work with incomplete data". How supervised algorithms are validated with techniques like k-fold cross-validation and random cross-validation.
 
@@ -476,7 +476,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No worklink available
 
-## Day 45, Feb 14th 2020:
+## Day 45, Feb 14th 2020
 
 **Today's Progress**: More progress on discovering how to improve Simod, now we know the mid-output part of the process, it will be mixed with my BPM Calendar notebook and the feature I added to Simod to further create the calendars by Role (not resource) and go further with our research.
 
@@ -486,7 +486,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [BPM Calendar Jupyter Notebook](https://github.com/AndreRdz7/BPM_Calendar "Anaconda/Jupyter required")
 
-## Day 46, Feb 15th 2020:
+## Day 46, Feb 15th 2020
 
 **Today's Progress**: Learn the basics of Matplotlib file displaying, as well as OpenCV image read concepts, and some drawing functions.
 
@@ -497,7 +497,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [OpenCV Online Course, Chapters 1-3](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/ "Udemy paid course")
 - [OpenCV Repo](https://github.com/AndreRdz7/OpenCV "Anaconda/Jupyter required")
 
-## Day 47, Feb 16th 2020:
+## Day 47, Feb 16th 2020
 
 **Today's Progress**: Since we are competing with another work, we decided to make a deep insight on our competence, so I read the article published by Elsevier on ScienceDirect. Apparently, what we are trying to do is moreless already done by them, but not exactly, and it's performed in R, and it's virtually no documented at all, not even a Readme, so it was really though figuring out what the code was doing (specially because I'm not quite familiar with R, just a few ML examples on it).
 
@@ -508,7 +508,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [ScienceDirect Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437919305150 "You need to pay or be an academic in order to read it")
 - [Paper's Code](https://github.com/nielsmartin/resource_availability_calendars)
 
-## Day 48, Feb 17th 2020:
+## Day 48, Feb 17th 2020
 
 **Today's Progress**: Upgraded the XML writter in order to parse Simod's output on calendars into XML for Scylla, not that hard of a task but rather a little bit of time consuming, fun nonetheless.
 
@@ -518,7 +518,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [XML Creator](https://github.com/AndreRdz7/XML_Configuration_Creator)
 
-## Day 49, Feb 18th 2020:
+## Day 49, Feb 18th 2020
 
 **Today's Progress**: Long chapter reading on database transactions theory, it was a lot of content, I learn't a lot of things like issues that can occurr on concurrent access on databases, how to handle them and the event log completness, recoverability, serializability and what information should include.
 
@@ -528,7 +528,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Fundamentals of Database Systems, Elmasri](http://cis.csuohio.edu/~sschung/cis612/Elmasri_6e_Ch21_Transaction.pdf "Chapter 21")
 
-## Day 50, Feb 19th 2020:
+## Day 50, Feb 19th 2020
 
 **Today's Progress**: Spent a lot of time doing work on the research, by mkaing the notebook better on how Simod works and adding a threshold support value to the schedules to 'mark' them correct. Tried to integrate Scylla to Simod, but the reference of Simo 1.0.0 is even less documented, so many many things were black boxes and configurations varied a lot between versions.
 
@@ -538,7 +538,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 51, Feb 20th 2020:
+## Day 51, Feb 20th 2020
 
 **Today's Progress**: Exercises on regular languages and regular expressions, a little bit of a review from 2 semesters ago. Talked with my professor on what to do now that I reached a wall, so we decided to change the scylla jar we are using to a GUI-less one, since I have the configuration xml writer there should be no problem to execute it, I just need to get the bpmn file from splitminer on Production.xes and figure out the simulation file.
 
@@ -548,7 +548,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 52, Feb 21st 2020:
+## Day 52, Feb 21st 2020
 
 **Today's Progress**: More computer vision theory and a little bit of practice on convolution operations, the downside of my course is that the professor uses Matlab, a non production/industry environment, so I use OpenCV and I need to constantly look for code equivalences.
 
@@ -558,7 +558,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 53, Feb 22nd 2020:
+## Day 53, Feb 22nd 2020
 
 **Today's Progress**: Started (and semi-finished) my Intelligent Systems homework, where I need to analyze text and add features using [MeaningCloud](https://www.meaningcloud.com/) and [Parallel Dots](https://www.paralleldots.com/) APIs. It was really fun and actually easy to do, just get the key, read the csv and perform the cols iterativeley. The big downsides were the amount of calls and the frequency of calls, Parallel Dots only allows 1000 calls a day within 1 sec each for the free tier, and MeaningCloud 20000 monthly with .5 seconds interval, and for sentiment analysis it uses 2 calls to get the response, so I spent a lot of it, If more work is needed, I may be use another account since I can't afford to pay 80-100 dollars for a homework.
 
@@ -568,7 +568,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 54, Feb 23rd 2020:
+## Day 54, Feb 23rd 2020
 
 **Today's Progress**: Finished the 'responsiveness' on the Logic1CS webpage I was working on, apparently, jobs done, We are waiting for feedback in order to change, add or even develop new projects with them. Upgraded the Simod calendar recovery and resource pool, the XML creator was redesigned into a python script in order to call it from the notebook, some code cleaning was performed.
 
@@ -578,7 +578,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 55, Feb 24th 2020:
+## Day 55, Feb 24th 2020
 
 **Today's Progress**: More recap on finite automata for my compilers course, feels nice to remember things from 1+ year ago. More work done with Simod, with a better .jar file including the dependencies and how to execute it, it will be used alongside splitminer (yet the java version), the only missing thing is the xml simulation file for scylla, since the configuration is done and the bpmn file will be obtained with splitminer, Maybe I will use the Jupyter Notebook widgets to get some values, I don't want them to be hardcoded. Plus, more lectures on OpenCV and image processing techniques such as image blurring, smoothing and morfological operations and some theory behind the kernels (kinda like filters).
 
@@ -588,7 +588,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 56, Feb 25th 2020:
+## Day 56, Feb 25th 2020
 
 **Today's Progress**: Worked with database desgin, on Entity Relation diagram and design of the system of a wholesale store based on memberships and divided in departments, as part of my advanced databases course to implement transactions. No repo will be available (PHP, PDO, HTML, CSS, Bootstrap project) until the delivery date is met (to avoid plagiarism).
 
@@ -598,7 +598,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 57, Feb 26th 2020:
+## Day 57, Feb 26th 2020
 
 **Today's Progress**: Started my homework on computer vision, on image reading, and image and kernel validation, I don't quite fully undestand what the professor is asking so I need to talk to him to finish the homework.
 
@@ -608,7 +608,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 58, Feb 27th 2020:
+## Day 58, Feb 27th 2020
 
 **Today's Progress**: Done my compilers homework, getting regular expressions and their finite automata, the trickiest part was the regex of a languages that do not includes abba as a subword.
 
@@ -618,7 +618,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 59, Feb 28th 2020:
+## Day 59, Feb 28th 2020
 
 **Today's Progress**: Finished my Computer Vision homework, with basically was a hand-made convolution function given a image and a (gaussian) kernel, was not hard, and there are only 5 homeworks in the semester so I hope it gets thougher than this.
 
@@ -628,7 +628,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 60, Feb 29th 2020:
+## Day 60, Feb 29th 2020
 
 **Today's Progress**: Troubleshooting with [Weka](https://www.cs.waikato.ac.nz/ml/weka/) to convert csv file to arff (weka format), as part of my intelligent systems homework, but not much information is on the internet, some questions are as old as 2012 and didn't help me a lot, I managed to fix some issues, but others, apparently are problems with the content of the data, anyway, I spent many hours on it and didn't get any results.
 
@@ -638,7 +638,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 61, Mar 1st 2020:
+## Day 61, Mar 1st 2020
 
 **Today's Progress**: Getting the bpmn file out of splitkmines and writing the sim file in xml to provide to scylla, a litte inconveninence was encountered because the part of the process I extracted the xml did not contain their resource and the probability gateways did not have any data, so I have to imporove the file and make it automatic, will be job for tomorrow.
 
@@ -648,7 +648,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 62, Mar 2nd 2020:
+## Day 62, Mar 2nd 2020
 
 **Today's Progress**: My professor is satisfied with my work, automation needs to be done, so I'll work on it. Finally! some code in compiles using flex, it was a hello world like exercise but code is code. On intelligent systems, the theory behing SVM it's awesome, I may use it for the final proyect, using word2vec + SVM, since the final goal is a highscore on kaggle, not the "perfect" model.
 
@@ -658,7 +658,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 63, Mar 3rd 2020:
+## Day 63, Mar 3rd 2020
 
 **Today's Progress**: More theory on Computer Vision, started a Udacity Free Program and in class, I made a challenge with my friend JC to finish the course in 11 weeks, let's see how much we learn together, since we are team in the CV course con college.
 
@@ -668,7 +668,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Introduction to Computer Vision by Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810 "Introduction to Computer Vision")
 
-## Day 64, Mar 4th 2020:
+## Day 64, Mar 4th 2020
 
 **Today's Progress**: Practiced some SQL Queries by creating the database for the first homework in the university server, with some redesigning to improve performance and make it easier to understand and implement. Tried to progress on the research but the code is so badly documented that sometimes I don't know where to look when I'm trying to find something I need, however, once I got the things I need, I can further work on my part.
 
@@ -678,7 +678,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 65, Mar 5th 2020:
+## Day 65, Mar 5th 2020
 
 **Today's Progress**: Overview of context free grammar and regular grammar in my Compilers class, started my essay in research-based learning for my Database course, learn a lot in my intelligent systems class, on pattern based algorithms, with the great advantage of being human-readable, some theory behind decision trees and association rules.
 
@@ -688,7 +688,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 66, Mar 6th 2020:
+## Day 66, Mar 6th 2020
 
 **Today's Progress**: Some progress on research, tuns out I was doing it not right, I was analyzing data one step ahead than I should, no problem, now I know and my professor is still confident about me and the progress we all are making. Decided that the computer vision project will be sign language recognition, for now, we have letters and numbers both for men and women, but we need full words if we want to make it better.
 
@@ -698,7 +698,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 67, Mar 7th 2020:
+## Day 67, Mar 7th 2020
 
 **Today's Progress**: Finished my second homework of Intelligent Systems, consisting in convert a csv file to arff (for Weka) and obtaining insights about the data, I was really fun to watch many many plots and trying to give them the proper interpretation, understand how the data is separated between spam and non spam. Finished my essay on research-based learning.
 
@@ -708,7 +708,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 68, Mar 8th 2020:
+## Day 68, Mar 8th 2020
 
 **Today's Progress**: Super improved my XML writer for the simulation, however, the data it takes it's not "real" and the structure is very convenient for me, but I made it based on my previous interaction with data delivered by Simod, very close to the goal. I'll be back to my past job at Inment Dev becaouse I really need a stronger income for my girlfriend's masters degree, I'll rejoin on Wednesday.
 
@@ -718,7 +718,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 69, Mar 9th 2020:
+## Day 69, Mar 9th 2020
 
 **Today's Progress**: Yes, finally, the theory on Imbalances class for Machine Learning, the last homework was kind of a nightmare because it was so unbalances that making out conclussions was very hard, but now we are authorized to do undersampling to make it even. Started my database homework on implementing transactions on PDO.
 
@@ -728,7 +728,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 70, Mar 10th 2020:
+## Day 70, Mar 10th 2020
 
 **Today's Progress**: Spent about 8 hours doing the homework of PDO, learnt a lot of what NOT to do on php and PDO because at the end it failed, I failed my team and failed to myself.
 
@@ -738,7 +738,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available, Yet
 
-## Day 71, Mar 11th 2020:
+## Day 71, Mar 11th 2020
 
 **Today's Progress**: Yes back to work, doing Angular (yay!), implementing sketches on financial reports that will make calls from a GraphQL API, very excited to keep working and improving my skills, and also keep supporting my girlfriend. New meeting, new project for CV, no more hand sign recognition, instead it will be a handwrite to speech/text.
 
@@ -748,7 +748,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available
 
-## Day 72, Mar 12th 2020:
+## Day 72, Mar 12th 2020
 
 **Today's Progress**: Pushdown automaton theory, feels amazing to remember such things, we will begin to write the final project (interpreter) very very soon). Bagging and Boosting on Machine Learning, learnt the advantages and disadvantages of both tecniques, personally, I thing ML/AI is the most interesting topic that can be related to math and pure computer science right now. FInished the third homework, making knn algorithms with k=3 and k=5 to train in weka and the test it and upload it to Kaggle(private contest).
 
@@ -758,7 +758,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available, Private Competition
 
-## Day 73, Mar 13th 2020:
+## Day 73, Mar 13th 2020
 
 **Today's Progress**: Done the 4th homework of intelligent systems, using 4 pattern-based classifiers, I used J48 (Decision Tree), Random Forest, FURIA and REPTRee and the highest perform was .63xxxx by FURIA. Did some other views in my job, about financial utilities for the hospital.
 
@@ -768,7 +768,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available, Private Competition
 
-## Day 74, Mar 14th 2020:
+## Day 74, Mar 14th 2020
 
 **Today's Progress**: Done some lectures in Udacity about Computer Vision, very interesting by the way, a little bit more of GraphQL (because I need to finish it ASAP, I really like the topic and want to finish it).
 
@@ -780,7 +780,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [GraphQL Online Course, Chapter 6](https://www.udemy.com/course/graphql-bootcamp/ "Udemy paid course")
 - [GitHub Repo](https://github.com/AndreRdz7/GraqlQLBasics "Code from the Course")
 
-## Day 75, Mar 15th 2020:
+## Day 75, Mar 15th 2020
 
 **Today's Progress**: Added 5 more features to my dataset for Intelligent Systems, using the abhorrend parallel dots API, adding the intent of the text (spoiler, I'm very dissapointed with the results), in order to do homework 5 and 6 tomorrow. Done a full summary for the Intelligent System's exam, although it will be next week.
 
@@ -790,7 +790,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 
 - No Repo Available, Private Competition
 
-## Day 76, Mar 16th 2020:
+## Day 76, Mar 16th 2020
 
 **Today's Progress**: Tried to finish my Intelligent Systems' homework, unfortunatly, although I managed to create cost matrix for CostSensitiveClassifier algorithm with FURIA, I couldn't do and undersampling with SpreadSubSample nor an oversampling with SMOTE, because somehow the button to apply those filters specifically was disabled. Finished 3/4 of my homework/exam for compilers, on designing Context Free Grammars and evaluate a Grammar to produce words, the missing part is a flex file that recognizes Java-like numbers, symbols and reserved words, that will be the fun part. Keeping the mood of Databases, did problems 1378, 1350 & 1068 of LeetCode.
 
@@ -801,7 +801,7 @@ videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics le
 - [Interpreter](https://github.com/AndreRdz7/Basic_Interpreter).
 - [LeetCode](https://leetcode.com/)
 
-## Day 77, Mar 17th 2020:
+## Day 77, Mar 17th 2020
 
 **Today's Progress**: Read some extracts of articles related to graph databases in order to do the second phase of research-based learning, I choose that topic because I find it really interesting and I think it will be the standard in the future, like GraphQL will be a must learn in univerisites.
 Did problems 1342, 509, 346 of LeetCode.
@@ -812,7 +812,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 78, Mar 18th 2020:
+## Day 78, Mar 18th 2020
 
 **Today's Progress**: Finished my 'essay' on graph databases for the research-based learning activity, it took me quite some more time than expected, but finished it anyway. Finished my fifth homework of intelligent systems, went up in kaggle from 6 to 1 (for now, obvi), and was really fun. Started my sixth homework and yep, did not finished the 4 I wanted.
 
@@ -822,7 +822,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [Articles From ACM Digital Library](https://services.acm.org/public/qj/keep_inventing/qjprofm_control.cfm?promo=DA4SCA)
 
-## Day 79, Mar 19th 2020:
+## Day 79, Mar 19th 2020
 
 **Today's Progress**: Finished my sixth homework of intelligent systems, improved just a little bit over last homework, still in first place (for now).
 
@@ -832,7 +832,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - No Repo Available, Private Competition
 
-## Day 80, Mar 20th 2020:
+## Day 80, Mar 20th 2020
 
 **Today's Progress**: Took my day off, only watched some YouTube videos about software trends of 2020, about web development, ML/AI, interviews, etc.
 
@@ -844,7 +844,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [AI in 2020](https://www.youtube.com/watch?v=6SWpN64Ivb4 "Henry AI Labs")
 - [Coding Interviews](https://www.youtube.com/watch?v=t9Mvh5wbyXc "Holistic Developer")
 
-## Day 81, Mar 21st 2020:
+## Day 81, Mar 21st 2020
 
 **Today's Progress**: Started new Udemy course, on Reinforcement Learning that promised to be out-of-the-box and not like the others, so I decided to give it a try, and so far I think it's a meh, for now, not my favorite, not the worst. Basically what I learnt was the explore-exploit applications and some methors like Bayesian/Thompson Sampling, Upper Confidence Bound and navie Epsilon-Greedy.
 
@@ -854,7 +854,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [Reinforcement Learning](https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python/ "Paid Udemy Course")
 
-## Day 82, Mar 22nd 2020:
+## Day 82, Mar 22nd 2020
 
 **Today's Progress**: Tried to finish my research homework but failed horribly, basically did no progress at all, other than cleaning some unnecesary files and stablishing analogies, I really now what to do but I cannot do it, don't know why.
 
@@ -864,7 +864,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 83, Mar 23rd 2020:
+## Day 83, Mar 23rd 2020
 
 **Today's Progress**: Did mi intelligent system's exam, did pretty well, I studied a lot for it, I'm very proud of it. Postponed my research homework for Wednesday, I feel terrible about it, I think I'm failing me and my mentor.
 
@@ -874,7 +874,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - No Repo Available
 
-## Day 84, Mar 24th 2020:
+## Day 84, Mar 24th 2020
 
 **Today's Progress**: Nailed it, took me longer than expected but finished my progress on research, feels good. Did my advanced databases exam and I gotta way it was super easy, or maybe I studied a lot, but I finished it in 15 minutes and got a perfect score.
 
@@ -884,7 +884,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 85, Mar 25th 2020:
+## Day 85, Mar 25th 2020
 
 **Today's Progress**: Almost finished my compiler exam, I works completely and it's good, but, I need to separate reserved words and other stuff individually, they are, for now, mixed together, just for testing.
 
@@ -894,7 +894,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [Interpreter](https://github.com/AndreRdz7/Basic_Interpreter)
 
-## Day 86, Mar 26th 2020:
+## Day 86, Mar 26th 2020
 
 **Today's Progress**: Finished my compilers exam, It was pretty fun, flex is really interesting, can't wait to start using yacc. Found bugs with my professor in my work of research, we hunted some but thre are some remaining, I'll address it tomorrow to keep going forward.
 
@@ -905,7 +905,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [Interpreter](https://github.com/AndreRdz7/Basic_Interpreter)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 87, Mar 27th 2020:
+## Day 87, Mar 27th 2020
 
 **Today's Progress**: Hunted some bugs in Simod, still work to do, sigh, I just want to integrate the new SplitMiner and the Simulator from my colleagues. Continued my journey on OpenCV, with video basics, like connecting the camera or using video files, and drawing live on camera, this will be somewhat 'useless' for my project, because we will use simple images, but it was fun nonetheless.
 
@@ -916,7 +916,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 - [OpenCV Online Course, Chapters 4-5](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/ "Udemy paid course")
 
-## Day 88, Mar 28th 2020:
+## Day 88, Mar 28th 2020
 
 **Today's Progress**: Went reckless and relentless with OpenCV, since I wasn't on the mood really for finishig correcting Simod, learned a lot, basically, all the basics of object detection, including template matching, 2 different approaches for corner detection, edge detection, grid detection, contour detection, feature matching and a super cool algorithm called watershed, and some introduction to face detection.
 
@@ -926,7 +926,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [OpenCV Online Course, Chapters 6](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/ "Udemy paid course")
 
-## Day 89, Mar 29th 2020:
+## Day 89, Mar 29th 2020
 
 **Today's Progress**: Simod fully debugged and almos fully-automated for Scylla simulation execution. Phew, took a while, and some errors were insane, like, typos that broke everything, or missing tags that I totally missed to lookout.
 
@@ -936,7 +936,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 90, Mar 30th 2020:
+## Day 90, Mar 30th 2020
 
 **Today's Progress**: More theory on compilers, on FIRST and FOLLOW functions useful for syntactic recognizers, very interesting theory, cannot wait to apply it to my interpreter with Bison. More theory on Intelligent Systems, on statistics for ML models, comparing 1 vs 1, 1 vs all and all vs all, very interesting topic, also, the professor gave us full insight about Covid-19 in our city, with predictions based on SEIR model with data from a lot of sources, pretty scary, but interesting aswell. Delivered my part to my professor on research, but again, another trouble, works son the GUI but not in CLI, neet to figure it out.
 
@@ -946,7 +946,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 91, Mar 31st 2020:
+## Day 91, Mar 31st 2020
 
 **Today's Progress**: A lot learnt on Advanced Databases, on how to use MySQL with triggers, stored procedures, functions, events, varaiables, and other nice stuff, pretty fun class, have a lot to do from homework, brightside, we can use any language for backend and frontend, meaning, Angular + Node.js.
 
@@ -956,7 +956,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - No Repo Available
 
-## Day 92, Apr 1st 2020:
+## Day 92, Apr 1st 2020
 
 **Today's Progress**: Almost finished my database first homework, I made all the steps needed for a procedure but encapsulation (in the actual procedure) is needed, pretty fun tho. Started the LeetCode Challenge on 30 Days, done the problem 136 (challenge) and the follow up, 137. Struggled with my reseach 'task', I can perform it the 'easy' way but not in the 'right' way.
 
@@ -966,7 +966,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 93, Apr 2nd 2020:
+## Day 93, Apr 2nd 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 202, it was 'tricky', but overall it was fun. Got more Compilers homework, that actually looks not fun at all, sadly. More theory on Intelligent Systems, with Bayesian Networks, looks cool, kinda similar to DecisionTrees, I'm excited to do the new homework. Back to my job, since the client took way too long to respond (since it's a hospital, with this pandemic sure they have a lot of work), some slight modifications where done to financial reports.
 
@@ -976,7 +976,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 94, Apr 3rd 2020:
+## Day 94, Apr 3rd 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 53, it was familiar, I knew the best specific algorithm for the problem, the Kadane's Algorithm, so it was 'easy' for me to solve it, most of these problems are super easy to solve usigin a lot of time and a lot of memory, the real challenge is to use the fastest and the one with the lower memory consumption. Finished my database homework my procedure, it works as spected, I'm really happy about the result. Also, discussed with my team about the project, we have roles now and the milestones for it, it will be a nice project, I'll work on the backend and the frontend with Angular, Node, Postgres, and MongoDB.
 
@@ -987,7 +987,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Kadane's Algorithm](https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6)
 
-## Day 95, Apr 4th 2020:
+## Day 95, Apr 4th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 283, I think, overall it has good difficulty, it feels like we are upgrading, also did 1303 just because. More documentation and explanation on the databases project, also created the template on Angular and soon I will make the backend and integrate them both, should not take more than a couple of hours. Learnt about ApolloCache, read a lot and searched for infomation on how to implement it on Angular, for my surprise, I realized that had to be done on the backend...waste of hours
 
@@ -997,7 +997,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 96, Apr 5th 2020:
+## Day 96, Apr 5th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 122, quite interesting, not super hard not super easy, was somewhat familiar to me, and it has a lot of variats I would like to solve, because they range from easy to hard, also did 1350 to practice SQL. I missed CodeJam, I dunno why, I registered and set my calendar but I did not get notified and realized it was this day in the evening, so I watched some summaries solving the problems, they seem quite challenging, I know competitive programming is different than interview questions, but they look so different from regular LeetCode problems.
 
@@ -1007,7 +1007,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 97, Apr 6th 2020:
+## Day 97, Apr 6th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 49, I was 'easy' in brute force but I was thinking all the posibilities to make it pure O(n) and didn't found a solution, turned out, it basically the fastest is O(nk)-ish more like O(nlogn) with O(n) in memory. Did my 7th homework in intelligent systems with very dissapointing results, Bayesian Networks performed super bad, I don't know if it failed for my features or the way I treated the missing values, but I was expecting better results, I might vectorize all and do SVM, but proooooobably not in Weka but only nltk and scikit learn, using my computer and not my laptop. Worked more with the database homework, since it was an unbalanced amount of work, I helped with a trigger and it was pretty fun. Worked with Angular, adding functionalities, now, the hospital can handle urgencies and improved medical services (more data).
 
@@ -1017,7 +1017,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 98, Apr 7th 2020:
+## Day 98, Apr 7th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem actually unknown, I searched in the overall pool of problems and did not found it, followed the hints on LeetCode since I was not sure I fully understood the problem, at the end, after the hints I was right and was a successfull upload, also did problems 1351 and 1365. Also did my part of the database project, the first milestone, the backend of the login with Node and MongoDB, with crypted password and jwt, tomorrow will ad the frontend in Angular.
 
@@ -1027,7 +1027,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 99, Apr 8th 2020:
+## Day 99, Apr 8th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 876, linked list, find the middle value, pretty easy to be honest, solved the right way since it was 100% faster and 100% less memory on C++, also did 1085, 586 and 100. Did the frontend part of the login and register for the project, I really like Angular, it's just perfect for me. Also tried to work on my job, but the project is really big and got lost between files I thought I had to modify and in the end I could finish my task so I asked for help and guidance to my superior. Advanced a little bit on my article-like report on relational vs graph databases.
 
@@ -1037,7 +1037,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 100, Apr 9th 2020:
+## Day 100, Apr 9th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 844, that was somewhat string manipulation but it can be done just by iterating and keeping some record on variables, did no more problem, I felt **really** bad today, had terrible headaches. Finished my task on my job, with guidance on where the files are was easier and more enjoyable. And yeah, 100 days...
 
@@ -1048,11 +1048,11 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/htmlview#)
 
-## Day 101, Apr 10th 2020:
+## Day 101, Apr 10th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 155, a 'system design' on a stack that also tracks the minimum number, I was fun, also did another problem, 141, a [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/ "Official site") classic. Started the Junior Training sheet, did 3 problems, 677-D2-A, 634-D2-A and 112-D2-A, just to warmup and see how it works, I'm very excited about it.
 
-**Thoughts**: I spent a few hours on home chores, and also talking and playing with my friend (via [Discord]()). Wasn't a very productive day, I neet to turbo up for the weekend to finish my research task and keep studying and practicing.
+**Thoughts**: I spent a few hours on home chores, and also talking and playing with my friend. Wasn't a very productive day, I neet to turbo up for the weekend to finish my research task and keep studying and practicing.
 
 **Link to Work / References** :
 
@@ -1060,7 +1060,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [Junior Training Sheet Record (Topics1 page)](https://docs.google.com/spreadsheets/d/1FxO1yV1b_4CeicATM_J-NJN24XZF6fXyxN7610DRSlY/edit?usp=sharing)
 - [Code from Training](https://github.com/AndreRdz7/JuniorTrainingSheet)
 
-## Day 102, Apr 11th 2020:
+## Day 102, Apr 11th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 543, a tree problem, I was starting to miss trees and recursion, it was interesting, also did problems 1, 2 and 167. Continued the Junior Training sheet, did 5 problems, 228-D2-A, 231-D2-A, 236-D2-A, 263-D2-A and 265-D2-A, easy but clever, has some trouble with c++ stirngs, so, I learnt and that's what matters the most. Started my task on Simod, to try to make things work by usign all my previous work, not too much to report, tomorrow will be the heavy day.
 
@@ -1073,7 +1073,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [Code from Training](https://github.com/AndreRdz7/JuniorTrainingSheet)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 103, Apr 12th 2020:
+## Day 103, Apr 12th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 1046, a stings adhoc problem, solved it somewhat bruteforcing it, but the output time was really good. Continued the Junior Training sheet, did 4 problems, 381-D2-A, 344-D2-A, 281-D2-A and 268-D2-A, easy, one was a toupper(s[0]) and that was it. Failed to finish my task on research, the herited code is really confusing and somewhat impossible to debug.
 
@@ -1086,7 +1086,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [Code from Training](https://github.com/AndreRdz7/JuniorTrainingSheet)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 104, Apr 13th 2020:
+## Day 104, Apr 13th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 525, array problem reminded me about the Kadane Algorithm, it was somewhat similar, to keep track of current state and use a map for memory, also did problems 1295 and 199. Continued the Junior Training sheet, did 3 problems, 427-D2-A, 431-D2-A, and 791-D2-A, super easy. Discussed with my professor about the research, once again, we are going to leave Simod alone and focus on our things, the code is messy and nos functional as spected, the are some hardcoded things that make it not easily upgradeable. More theory on Compilers, pretty interesting of how LR Compiles build trees based on a stack with contents with pointers. More theory on Intelligent Systems, on feature selection, to determine the best features and some algorithms for it, so, new homework to make, this is 8/10, we are reaching the final of the semester.
 
@@ -1098,7 +1098,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [Junior Training Sheet Record (Topics1 page)](https://docs.google.com/spreadsheets/d/1FxO1yV1b_4CeicATM_J-NJN24XZF6fXyxN7610DRSlY/edit?usp=sharing)
 - [Code from Training](https://github.com/AndreRdz7/JuniorTrainingSheet)
 
-## Day 105, Apr 14th 2020:
+## Day 105, Apr 14th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, unknown problem, apparently not released yet, about string rotation, it was very interesting, also did problem 21, another CtCI classic. Took my advanced databases class and it was quite boring, I pretty much did a recap on postgresql. The computer vision project was kinda messy, I clened the code a little bit. I rewatched 3+ hours of compilers classes and started my homework on build a syntax parser based on a LL(1) grammar.
 
@@ -1108,7 +1108,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 106, Apr 15th 2020:
+## Day 106, Apr 15th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, 238, product of array except itself without division, did a "two pointer" approach, not very efficient but good output on time. Worked the whole day on the compilers homework, struggled a lot, did 2 wrong approaches, but the third was right but I'm having some troubles unfortunately. Failed to finish my task on research, failed hard.
 
@@ -1118,7 +1118,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 107, Apr 16th 2020:
+## Day 107, Apr 16th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, 678, about valid parenthesis but with a little plot twist, very interesting, the little tweak added the right amount of difficulty to be yet enjoyable. Solved my compilers homework doubt, I do not know what was I thinking, maybe sleep depravation or something is making me to think wrong and my logic thought wants some vacation. The Intelligent Systems' class was not quite good, I leart a lot about the aplications of computer vision, but not computer vision per se, didn't bothered me cause I learnt in another course the principles, but if not, I may be mad.
 
@@ -1128,7 +1128,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 108, Apr 17th 2020:
+## Day 108, Apr 17th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, 200, a DFS/BFS problem, did it DFS with recursion, I did this problem on my preparation for my Microsoft Interview, I really like this problem. Did my databases homework part on creating roles, tables and values for it, organizing the deliverables and everithing for monday.
 
@@ -1138,7 +1138,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 109, Apr 18th 2020:
+## Day 109, Apr 18th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, 64, the minimum path sum, got the brute force solution, but it was horrible, so I read the article on the best approaches and got it on DP with constant space (but not so great time). Solved my compilers homework, kinda, the grammar is correct and the recursive functions are correct (lexical analysis) because I tested them by hand, but for any weird reason my yylex() function crashes at some point on whitespaces or \n, so I asked for help.
 
@@ -1148,7 +1148,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 110, Apr 19th 2020:
+## Day 110, Apr 19th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, 33, search in rotated array, heard of this problem before and solved it with a friend about, 7 months ago, but didn't remembered the full solution. Finished my homework of compilers, after many days of struggle, need to clean it before uploading it to GH.
 
@@ -1158,7 +1158,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 111, Apr 20th 2020:
+## Day 111, Apr 20th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, 1008, build a tree given the preorder, sounded familiar, somewhat, but it was fun, recursion with trees is my favorite approach (I searched the optimal solution and turned out to be iterative with a deque, smh). Did my compilers simple practice on bison, yes, no more LL(1) languages, now it will be LR bottom-up for the project. Learnt about one-class classification in my Intelligen Systems class, it was amazing, I've never heard about it before, my professor makes my classes so awe inspiring.
 
@@ -1169,7 +1169,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Bison Practice](https://github.com/AndreRdz7/Bison_Practice-1 "Original Code: Alberto Oliart Ros")
 
-## Day 112, Apr 21st 2020:
+## Day 112, Apr 21st 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, an interactive problem of a matriz, pretty interesting, the first time I solve an interactive problem, kudos on LeetCode. Learnt more about Postgres and go my final project assignment, it will be the online grader I'm working on.
 
@@ -1179,7 +1179,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 113, Apr 22nd 2020:
+## Day 113, Apr 22nd 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 560, subarray sum, solved it like O(n2), since it was on the lower 10th on time but 100% on space, really bad tradeoff I presume. Adavanced with my opinion article on graph databases. Finished my task the best I could on research, hope my professor likes it.
 
@@ -1190,7 +1190,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 114, Apr 23rd 2020:
+## Day 114, Apr 23rd 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 201, got it right-ish, the thing is I got TLE, the brute force solution is not accepted and bitwise problems are not my thing, so I looked up on LeetCode's official articles and got the answer correctly, definetly was not on my mind to do it that way. More compilers theory, on the symbol table for compilers, grosso modo, variables scope on the program. More theory on intelligent systems aboout genetic algorithms, needless to say it is an amazing topic, I was amazed the whole class, I liked it a lot, and I'm super excited to see Reinforcement Learning next class, no doubt I will learn more than I previously did. Onto reseatch, on the right path, now I have another task, we are gaining useful insights on the topic, but, I'm not sure we will be able to finish an article this semester.
 
@@ -1201,7 +1201,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 115, Apr 24th 2020:
+## Day 115, Apr 24th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 146, LRU Cache from scratch on C++, applied the learnt things on constructors and destructors, the use of unordered_map over regular map and the power of iterators. Finished my essay/opinion article/whatever on databases, that was kinda boring to do. And finished my 8th homework of intelligent systems, about principal component analysis, got horrible results, I don't like how weka works on the results like this, will do a word2vec or something like that for the project.
 
@@ -1211,7 +1211,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 116, Apr 25th 2020:
+## Day 116, Apr 25th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 155, a DP or greedy type, the jump game, few years ago did a similar problem, but it was on a stair and it was very similar, I prefer the greedy approach, although the DP is more intuitive. Did my databases homework for the team, It was easy, just run a PDO crud with postgres, the challenging part was to know what was failing with the apache service and the postgres default user and password on Ubuntu.
 
@@ -1221,7 +1221,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 117, Apr 26th 2020:
+## Day 117, Apr 26th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 1143, another DP problem, on substrings, i got the brute force 'no problem' but it was super expensive in time, so, with the LeetCode hints, got de DP version. Watched some TypeScript videos to refresh my memory on Udemy. Finished my task on Reasearch, almost almost, the calendar discovery is completed post grouping, however, the scylla .xes file does not work with the log reader... so, big problem here.
 
@@ -1231,7 +1231,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 118, Apr 27th 2020:
+## Day 118, Apr 27th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 221, find a square of 1s inside a matrix, did a brute force aproach, like a sliding window applying a filter to an image, but the window changes size, didn't manage to get the DP version. New compilers homework, to create the symbol table, using flex and bison, will do probably a linked list with union types as value, and a char array as the name of the type, I already made the tokenizer and the grammar, tomorrow will apply the maths and on wednesday will start the symbol table. More theory on Intelligent Systems, Reinforcement Learning, to take a step deeper on applications on what I know, no math approach. Also did my ninth homework, trying new algorithms with Weka, was very dissapointing, used SMOTE+Discretize(filter)+JRip, weka results were pretty good, but Kaggle results were pretty bad, basically a random would perform the same, then I tried Multilayer Perceptron, awesome GUI, but at the end, Kaggle results were meh, no better results at all.
 
@@ -1242,7 +1242,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - Compilers homework will be available after deadline
 
-## Day 119, Apr 28th 2020:
+## Day 119, Apr 28th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, a 'system design' problem, on a stack with the first unique character, solved it witha regular queue and an unordered_map, tricky but not impossible, also solved 485 and 977. More homework on compilers, giving functionality on bison, tomorrow will implement the linked list and the symbol table. Learnt by myself about Mongo, more like a refresher because I previously worked with it, for my Database course quiz (next tuesday).
 
@@ -1253,7 +1253,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
-## Day 120, Apr 29th 2020:
+## Day 120, Apr 29th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 124, my first hard problem on this journey and it wasn't that hard, I found way harder de DP problems than this. Implemented the linked list struct and functions to insert, modify and read, alongside with error handling, looking good so far. Started my overview on Intelligent Systems for my exam.
 
@@ -1264,7 +1264,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
-## Day 121, Apr 30th 2020:
+## Day 121, Apr 30th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem unknown, but it was to verify if a string satisfies a tree path from root to leaf, was not hard at all, DP problems were, definetly, will do May Challenge too. Continued my overview of Intelligent Systems, just Reinforcement Learning and the topic of today, data visualization is left. Corrected the compilers homework, now I know I have to reduce the function size and separe it on smaller functions according to the bison process. Started to testing the Junior Training Sheet program, by doing a speedrun, was pretty fun actually, but it will force myself to finish another pretty long task.
 
@@ -1277,7 +1277,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LV0 Code](https://github.com/AndreRdz7/LV0/tree/master)
 - [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
-## Day 122, May 1st 2020:
+## Day 122, May 1st 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 278, about binary search trees, got in the mood so I did another 4 problems on binary trees, problems 374, 938, 700 and 270. Added a little bit to my compilers homework, making it correct on empty words. Started my coursera course on Graph Algoritms, learnt even more about BSF and DFS and algorithms derived that can improve solutions.
 
@@ -1288,7 +1288,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
-## Day 123, May 2nd 2020:
+## Day 123, May 2nd 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 771, quite easy, solved it before the best way I could think of so I decided to do the brute-force-ish way, bad time good memory, Accepted, warming up for harder problems. Started my overview o distributed databases, since the class was just 10 min of a super overview, so I did my own overview, by learing by myself, quiz is on Tuesday and NoSQL is already reviewed, so I have less things to study for.
 
@@ -1298,7 +1298,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 124, May 3rd 2020:
+## Day 124, May 3rd 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 353, about maps, solved quite easily, it was basically the same approach as the last one, jewels and stones. Finished the chapter on blind search algorithms in graphs, passed the test, now, a notebook (Jupyter) must be completed and evaluated to finish the tasks and move on the next chapter, will upload to GH giving all credits to coursera and the professor, just will expose my solutions. Finished my research task, was not hard at all, some configuration modifications. Added de type comparison con the compilres homework, really tricky since C does not provide a natural way to do it.
 
@@ -1309,7 +1309,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
-## Day 125, May 4th 2020:
+## Day 125, May 4th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 476, bitwise, my worst category, didn't manage to get the result, only with LeetCode's hint and searching online, so the honest thing to do was not to submit it to the challenge, as actually did not manage to get the result by myself. More theory on compilers, honestly, was not very interesting but is useful for the project. Rearch task was good, my professor liked it, now a new task, to go further in a similar way but other approach. Studied the decentralized databases on a video, because the powerpoint was boring and was not very explicative. Started my research task, building a data structure for calendar discovery and some log data filling, but the output does not convince me at all, dunno why, look irrealistic.
 
@@ -1318,10 +1318,10 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
-- [Distributed Databases](https://www.youtube.com/watch?v=0_m5gPfzEYQ&feature=youtu.be "CMU Database Group's YouTube channel)
+- [Distributed Databases](https://youtu.be/0_m5gPfzEYQ)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 126, May 5th 2020:
+## Day 126, May 5th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 378, another problem easily solved with a map, also did 744. Did my pre-partial quiz-like exam on Databases, based only on MongoDB, went well with 90%. Did my part of the last Databases homework, designing the structure of the data for a MongoDB database, was fun to do.
 
@@ -1331,7 +1331,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 127, May 6th 2020:
+## Day 127, May 6th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 169, another map problem, but at first glance probably the solulion looks like a sorting problem, and can be done that way, I will increse from O(n) to O(nlogn) in time but decrease from O(n) to O(1) in space, so I think both are optimal solutions, depending on the tradeoff. Also did problems 1431 and 35. Finished my Intelligent Systems review for my partial exam (tomorrow). Started my task on research but I got complicated, I dunno why, variables where modified without me explicitly changing any value, super weird.
 
@@ -1342,7 +1342,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 128, May 7th 2020:
+## Day 128, May 7th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 993, kinda weird, about cousins in trees, definetly not an 'easy' warming up problem, it was easy for be becuase I've solved tree problems recently, if not, probably would be harder. Did my Intelligent Systems exam, took me about 3 hours, not super hard, just tricky and really interesting, I'm aiming for a 105 (extra points). Also spent a lot of time with other exam not programming related (Intelectual property). Tried to finish my task but python is doing really weird things, I don't know what is happening.
 
@@ -1353,7 +1353,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 129, May 8th 2020:
+## Day 129, May 8th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 1232, with the help of the hints and the internet on the correlation formula, it was super easy, but needed the specific math backgroud in order to be solved properly. Back on track on learning outside classrome, on smart pointers on C++ and the basics operations on MongoDB Shell (I need to confess that I previously worked with MongoDB but only with mongoose, did no query on the console...), tried to finish my task on research but failed, got an exteded deadline for monday.
 
@@ -1366,7 +1366,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [MongoDB, Chapter 2,3](https://www.udemy.com/course/mongodb-the-complete-developers-guide/ "Udemy paid course")
 - [C++ Online Course, Chapter 17](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 
-## Day 130, May 9th 2020:
+## Day 130, May 9th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 369, kinda interesting I got to say, about binary search but was somewhat strange the problem, and it had integer overflow, so a long long variable must be used (or any equivalent in another language). Back to Udemy streak, baby steps are easier and are still steps vs no steps at all, error handling in C++ and the MongoDB Shell configuration and some insight no MongoDB Compass. Made some progress on the online grader, adapting the dashboard to the project, creating the form, tomorrow I will design the DB and possibly adding GQL.
 
@@ -1378,7 +1378,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [MongoDB, Chapter 4,5](https://www.udemy.com/course/mongodb-the-complete-developers-guide/ "Udemy paid course")
 - [C++ Online Course, Chapter 18](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
 
-## Day 131, May 10th 2020:
+## Day 131, May 10th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 997, about some mapping and other stuff, the thing is I struggled because did not considerate a lot of things for the problem, it took me 3-4 submissions to get accepted and it was pityful, so I decided to not get the coins on the challenge. Did my compilers homework, it's almost finished but I don't know why it has a bug in a function, it literally traverses de linked list looking for a value, if found justt exists de function, otherwise, raises an error, but it only goes from the head to the next and marks as not found, and it's basically the same code as printing the list (which works well) so it's driving me crazy.
 
@@ -1389,7 +1389,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
-## Day 132, May 11th 2020:
+## Day 132, May 11th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 733, a DFS based algorithm, not hard at all, but it had a little tweak to consider on the solution that comes quickly. More compilers theory, on how functions work, not really much new for me honestly. On intelligent Systems the class was a little off-topic, it was about LaTeX, in order to properly deliver the final project. Finished the compilers homework and oh boy, It drived me nuts, little errors that took me literally hours to figure out, but it's done after all.
 
@@ -1400,7 +1400,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Symbol's table](https://github.com/AndreRdz7/Tarea4)
 
-## Day 133, May 12th 2020:
+## Day 133, May 12th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 540, that had a straight up solution using a map, but it asked to solve it in O(logn(n)) because it was a sorted array, the intuiton was not precisely easy, but the statement of the problem gives the key hint, since the was no known target, the binary search must be performed based on the parity of the sub arrays; an xor will do the job without extra memory but in O(n) time. Had my databases exam, was ok-ish, got 88/100, the wrong answers where the ones of the class that lasted 15 minutes. Started the design of the database on competitive programming contest site.
 
@@ -1410,7 +1410,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 134, May 13th 2020:
+## Day 134, May 13th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 402 with basically all of the help, I honestly couldn't reach any solution by my own, my only idea was the brute force that obviouosly will result in a TLE, so again no submission for the challege, gotta keep it real. Finished the design of the database for the programming contest webapp. Tried to finish my research task but I dunno what the hell is happening, none of the things I do work.
 
@@ -1420,7 +1420,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 135, May 14th 2020:
+## Day 135, May 14th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 208, about implementing a trie (suffix tree), it was pretty fun, I used an auxiliary node for storing the boolean value if is a complete word and an array of 26 spaces (alphabet) initialized as NULL and pointing to to other nodes when a word is added. More 'theory' on compilers, basically the next part of the proyect, building the syntax tree with the instructions, looks it will be fun and only fun. The Intelligent systems course finished with a bang, with "the group(only me and 3 actively participating)" giving ideas on using what we've learnt to apply to real world problems. Sad it ended, happy it happened. Finished the sql file on creating the database for the online grader, looking good, had a meeting with my team and decided the approach to use php, js and python as backends, the majority will be handled with js, the docker part with php and python for microservices for csv files, I have my tasks for tomorrow since we have to show something on Tuesday. Started my BairesDev application process, solving some non-coding related exams such as logic and behavior and some coding related like algorithms JS, MySQL, I think I'll finish them in about 3 more hours. Tomorrow will do de Oracle challenge for the new grad / last semesters position.
 
@@ -1430,7 +1430,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 136, May 15th 2020:
+## Day 136, May 15th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 918, an upgraded version of the Kadane's algorithm problem, with a circular array, solved with help, I neet to practice more and review some algorithms to perform better, I probably will be getting interviewed by Oracle and I need to ace it. Had my meeting with my professor of the databases course, to clarify some aspects of the project. Complement the design of the Database and started to do some UI.
 
@@ -1440,7 +1440,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 137, May 16th 2020:
+## Day 137, May 16th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 328, on linked list, to "sort" it in the odd-even sequence, was fun. Had a large talk with my team of databases and we decided to change the backend approach and split wisely the tasks, I was doing something in python like a microservice but it was discarded, also the auth part I did with node, not mad, It's for better, we also modeled the whole databases interaction (MySQL, PostgreSQL, MongoDB). Since we will be using laravel, took a recap on Udemy on Laravel content.
 
