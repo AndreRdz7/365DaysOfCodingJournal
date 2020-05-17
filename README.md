@@ -1439,3 +1439,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 137, May 16th 2020:
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 328, on linked list, to "sort" it in the odd-even sequence, was fun. Had a large talk with my team of databases and we decided to change the backend approach and split wisely the tasks, I was doing something in python like a microservice but it was discarded, also the auth part I did with node, not mad, It's for better, we also modeled the whole databases interaction (MySQL, PostgreSQL, MongoDB). Since we will be using laravel, took a recap on Udemy on Laravel content.
+
+**Thoughts**: Tough and emotional day, tomorrow will give +1000% to achieve productivity.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
