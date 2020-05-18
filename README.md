@@ -1448,4 +1448,14 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Link to Work / References** :
 
+- [LeetCode](https://leetcode.com/) 
+
+## Day 138, May 17th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 438 on hashing strings and watch out for permutation, it was really interesting, all the problems with string permutations are hard for me, I can somewhat easily get the brute force solution but rarely get an optimized version. Did my Oracle Talent Challenge to get an opportunity for an internship, went ok, not the best but ok-ish. Finished my last homework of Intelligent Systems, was abount gaining insights on a paper and make discoveries on methods, questions answered, conclusions and implications. Did the presentation for databases for Tuesday, so tomorrow will be full coding the online grader project alonside research and probably the compilers next step.
+
+**Thoughts**: Was aiming for better productivity but it was ok, the las homework took a while, and it was for Thursday so it was somewhat urgent.
+
+**Link to Work / References** :
+
 - [LeetCode](https://leetcode.com/)
