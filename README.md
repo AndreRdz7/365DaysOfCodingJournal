@@ -1459,3 +1459,14 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 139, May 18th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 567, it was tough, I solved it the brute force way and optmized with a hash table but still got TLE, so I checked up the solution and the result was a sliding withdow with a vector, was close enough to the solution, not even sorting (O(nlogn)) surpassed TLE. More theory con compilers, the class was ok, and a new homework/part of the project was assigned, will work on it tomorrow. Had my meeting with my databases team, we split chores for what we are delivering tomorrow, I'll do the UX part on Adobe XD, did some screens and navigation, will continue on it tomorrow until the presentation. Started reading a book, the Data Structure Practice for Collegiate Programming Contests and Education, this for the paused JTS and LV0, so I improve on it while I do it on the summer for interview/coding training alongside with LeetCode, started with the Section 1 - Fundamental Programming Skills, so far nothing new, but I don't want to skip anything, I'd rather go super fast with it and use 2-3 weeks than skipping some skills I may be missing.
+
+**Thoughts**:Great day, feeling good.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Data Structure Practice for Collegiate Programming Contests and Education](https://doc.lagout.org/Others/Data%20Structures/Data%20Structure%20Practice_%20for%20Collegiate%20Programming%20Contests%20and%20Education%20%5BWu%20%26%20Wang%202016-02-04%5D.pdf)
