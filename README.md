@@ -1473,9 +1473,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 ## Day 140, May 19th 2020
 
-**Today's Progress**: Solved LeetCode daily challenge, problem 401, interesting I gotta say, not the most fun of system design but still pretty good. Finished a good portion of the Adobe XD prototype for the navigation of the online grader and got a 100/100 on the assigment, had a little meeting with me teammate for deciding our approach for the 5th homework of the compilers course.
+**Today's Progress**: Solved LeetCode daily challenge, problem 401, interesting I gotta say, not the most fun of system design but still pretty good. Finished a good portion of the Adobe XD prototype for the navigation of the online grader and got a 100/100 on the assigment, had a little meeting with me teammate for deciding our approach for the 5th homework of the compilers course and started the design of the new data structure for the syntax tree.
 
-**Thoughts**:Great day, feeling good.
+**Thoughts**: I really miss the intelligent systems class.
 
 **Link to Work / References** :
 
