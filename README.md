@@ -1448,7 +1448,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Link to Work / References** :
 
-- [LeetCode](https://leetcode.com/) 
+- [LeetCode](https://leetcode.com/)
 
 ## Day 138, May 17th 2020
 
@@ -1470,3 +1470,13 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Data Structure Practice for Collegiate Programming Contests and Education](https://doc.lagout.org/Others/Data%20Structures/Data%20Structure%20Practice_%20for%20Collegiate%20Programming%20Contests%20and%20Education%20%5BWu%20%26%20Wang%202016-02-04%5D.pdf)
+
+## Day 140, May 19th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 401, interesting I gotta say, not the most fun of system design but still pretty good. Finished a good portion of the Adobe XD prototype for the navigation of the online grader and got a 100/100 on the assigment, had a little meeting with me teammate for deciding our approach for the 5th homework of the compilers course.
+
+**Thoughts**:Great day, feeling good.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
