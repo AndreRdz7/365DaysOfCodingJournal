@@ -1480,3 +1480,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 141, May 20th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 230, a binary search tree with a tweak, basically a inorder with a modification, interesting. Continued on the compilers homework, I'm not quite sure wich direction I should take, but I think at least, the things I've done are correct. Had my exploratory call with Lyft, for a front end engineer position, got really excited, the whole project looks very interesting, if everything goes well I might choose between Oracle and Lyft.
+
+**Thoughts**: Had a terrible headache the most part of the day, so it was honestly a bad day, don't feel proud on how much I did but I definetely did my best.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
