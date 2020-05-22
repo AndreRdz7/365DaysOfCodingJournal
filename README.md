@@ -1490,3 +1490,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 142, May 21th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1277, ah yes, the dynamic programming part, the thoughest one for me, but managed to get the logic and somewhat the optimal solution fairly easy. Classes were super meh, and practically all the courses are finished. Did some progress on compilers homework, I'm not quite sure how to do it properly, it's very peculiar.
+
+**Thoughts**: Had a large nap that truncated what a productive day should be, sad about it.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
