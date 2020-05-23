@@ -1500,3 +1500,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 143, May 22th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 451, solved it with a map, but the best answer, as far as I understood was a heap or priority queue, need to practice those, specially their usability. Some compilers progress, the thing is, since the structure is built backwards, I might need to create a stack library, I have my doubts if it's the best approach.
+
+**Thoughts**: My mentally relief day, some rest, napping, meditation and everything for the weekend.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
