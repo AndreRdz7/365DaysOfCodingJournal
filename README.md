@@ -1510,3 +1510,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 144, May 23th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 486, about interesetctions in 2 interval list, really interesting, not particualar a data structure or algorithm question, rather a logic and applied, really interesting. Continued my Baires Dev job application process, since two recruiters contacted me and insisted they were really interested in me. More Frontend for the Online Grader.
+
+**Thoughts**: My mentally relief day, some rest, napping, meditation and everything for the weekend.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
