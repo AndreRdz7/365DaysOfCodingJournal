@@ -1520,3 +1520,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 145, May 24th 2020
+
+**Today's Progress**: Re-solved LeetCode daily challenge, problem about building a BST given de preorder of it, it was solved last month in the challenge, but it was goot to remember, I think it would be a nice problem for an interview, it contains the data structure fundamental part on the preorder sequence and programming tweaks. Finished my Baires Dev job application process, completed the last mandatory exams and some other to better asses my application. Added a stack for the compilers homework on a super easy way, hope it makes it easier. Did my research task on fixing the grouped counting activities, I hope as well it works properly, since I don't know the final output I cannot tell if I did right or wrong.
+
+**Thoughts**: Productive day, started the week in a good way.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
