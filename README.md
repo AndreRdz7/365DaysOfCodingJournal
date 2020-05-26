@@ -1530,3 +1530,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 146, May 25th 2020
+
+**Today's Progress**: Re-solved LeetCode daily challenge, problem 1035, dynamic programming, about not crossing lines while pairing two arrays with lines, it was actually though, but somewhat manageable, got the intuition right and got help for the code, as soon as the semester ends, I'll be LeetCoding many hours a day, with competitive programming and learning a lot. Got a meeting with my databases team, we are in trouble, I don't think we'll manage to get it done for Jun 2nd, but let's try it with our best intentions. Wasted a freaking lot of time with useless assignments from other courses, this is one the only reason the research modality is not a 10/10. Added some code to the compilers homework, about 'binary' expressions consisting in left TERMINAL right, I think it's going well.
+
+**Thoughts**: Productive-ish day, I really really hate wasting time doing non-coding related homework.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
