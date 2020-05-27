@@ -1540,3 +1540,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 147, May 26th 2020
+
+**Today's Progress**: Re-solved (yes, again) LeetCode daily challenge, problem 525, about contiguous array with equal amount of binary digits, a interesting map approach. Had a meeting with my professor for research, we are going forward, I need to correct things, but it should be fairly doable, and start thinging how to process batches of a file, for now, at half mb everything fits in the RAM, but we are expecting files of several GB to apply this research, so an a priori algorithm needs to be designed alongside with batching on data. Had a really long class about indexes in databases, really interesting topic on real uses of hashmaps and b-trees. Did a lot for the online grader, a lot of views and navigation, more to be done, but it was a really good progress, with this, I think we will finish a minute before submission deadline.
+
+**Thoughts**: Super productive day, so motivated.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
