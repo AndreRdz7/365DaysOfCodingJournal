@@ -1550,3 +1550,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 148, May 27th 2020
+
+**Today's Progress**: Re-solved (yes, again) LeetCode daily challenge, problem 886, a dfs algorithm to find if a graph can be partitioned in two gruops, given who dislikes who (cannot be in same group), it was actually though, not even the brute force is straight forward as it may seem. Full day of databases, routing, views, some functionality. Gained some insights on the compilers homework, talked with my team for about 3 hours total to reamin in the same page on the approach, probably not finishing tomorrow, on June 5th once I finished the rest of my courses will be my top priority to deliver the assignment.
+
+**Thoughts**: Need a break.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
