@@ -1560,3 +1560,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 149, May 28th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 338, about counting bits, that honestly did not manage to solve it, not in brute force even, as stated before, I need to study that part a lot. Did the evaluator for compilers on operands and expressions, only loops are remaining (trickiest part).
+
+**Thoughts**: I'm motivated to end the semester with good grades and honestly, I might fail this challenge because June 15th I won't get out of bed.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
