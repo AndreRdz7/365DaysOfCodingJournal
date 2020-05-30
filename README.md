@@ -1480,6 +1480,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+- [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
 
 ## Day 141, May 20th 2020
 
@@ -1490,6 +1491,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+- [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
 
 ## Day 142, May 21th 2020
 
@@ -1500,6 +1502,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+- [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
 
 ## Day 143, May 22th 2020
 
@@ -1510,6 +1513,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+- [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
 
 ## Day 144, May 23th 2020
 
@@ -1530,6 +1534,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+- [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
 
 ## Day 146, May 25th 2020
 
@@ -1540,6 +1545,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+- [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
 
 ## Day 147, May 26th 2020
 
@@ -1560,6 +1566,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+- [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
 
 ## Day 149, May 28th 2020
 
@@ -1570,3 +1577,15 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+- [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
+
+## Day 150, May 29th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 207, topological sort, really interesting, basically a pure topological sort plus finding cycles, if cycle incorrect, otherwise correct, got help with the code. So I just did the whole functionality of the compiler, everything is in functions to execute statements of all kind, data modifieres, conditionals and looping, maybe just need a refactor and somethings a renaming so everything fits well, as well as ordering the functions alphabetically, need help from my colleague for actually calling the functions, but besides that, hopefully it's done.
+
+**Thoughts**: My "rest" day where I worked a lot, but definetly feeling so much better, despite the fact it was a very emotional day.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+- [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
