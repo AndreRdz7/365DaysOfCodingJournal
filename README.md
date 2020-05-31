@@ -1589,3 +1589,12 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
+
+## Day 151, May 30th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 973, a priority queue, my approach and intuition, but got some help with the code on evaluation and implementation, but my thought processs was correct nevertheless. Finished the compilers homework, tomorrow will do some bug hunting and code cleaning. Continued the journy on the online grader, doing documentation, views and starting to do the event scheduler for announcements on the platform, going good.
+
+**Link to Work / References** : Hard to focus, I'm not quite productive and feeling more tired everyday, but I'm keeping mentally string (somewhat).
+
+- [LeetCode](https://leetcode.com/)
+- [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
