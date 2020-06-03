@@ -1599,7 +1599,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
 
-## Day 152, May 31th 2020
+## Day 152, May 31st 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 72, a hard dynamic programming prblem, was suuuuper though, honestly could not get the solution, and the brute force approach might fail, next month challenge will be all by me, by June 4th I'll be only with 1 exam and 1 project, so i'll be full timing on LeetCode and learning and learning and an active jobsearch for my last semester, before jumping to the big leagues. No bugs found on compilers, so just I commented some print statements and uploaded it. Finished my task on research, I think, I'm honestly lost on this one, not sure why it works or why it doesn't work. Tried to do my task on the online grader project but failed miserably, I cannot focus.
 
@@ -1607,3 +1607,11 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
+
+## Day 152, Jun 1st 2020
+
+**Today's Progress**: Re-solved LeetCode daily challenge, problem 226, super easy, took me like 2 or less minutes since I'm familiar with it, about flipping a binary tree, as stated before, I will solve the whole June challenge by myself and be LeetCoding more every single day. Finished the databases project, and we are demoing tomorrow, happy about it and excited to make it even bigger. Final project assigned on compilers, basically add functions to the language, sounds tricky, so most likely it will definetly will be. Finally finished the most horrible course I've ever had, it was a knightmare, but it's done, one less to go.
+
+**Link to Work / References** : I've been running low on research and studying but definetly Wednesday, after a little non-intensive day tomorrow will finish my Intelligent System's project and just 2 (easy) exams and the compilers project to go.
+
+- [LeetCode](https://leetcode.com/)
