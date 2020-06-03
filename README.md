@@ -1608,7 +1608,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
 
-## Day 152, Jun 1st 2020
+## Day 153, Jun 1st 2020
 
 **Today's Progress**: Re-solved LeetCode daily challenge, problem 226, super easy, took me like 2 or less minutes since I'm familiar with it, about flipping a binary tree, as stated before, I will solve the whole June challenge by myself and be LeetCoding more every single day. Finished the databases project, and we are demoing tomorrow, happy about it and excited to make it even bigger. Final project assigned on compilers, basically add functions to the language, sounds tricky, so most likely it will definetly will be. Finally finished the most horrible course I've ever had, it was a knightmare, but it's done, one less to go.
 
