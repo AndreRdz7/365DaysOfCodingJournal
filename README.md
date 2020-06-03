@@ -1615,3 +1615,12 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : I've been running low on research and studying but definetly Wednesday, after a little non-intensive day tomorrow will finish my Intelligent System's project and just 2 (easy) exams and the compilers project to go.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 154, Jun 2nd 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 237, about deleting a node in a linked list, I think it's the most disliked questiong in LeetCode, simply because you receive the node you want to delete, not the whole list and the value you want to delete, easy nonetheless. Did the project demo for databases, got a 99/100, we missed a composite data type (part of requierements), we totally forgot about that, but the project is pretty solid and I'll be working on it on the summer. Started my intelligent systems project, it's a CS paper format about what we did in the course, basically, so it will be comparing behavior on algorithms depending on features and class imbalance, not comparing at all between algorithms (Friedman Test) because I only have 1 relatively small database. Continued my DS book, chapters 1.4, 2, 2.1 and 2.2, about dichotomy (binary search) and simulation processes.
+
+**Link to Work / References** : Feeling motivated and good, I really need a break, I feel so so so tired.
+
+- [LeetCode](https://leetcode.com/)
+- [Data Structure Practice for Collegiate Programming Contests and Education](https://doc.lagout.org/Others/Data%20Structures/Data%20Structure%20Practice_%20for%20Collegiate%20Programming%20Contests%20and%20Education%20%5BWu%20%26%20Wang%202016-02-04%5D.pdf)
