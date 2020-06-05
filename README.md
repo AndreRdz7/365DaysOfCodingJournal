@@ -1624,3 +1624,11 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Data Structure Practice for Collegiate Programming Contests and Education](https://doc.lagout.org/Others/Data%20Structures/Data%20Structure%20Practice_%20for%20Collegiate%20Programming%20Contests%20and%20Education%20%5BWu%20%26%20Wang%202016-02-04%5D.pdf)
+
+## Day 155, Jun 3rd 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1029, a greedy algorithm, marked as easy but oh boy it may seem super easy at first but a speciall sorting or a priority queue needs to be used, very interesting way to put a problem that looks so easy in a tricky way. Talked with my professor about my presentation for tomorrow, pretty excited about it, show my contributions. Updated my CV for application marathon next week with the online grader and the research.
+
+**Link to Work / References** : My wholesome day, mentally recovered.
+
+- [LeetCode](https://leetcode.com/)
