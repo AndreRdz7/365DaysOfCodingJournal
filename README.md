@@ -1632,3 +1632,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : My wholesome day, mentally recovered.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 156, Jun 4th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 334, in about 3 seconds, reverse a string so I used the stl, maybe it's cheating but I think I should use every tool I know. Did my presentation of my research and it went good, felt nervous for a little, but it was good. Did my Intelligent Systems exam, pretty fun and actually very easy.
+
+**Link to Work / References** : One less thing to finish, yay!s.
+
+- [LeetCode](https://leetcode.com/)
