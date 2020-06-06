@@ -1637,6 +1637,14 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 334, in about 3 seconds, reverse a string so I used the stl, maybe it's cheating but I think I should use every tool I know. Did my presentation of my research and it went good, felt nervous for a little, but it was good. Did my Intelligent Systems exam, pretty fun and actually very easy.
 
-**Link to Work / References** : One less thing to finish, yay!s.
+**Link to Work / References** : One less thing to finish, yay!.
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 157, Jun 5th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 528, it was suuuuuuper weird, I didn't even undertood the question, it failed to deliver a good explanation by the problem, this, in a real interview scenario it's ok, because the point of interviews is to ask questions to clarify and fully understand the problem and constraints, but on LeetCode you cannot ask... that's way the question has so many dislikes, although the question is not hard per se, understanding it is quite tough. More on the Intelligent Systems project, I was so distracted, did not much at all.
+
+**Link to Work / References** : I have problems with focusing, I need to concentrate on the work to finish it quick and then take my break.
 
 - [LeetCode](https://leetcode.com/)
