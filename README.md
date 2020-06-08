@@ -1656,3 +1656,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Almost one left (compilers) to go.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 159, Jun 7th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 518, dynamic programming of coin change, of every possible combination, not the least amount of coins as usually is, kinda like a greedy and try every possible path in a tree, fun to do, not super hard, even tho dp is not my strenght. Finished my Intelligent Systems project, writing is not my passion, but all experimenting was super fun to do, motivated to learn-a-lot on summer about Machine Learning, and will try to apply Reinforcement Learning on videogames.
+
+**Link to Work / References** : Compilers to go, LeetCode contant, today was 5 years with my girlfriend, couldn't be more happy right now.
+
+- [LeetCode](https://leetcode.com/)
