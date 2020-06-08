@@ -1648,3 +1648,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : I have problems with focusing, I need to concentrate on the work to finish it quick and then take my break.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 158, Jun 6th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 406, special sorting, and easy peasy. Did a lot for the intelligent systems problem, basically ran 18 algorithms and made comparisons, wrote a lot for the report/paper, really interesting.
+
+**Link to Work / References** : Almost one left (compilers) to go.
+
+- [LeetCode](https://leetcode.com/)
