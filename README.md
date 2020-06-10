@@ -1664,3 +1664,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Compilers to go, LeetCode contant, today was 5 years with my girlfriend, couldn't be more happy right now.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 160, Jun 8th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 231, bitwise! but I new exactly what to do but not how to, so I needed help to do the thing that I was thinking, felt good that got the intuition on bruteforce and super optimized in bitwise super quickly. Started the compilers final homework (add funtions to the language) and modified the token handler and the syntax, still thinking the best approach to build functions as treenodes to avoid another node type and exploit the capabilities of threenodes of having a symbol table.
+
+**Link to Work / References** : I... don't feel motivated... at all.
+
+- [LeetCode](https://leetcode.com/)
