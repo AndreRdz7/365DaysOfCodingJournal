@@ -1672,3 +1672,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : I... don't feel motivated... at all.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 161, Jun 9th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 392, a two pointers problem, to find a "substring" in a string, was super intuitive and my approach was O(n) in time and O(1) in space, other proposed solutions on the problem involved maps and other stuff that actually complicated the problem and added memory to it. Reorganized my learning path, to achive more, I have a better plan now, looking in retrospective this year, set a more "realistic" goal but I know I can push harder and stretch as much as possible without tearing my life appart because of no deadlines.
+
+**Link to Work / References** : I feel I'm procrastinating to another level, I feel bad about it.
+
+- [LeetCode](https://leetcode.com/)
