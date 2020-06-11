@@ -1680,3 +1680,12 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : I feel I'm procrastinating to another level, I feel bad about it.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 162, Jun 10th 2020
+
+**Today's Progress**: Re-solved LeetCode daily challenge, problem 35, a binary search problem that was really easy, it's basically a regular binary search application. More C++, before the best part (stl), about streams and files, really interesting, it should be fun to try to implement every single thing of all I've learnt, maybe a hello word of WebAssembly should be really fun. Read the whole 3rd chapter of my Algorithms book, on greedy algorithms, like Kruskal, Prim, Dijkstra, and many others, they are quite complex, not taught in a regular algorithms course, I need to code them, probably will make a dynamic library on c++ on these algorithms, if the stl does include them, we'll see.
+
+**Link to Work / References** : I feel I'm procrastinating to another level, I feel bad about it.
+
+- [LeetCode](https://leetcode.com/)
+- [Introducción al diseño y análisis de algoritmos](https://www.academia.edu/38477997/Introduccion_al_diseno_y_analisis_de_algoritmos_-_Lee_Tseng_Chang_y_Tsai)
