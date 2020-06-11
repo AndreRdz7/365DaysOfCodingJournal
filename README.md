@@ -1689,3 +1689,4 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Introducción al diseño y análisis de algoritmos](https://www.academia.edu/38477997/Introduccion_al_diseno_y_analisis_de_algoritmos_-_Lee_Tseng_Chang_y_Tsai)
+- [C++ Online Course, Chapter 19](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
