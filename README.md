@@ -1690,3 +1690,19 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Introducción al diseño y análisis de algoritmos](https://www.academia.edu/38477997/Introduccion_al_diseno_y_analisis_de_algoritmos_-_Lee_Tseng_Chang_y_Tsai)
 - [C++ Online Course, Chapter 19](https://www.udemy.com/course/beginning-c-plus-plus-programming/ "Udemy paid course")
+
+## Day 163, Jun 11th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 95, a two pointer/sort approach, that my first thought was a count sort, but then I re-read the problem and it stated that only 3 different numbers can be in the container, always 0,1 and 2, so if statements are enough to solve the problem efficiently. Tried to debug the compilers homework, spent hours and hours and got the conclusion that the tree wasn't build correctly, part of my fault for not noticing it earlier.
+
+**Link to Work / References** : I feel so bad, like really really bad, the only thing that relieves me is that this is almost over.
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 164, Jun 12th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 380, a system disign-ish question, but it was basically to "merge" a map and a vector, really interesting, also did 1266, a geometry problem, just for fun, I'm seriously excited about making a c++ library for algorithms unavailable in the stl. Did the final exam on databases, got final grade of 93, and Intelligent Systems ended with 100, so only compilers is left. Indeed the syntax tree was wrong, so my colleague fixed it and I'm reworking on my code to make it work with the new tree structuere.
+
+**Link to Work / References** : Feeling better, lately I'm feeling like a rollercoaster.
+
+- [LeetCode](https://leetcode.com/)
