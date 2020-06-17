@@ -19,7 +19,6 @@ Next section will work like a Kanban (To Do, Doing & Done)
 - NoSQL -> MongoDB (improve)
 - AWS
 - Machine Learning - Mitchell, T.
-- Introducción al diseño y análisis de algoritmos - R.C.T., Lee & S.S., Tseng & R.C Chang & Y.T. Tsai
 - TensorFlow 2.0
 - Hadoop
 
@@ -31,6 +30,7 @@ Next section will work like a Kanban (To Do, Doing & Done)
 - GraphQL
 - Computer Vision
 - Data Structures Practice - Wu, Y. & Wang, J.
+- Introducción al diseño y análisis de algoritmos - R.C.T., Lee & S.S., Tseng & R.C Chang & Y.T. Tsai
 
 ## Learnt
 

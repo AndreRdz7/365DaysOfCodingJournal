@@ -1,22 +1,16 @@
 # 365DaysOfCodeJournal
 
 In this repository I will document the progress, results and outputs of this challenge I'm making.
-100 Days completed !!  
-I will document a wide range of activities, including but not limited to reading, tutorials, lessons,
-university assingments, side projects, work, problem solving, research and everything related to coding/programming I do.
+150 Days completed !!  
+I will document a wide range of activities, including but not limited to reading, tutorials, lessons, university assingments, side projects, work, problem solving, research and everything related to coding/programming I do.
 
 ---
 
 ## Day 1, Jan 1st 2020
 
-**Today's Progress**: pointer's declaration, access, storage, dereference, arithmetic, also dynamic memory allocation and  
-passing pointers to functions, returning pointers from functions, references, L and R-values in C++.  
-Gulp JS crash course including moving and copying files, concatenating files, minify (uglyfy) files, and optimize images.
+**Today's Progress**: pointer's declaration, access, storage, dereference, arithmetic, also dynamic memory allocation and passing pointers to functions, returning pointers from functions, references, L and R-values in C++.Gulp JS crash course including moving and copying files, concatenating files, minify (uglyfy) files, and optimize images.
 
-**Thoughts**: I've been learnign C++ lately and it feels so powerful, yet, kinda simple to use, since I really learned how to code in C, it feels
-quite familiar, however there are some importante differences I will encounter lately. Pointers look really low level, since it's kind of interacting
-with hardware, it gives me the sensation of power and control of what I want to do, it's really interesting. Gulp is a handy tool, a nice understanding
-of what I can do to enhance workflows, I don't it's a _MUST_ in the knowledge baggage, but sure it won't hurt to learn a little bit deeper.
+**Thoughts**: I've been learnign C++ lately and it feels so powerful, yet, kinda simple to use, since I really learned how to code in C, it feels quite familiar, however there are some importante differences I will encounter lately. Pointers look really low level, since it's kind of interacting with hardware, it gives me the sensation of power and control of what I want to do, it's really interesting. Gulp is a handy tool, a nice understanding of what I can do to enhance workflows, I don't it's a _MUST_ in the knowledge baggage, but sure it won't hurt to learn a little bit deeper.
 
 **Link to Work / References** :
 
@@ -27,9 +21,7 @@ of what I can do to enhance workflows, I don't it's a _MUST_ in the knowledge ba
 
 **Today's Progress**: OOP in C++: classes, constructors, initialization list, delegation of constructors, copy constructors, class member manipulation, shallow vs deep copying, move constructors with l-value and r-value parameters, public vs private, methods, destructors, friends of class, static classes, 'this' pointer. LeetCoded in the Microsoft Top Questions, solving 4 problems in Arrays and Strings cathegory (since it's a paid feature of LeetCode, I cannot provide further details on the problem's number or description).
 
-**Thoughts**: I learnt about OOP about 2.5 years ago, coded in Java, and I was somewhat familiar with OOP in C++ since I was familiar with C structs and
-OOP overall, I think it's always good to reinforce the foundations of coding once in a while, and since I will be using Unreal Engine soon to do a guided
-videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics left, smart pointers, error handling, streams and STL; I'm really excited about the STL section, It will benefit me a lot for problem solving.
+**Thoughts**: I learnt about OOP about 2.5 years ago, coded in Java, and I was somewhat familiar with OOP in C++ since I was familiar with C structs and OOP overall, I think it's always good to reinforce the foundations of coding once in a while, and since I will be using Unreal Engine soon to do a guided videogame, an OOP "crash course" comes in handy. After OOP there are 4 topics left, smart pointers, error handling, streams and STL; I'm really excited about the STL section, It will benefit me a lot for problem solving.
 
 **Link to Work / References** :
 
@@ -1667,11 +1659,12 @@ Did problems 1342, 509, 346 of LeetCode.
 
 ## Day 160, Jun 8th 2020
 
-**Today's Progress**: Solved LeetCode daily challenge, problem 231, bitwise! but I new exactly what to do but not how to, so I needed help to do the thing that I was thinking, felt good that got the intuition on bruteforce and super optimized in bitwise super quickly. Started the compilers final homework (add funtions to the language) and modified the token handler and the syntax, still thinking the best approach to build functions as treenodes to avoid another node type and exploit the capabilities of threenodes of having a symbol table.
+**Today's Progress**: Solved LeetCode daily challenge, problem 231, bitwise! but I new exactly what to do but not how to, so I needed help to do the thing that I was thinking, felt good that got the intuition on bruteforce and super optimized in bitwise super quickly. Started the compilers final homework (add funtions to the language) and modified the token handler and the syntax, still thinking the best approach to build functions as treenodes to avoid another node type and exploit the capabilities of treenodes of having a symbol table.
 
 **Link to Work / References** : I... don't feel motivated... at all.
 
 - [LeetCode](https://leetcode.com/)
+- [Compiler](https://github.com/AndreRdz7/Tarea5)
 
 ## Day 161, Jun 9th 2020
 
@@ -1698,6 +1691,7 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : I feel so bad, like really really bad, the only thing that relieves me is that this is almost over.
 
 - [LeetCode](https://leetcode.com/)
+- [Compiler](https://github.com/AndreRdz7/Tarea5)
 
 ## Day 164, Jun 12th 2020
 
@@ -1706,3 +1700,31 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Feeling better, lately I'm feeling like a rollercoaster.
 
 - [LeetCode](https://leetcode.com/)
+- [Compiler](https://github.com/AndreRdz7/Tarea5)
+
+## Day 165, Jun 13th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 368, a mixture of math and dp, was really tough for me, got somewhat the approach and got help for the code, not sure if I'm getting worse or the lack of proper sleep and other healthy habits are dragging me down. Finished the compilers part, on fixing the execute of the code, it now works perfect.
+
+**Link to Work / References** : Now, add functions to the compiler... _sigh_.
+
+- [LeetCode](https://leetcode.com/)
+- [Compiler](https://github.com/AndreRdz7/Tarea5)
+
+## Day 166, Jun 14th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 787, Dijkstra! got the intuition right away, and yes, was the first solution recommended by LeetCode so I was happy, got help with the code, since I'm not thinking that straight. Did some pseudocode and discussed with my colleague the solution for a problem we had, implemented the functions to execute functions (I know it sounds weird), but, the code broke, and I had no idea why, he told me it was done, the functions stack was working properly and the declarations of variables (symbol's table) for each function was working well, but on the last push, it broke up, now it doesn't find the variables, not even the global ones, I think it's the only part missing, because from 1 intstruction to another, another function to verify the ID is changed and it breaks, but it makes no real sense.
+
+**Link to Work / References** : So close and yet so far.
+
+- [LeetCode](https://leetcode.com/)
+- [Compiler](https://github.com/AndreRdz7/Tarea5)
+
+## Day 167, Jun 15th 2020
+
+**Today's Progress**: Re-solved LeetCode daily challenge, problem 700, find insertion in BST, since I had a lot to do on compilers didn't bother to think another approach I've preoviously done. I spent the whole day woking on compilers, about executing functions, the returning values, I didn't have enough time to implement recursion, sadly, but overall, there were many hours of work on it and feels good to finish the semester.
+
+**Link to Work / References** : Ok, now, to recover from stress, I'll take a "light" week to replenish my energy and boom, my productivity will spark.
+
+- [LeetCode](https://leetcode.com/)
+- [Compiler](https://github.com/AndreRdz7/Tarea5)
