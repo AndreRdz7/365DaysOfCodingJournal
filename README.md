@@ -1728,3 +1728,19 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
+
+## Day 168, Jun 16th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 468, about strings, it could be greedy, dive and conquer, regex, and probably other approaches, since I've never done before regex with C++ I tried that approach, it was kinda weird, C++ regex are very different from JS ones, so it was, weird (for the lack of a better word), and finally got help, since most of online forums are about JS regex. Had my exploratory call with Google, very happy the consider me for a full time role, my application will start on mid-August so I need to destroy my brain and fingers coding and getting better now.
+
+**Link to Work / References** : Got a 85 on compiliers, not bad, my effort was worth, now I feel relieved, rested and motivated, I still need some rest, but I'm almost ready to rise a phoenix.
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 169, Jun 17th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 130, a DFS problem, it was really fun, a BFS approach was also valid but I opted for a DFS since the complexity are the same and a DFS always guarantees the answer. Reorganized my schedule to LeetCode and learn things to be a pro full stack, to fit with my workout schedule and leave room for proper rest. Read many small articles about web development.
+
+**Link to Work / References** : Got a 97/100 on my semester so I'm really happy, 4 courses to go.
+
+- [LeetCode](https://leetcode.com/)
