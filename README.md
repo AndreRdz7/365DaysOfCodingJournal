@@ -1744,3 +1744,21 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Got a 97/100 on my semester so I'm really happy, 4 courses to go.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 171, Jun 18th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 274, a sorting + binary search problem, it wasn't easy at all, the description was somewhat confusing, but nevertheless it was solvable. So back on track on learning, did a super full recap on Angular, in my talk with Chase (Google Exploratory Call) we agreed that my best path for now is to become a pro at full stack so I'll be a pro at full stack, will try to master Angular and Node, with very good knowledge of UI/UX, Cloud, Mobile and other stuff. So I did about 16 chapters on Angular, starting from scratch, yep, my whole day was pure Angular and I can only say that I really like it, way way way more than React.
+
+**Link to Work / References** : I'm back at it, I know I can handle it.
+
+- [LeetCode](https://leetcode.com/)
+- [Angular 9, Section 1-14, 17](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+## Day 172, Jun 19th 2020
+
+**Today's Progress**: Ok so, I failed the LeetCode challenge, I looked at it, I was like, uhhmm what? I'll do it later, and that later become not today, I lost all internet conection due to a problem with the modem, so I only did 2 sections on Udemy on Angular, and took the day off, not that it was a must, but my body was screaming to rest, so I gave it a shot and did what my body told me. On the Angular part, looks like I've been doing forms wrong, or maybe not wrong, but not optimal and not in a Angular-esque way.
+
+**Link to Work / References** : I'm back at it, I know I can handle it.
+
+- [LeetCode](https://leetcode.com/)
+- [Angular 9, Section 15-16](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
