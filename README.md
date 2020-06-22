@@ -1771,3 +1771,12 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 18](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+## Day 174, Jun 21st 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 79, a DFS + DP problem, got the intuition right, really fast, but struggled at coding at some "edge cases", nevertheless, happy that my intuition was right and as efficient as I could think off. More on Angular, I'm almost done, learnt about somo aspects of authentication I didn't knew, dynamic components, the modules structures, hoy to deploy, Angular Universal (server side rendering), Angular Animations and the offline capabilities of Service Workers, only testing and NgRx to finish the course and we are done, onto the next one.
+
+**Link to Work / References** : Productive day, happy about ir.
+
+- [LeetCode](https://leetcode.com/)
+- [Angular 9, Section 20-27](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
