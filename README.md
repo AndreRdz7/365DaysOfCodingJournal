@@ -1762,3 +1762,12 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 15-16](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+## Day 173, Jun 20th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 60, it was as tricky as is could be, it was a math problem, about permutations, did the intuition of backtracking right, but found that the glorious stl has a next_permutation function on strings, so a cast and several calls to the function made it (super slow) into Accepted. Did more Angular, now on http request on the Angular default module, it's very powerful, I'll use it instead of axios next time.
+
+**Link to Work / References** : My wholesome day with my girlfriend, so not much to do, it's my mental + 100 day.
+
+- [LeetCode](https://leetcode.com/)
+- [Angular 9, Section 18](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
