@@ -1776,7 +1776,16 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 79, a DFS + DP problem, got the intuition right, really fast, but struggled at coding at some "edge cases", nevertheless, happy that my intuition was right and as efficient as I could think off. More on Angular, I'm almost done, learnt about somo aspects of authentication I didn't knew, dynamic components, the modules structures, hoy to deploy, Angular Universal (server side rendering), Angular Animations and the offline capabilities of Service Workers, only testing and NgRx to finish the course and we are done, onto the next one.
 
-**Link to Work / References** : Productive day, happy about ir.
+**Link to Work / References** : Productive day, happy about it.
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 20-27](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+## Day 175, Jun 22nd 2020
+
+**Today's Progress**: Re-solved LeetCode daily challenge, problem 134, solved like a hash problem but tried the bitwise solution, it's super elegant, I mean, not only it's O(n) in time and O(1) in space but the solution is as beautiful as it can be, seriously. No luck on enrolling for summer courses, apparently ther is a problem with the research course. More on Angular, almost done, only NgRx (partially) is left. I need to think my next big move, besides more LeetCode.
+
+**Link to Work / References** : Felt bad, had a really bad sleep, and felt tired most of the day.
+
+- [LeetCode](https://leetcode.com/)
+- [Angular 9, Section 28-29, 24](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
