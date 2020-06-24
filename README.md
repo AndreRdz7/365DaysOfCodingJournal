@@ -1789,3 +1789,11 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 28-29, 24](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+## Day 176 , Jun 23rd 2020
+
+**Today's Progress**: Re-solved LeetCode daily challenge, problem 222, a binary search tree problem, basically a counting nodes one, the O(n) solution is super easy to do, and it applias to every binary tree, but the problem stated that it was a complete BST, so a little tweak can be done to improve performance. I wasn't on the mood to finish the NgRx module on Angular, so I hopped through a lot of post on programming tendencies, how to write better code, how to be a good team-based programmer,etc. Got good new, I'll probably work on 3 projects this semester, enough to pay tuition, debt and have a starting money when I graduate.
+
+**Link to Work / References** : Not that I'm not motivated, _au contraire_, I'm pumped up, but today was simply not my day.
+
+- [LeetCode](https://leetcode.com/)
