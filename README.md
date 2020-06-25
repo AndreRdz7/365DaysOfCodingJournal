@@ -1797,3 +1797,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Not that I'm not motivated, _au contraire_, I'm pumped up, but today was simply not my day.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 177 , Jun 24rd 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 96, A dp + BST, quite though but not impossible, on finding the amount of unique BST given a input, I got most of the logic completed but at the end got help to solve it. Had a meeting with my teammates for freelance projects, looklike we are going to have fun on the weekends. Finally was able to enroll on my research course, this will be nice because it's 5 weeks of progress with research and discipline.
+
+**Link to Work / References** : Despite being my wholesome day I'm not satisfied at all of what I did today.
+
+- [LeetCode](https://leetcode.com/)
