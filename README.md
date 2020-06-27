@@ -1798,10 +1798,19 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 177 , Jun 24rd 2020
+## Day 177 , Jun 24th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 96, A dp + BST, quite though but not impossible, on finding the amount of unique BST given a input, I got most of the logic completed but at the end got help to solve it. Had a meeting with my teammates for freelance projects, looklike we are going to have fun on the weekends. Finally was able to enroll on my research course, this will be nice because it's 5 weeks of progress with research and discipline.
 
 **Link to Work / References** : Despite being my wholesome day I'm not satisfied at all of what I did today.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 178 , Jun 25th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 287, a problem that on first sight could be a sort then linear search or linear search with a hashmap, but the restrictions con the problem specified that this two specific approaches are not valid, so a two pointer-ish approximation must be implemented, like in a linked list with the fast and slow pointer, to find a cycle, applied to an array, really interesting, coming up with this idea IMO is quite rare. Finished Angular course, finished the NgRx module, and oh boy it's boring as boredom can be, I find very tedious the Redux architecture, and, I mean, React users have little to no choice, but Angular can manage many many things without it, it seems like an overkill in any small or medium-small webapp.
+
+**Link to Work / References** : I was kinda tough to finish the NgRx part, I really really don't like it.
+
+- [LeetCode](https://leetcode.com/)
+- [Angular 9, Section 24](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
