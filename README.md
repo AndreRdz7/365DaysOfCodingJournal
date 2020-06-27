@@ -1814,3 +1814,11 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 24](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+## Day 179 , Jun 26th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 129, a DFS on tree problem, it was pretty interesting, the intuition can come up pretty quickly. So I spent a lot of time with a quotation for a possible clint, It will be my biggest project yet, a full retail store for multiple brands, blogging, user profiles and many more things.
+
+**Link to Work / References** : This week was a mess, an absolute mess.
+
+- [LeetCode](https://leetcode.com/)
