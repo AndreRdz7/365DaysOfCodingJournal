@@ -1822,3 +1822,20 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : This week was a mess, an absolute mess.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 180 , Jun 27th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 279, a dp problem, with some spicy math about perfect squares, it was tricky, but found the best approach is to calculate squares first and then use dp to find the result, it wasn't super hard, but by no means it was easy. So I finished the quotation for a possiblec client, everything points to a success on a negotiation, I really hope so, it will be my most ambitious project, big and hard, with social impact, so I really hope I can work with them.
+
+**Link to Work / References** : This was the worst week of the year on productivity terms, some problems took about the hour of the challenge, and had to read articles just to fill the time, it's just, I don't know what is happening.
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 181 , Jun 28th 2020
+
+**Today's Progress**: Missed the LeetCode challenge, like, I forgot about it, since it's usually the first thing I do, and today I started with React... so, yeah, no challenge but React basics, since I'll (most likely) will be working with it in 2 projects with my colleagues.
+
+**Link to Work / References** : Back to "productivity".
+
+- [LeetCode](https://leetcode.com/)
+- [React 16, Section 1-4](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
