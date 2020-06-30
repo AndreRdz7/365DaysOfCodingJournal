@@ -1839,3 +1839,11 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [React 16, Section 1-4](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
+## Day 182 , Jun 29th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 62, a dp problem, kinda similar a one that I previously solved before, actually I thought it was a repeated one but no, it wasn't. Solved more problems as part of my training, numbers 359 a system design-ish with maps, 1021 on string manipulation and 1047 on string manipulation + stack. Not much else done, helped at home, trying to get my energy and my willing to do things back.
+
+**Link to Work / References** : Back to "productivity".
+
+- [LeetCode](https://leetcode.com/)
