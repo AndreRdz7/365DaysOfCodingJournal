@@ -1790,7 +1790,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 28-29, 24](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
-## Day 176 , Jun 23rd 2020
+## Day 176, Jun 23rd 2020
 
 **Today's Progress**: Re-solved LeetCode daily challenge, problem 222, a binary search tree problem, basically a counting nodes one, the O(n) solution is super easy to do, and it applias to every binary tree, but the problem stated that it was a complete BST, so a little tweak can be done to improve performance. I wasn't on the mood to finish the NgRx module on Angular, so I hopped through a lot of post on programming tendencies, how to write better code, how to be a good team-based programmer,etc. Got good new, I'll probably work on 3 projects this semester, enough to pay tuition, debt and have a starting money when I graduate.
 
@@ -1798,7 +1798,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 177 , Jun 24th 2020
+## Day 177, Jun 24th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 96, A dp + BST, quite though but not impossible, on finding the amount of unique BST given a input, I got most of the logic completed but at the end got help to solve it. Had a meeting with my teammates for freelance projects, looklike we are going to have fun on the weekends. Finally was able to enroll on my research course, this will be nice because it's 5 weeks of progress with research and discipline.
 
@@ -1806,7 +1806,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 178 , Jun 25th 2020
+## Day 178, Jun 25th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 287, a problem that on first sight could be a sort then linear search or linear search with a hashmap, but the restrictions con the problem specified that this two specific approaches are not valid, so a two pointer-ish approximation must be implemented, like in a linked list with the fast and slow pointer, to find a cycle, applied to an array, really interesting, coming up with this idea IMO is quite rare. Finished Angular course, finished the NgRx module, and oh boy it's boring as boredom can be, I find very tedious the Redux architecture, and, I mean, React users have little to no choice, but Angular can manage many many things without it, it seems like an overkill in any small or medium-small webapp.
 
@@ -1815,7 +1815,7 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 24](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
-## Day 179 , Jun 26th 2020
+## Day 179, Jun 26th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 129, a DFS on tree problem, it was pretty interesting, the intuition can come up pretty quickly. So I spent a lot of time with a quotation for a possible clint, It will be my biggest project yet, a full retail store for multiple brands, blogging, user profiles and many more things.
 
@@ -1823,7 +1823,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 180 , Jun 27th 2020
+## Day 180, Jun 27th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 279, a dp problem, with some spicy math about perfect squares, it was tricky, but found the best approach is to calculate squares first and then use dp to find the result, it wasn't super hard, but by no means it was easy. So I finished the quotation for a possiblec client, everything points to a success on a negotiation, I really hope so, it will be my most ambitious project, big and hard, with social impact, so I really hope I can work with them.
 
@@ -1831,7 +1831,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 181 , Jun 28th 2020
+## Day 181, Jun 28th 2020
 
 **Today's Progress**: Missed the LeetCode challenge, like, I forgot about it, since it's usually the first thing I do, and today I started with React... so, yeah, no challenge but React basics, since I'll (most likely) will be working with it in 2 projects with my colleagues.
 
@@ -1840,10 +1840,18 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [React 16, Section 1-4](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-## Day 182 , Jun 29th 2020
+## Day 182, Jun 29th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 62, a dp problem, kinda similar a one that I previously solved before, actually I thought it was a repeated one but no, it wasn't. Solved more problems as part of my training, numbers 359 a system design-ish with maps, 1021 on string manipulation and 1047 on string manipulation + stack. Not much else done, helped at home, trying to get my energy and my willing to do things back.
 
 **Link to Work / References** : Back to "productivity".
+
+- [LeetCode](https://leetcode.com/)
+ 
+## Day 183, Jun 30th 2020
+
+**Today's Progress**: Tried to Solve the daily challenge, I got TLE on my solution after *several* minutes of trying to get a succeed, so I searched for help and the answer was a Trie + backtracking, not a DFS, that's why I got a TLE. Not much more. I have something mentally that doesn't drive me for more, although I'm striving for success and landing a FANMAG (or WITCH) job I just can't, I'm burnt
+
+**Link to Work / References** : Back to "productivity" (yesteday's thought... ye, no). I have something mentally that doesn't drive me for more, although I'm striving for success and landing a FANMAG (or WITCH) job I just can't, I'm burnt physically, mentally and emotinally.
 
 - [LeetCode](https://leetcode.com/)
