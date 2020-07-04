@@ -1871,3 +1871,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : I'm feeling better.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 186, Jul 3rd 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 957, a super weird problem, basically a game of life-ish problem, but about prison cells that get occupied if on the left and on the right are the same state (occupied or empty) and gets emptied otherwise, the main part is to dectec cycles, there are a finite amount of different states, in this case 14, so no matter how many "iterations" should be performed, there are only 14 different states and thus it's time consuming to recalculate a previous state, like a dynamic programming approach. Showed my homework to my professor, he was happy, I was happy, it's starting great, so I started my homework today and finished the first part, about obtaining work ranges, the next part will be to do de same approach but usign a work schedule with intervals, like a lunch break.
+
+**Link to Work / References** : Worked some hours, starting to regain my power, I just home my clients accepts the project and my summer will be as awesome as it could be.
+
+- [LeetCode](https://leetcode.com/)
