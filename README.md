@@ -1847,11 +1847,27 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Back to "productivity".
 
 - [LeetCode](https://leetcode.com/)
- 
+
 ## Day 183, Jun 30th 2020
 
-**Today's Progress**: Tried to Solve the daily challenge, I got TLE on my solution after *several* minutes of trying to get a succeed, so I searched for help and the answer was a Trie + backtracking, not a DFS, that's why I got a TLE. Not much more. I have something mentally that doesn't drive me for more, although I'm striving for success and landing a FANMAG (or WITCH) job I just can't, I'm burnt
+**Today's Progress**: Tried to Solve the daily challenge, I got TLE on my solution after _several_ minutes of trying to get a succeed, so I searched for help and the answer was a Trie + backtracking, not a DFS, that's why I got a TLE. Not much more. I have something mentally that doesn't drive me for more, although I'm striving for success and landing a FANMAG (or WITCH) job I just can't, I'm burnt.
 
 **Link to Work / References** : Back to "productivity" (yesteday's thought... ye, no). I have something mentally that doesn't drive me for more, although I'm striving for success and landing a FANMAG (or WITCH) job I just can't, I'm burnt physically, mentally and emotinally.
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 184, Jul 1st 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 441, a math-ish greedy-ish problem, more like and ad-hoc one than an algorithm, at the end it had a binary search approach with some math, quite interesting. So... back to research! had a long meeting with my mentor about our next steps and playing with our info. Really excited to work with it during summer. I'm just waiting for a project to be confirmed, I'm getting desperate to work.
+
+**Link to Work / References** : My wholesome day. Reorganized my schedule to work and do my workouts. Another virtually failed week, but it's something really mental.
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 185, Jul 2nd 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 107, a level order traversal for a tree, but reversed, basically a queue problem, quite easy but I'm pretty sure my answer can be improved. Did my research homework, the second iteration of our work, now in a new file to prevent larger and harder to read files, with data display to visualize the support for workdays.
+
+**Link to Work / References** : I'm feeling better.
 
 - [LeetCode](https://leetcode.com/)
