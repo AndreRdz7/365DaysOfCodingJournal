@@ -1887,3 +1887,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : My wholesome day, in this times full of pesimism, any amount of happiness is appreciated.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 188, Jul 5th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 461, a bitwise problem, to find the hamming distance, I remember this topic from my computer organization course, back in my 3rd semester, one of my favorite courses, but yeah, the bitwise problems are the thoughest for me, I had my brute force idea but it was really slow compared to any bitwise approach, so I decided lookup for possible solutions and it turned out C++ has a builtin function, and I just need to send an and operation between the two numbers, and it took 4 ms, ranking the worst time possible, so I'm glad I didn't upload my brute force, I probably would get a TLE. I tried to do my second homework, but the Scylla simulator is incapable of doing what we need, I don't know if my colleague's simulator is finished so we can use it now.
+
+**Link to Work / References** : My wholesome day, in this times full of pesimism, any amount of happiness is appreciated.
+
+- [LeetCode](https://leetcode.com/)
