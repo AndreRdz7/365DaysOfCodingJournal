@@ -1879,3 +1879,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Worked some hours, starting to regain my power, I just home my clients accepts the project and my summer will be as awesome as it could be.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 187, Jul 4th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 264, a ugly number follow-up problem, actually, to retrive the n-th ugly number, so basically, it's generating a sequence and can be optimized with a 3-pointer-ish approach, since an ugly number is divisible by 2, 3 o 5.
+
+**Link to Work / References** : My wholesome day, in this times full of pesimism, any amount of happiness is appreciated.
+
+- [LeetCode](https://leetcode.com/)
