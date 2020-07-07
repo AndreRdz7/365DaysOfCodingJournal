@@ -1892,6 +1892,14 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 461, a bitwise problem, to find the hamming distance, I remember this topic from my computer organization course, back in my 3rd semester, one of my favorite courses, but yeah, the bitwise problems are the thoughest for me, I had my brute force idea but it was really slow compared to any bitwise approach, so I decided lookup for possible solutions and it turned out C++ has a builtin function, and I just need to send an and operation between the two numbers, and it took 4 ms, ranking the worst time possible, so I'm glad I didn't upload my brute force, I probably would get a TLE. I tried to do my second homework, but the Scylla simulator is incapable of doing what we need, I don't know if my colleague's simulator is finished so we can use it now.
 
-**Link to Work / References** : My wholesome day, in this times full of pesimism, any amount of happiness is appreciated.
+**Link to Work / References** : Feeling better.
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 189, Jul 6th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 66, similar to the naive addition of two linked list, but using constant space and O(n) in time, with a simple condition to exit to save time. Had my meeting with my professor, presenting my 2 successful homeworks, we discussed next steps, to partition in ranges of support with a greedy algorithm, fix the hour changing on october and on how to use the calculated support by representing it in a tree, but my idea is to use a DAG, weighted (the support), so a traversal with a minimum support, will lead to pruning the tree.
+
+**Link to Work / References** : Feeling great on research, I feel we are progressing quick.
 
 - [LeetCode](https://leetcode.com/)
