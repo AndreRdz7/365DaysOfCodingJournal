@@ -1903,3 +1903,12 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Feeling great on research, I feel we are progressing quick.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 190, Jul 7th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 463, it was, really interesting, it reminded me about the number of islands problem, but it was to find the permiter of a single island, it was basically a counting solution, one by one, even empty spaces since the shape is unknown... it could be a U. Grinded Node.js course, since I'll be working (hopefully, fingers crossed) on a big proyect and I want to do the backend on Node with express.
+
+**Link to Work / References** : Yup, finally upgrading my Node.js.
+
+- [LeetCode](https://leetcode.com/)
+- [Node, Section 1-5](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
