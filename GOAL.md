@@ -12,8 +12,7 @@ Next section will work like a Kanban (To Do, Doing & Done)
 
 - C++ for AI and game development (Qt and Unreal Engine)
 - Python for ML/AI and Data Science, improving current skills and learning new ones, also the usage of Jupyter Notebook
-- React (improve) to create awesome and interactive interfaces + React Native
-- Node.js (improve) for BackEnd development
+- React Native
 - Ethereum + Solidity
 - Docker and Kubernetes
 - NoSQL -> MongoDB (improve)
@@ -25,10 +24,11 @@ Next section will work like a Kanban (To Do, Doing & Done)
 ## Learning
 
 - Angular best practices, concepts and architecture
+- Node.js (improve) for BackEnd development
+- React (improve) to create awesome and interactive interfaces
 - C++ std library and OOP for coding interviews and competitive programming
 - UI/UX prototyping & construction + Usability
 - GraphQL
-- Computer Vision
 - Data Structures Practice - Wu, Y. & Wang, J.
 - Introducción al diseño y análisis de algoritmos - R.C.T., Lee & S.S., Tseng & R.C Chang & Y.T. Tsai
 
@@ -42,6 +42,7 @@ Next section will work like a Kanban (To Do, Doing & Done)
 - Q-Learning & Deep Q-Learning basics
 - Machine Learning and Artificial Intelligence from the root (concepts) to implementation (libraries/kits/code)
 - Pandas (Python)
+- Computer Vision Fundamentals
 
 ## Miscellaneous
 
