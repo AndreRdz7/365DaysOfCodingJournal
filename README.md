@@ -1912,3 +1912,12 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 1-5](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+
+## Day 191, Jul 8th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 15, a follow up for the classic 2 Sum, the 3 sum, which basically is a O(n2), by sorting and pivoting one value, then do a regular 2 Sum but the goal is a+b+c=0, and since it's sorted, a two-pointer approach for the 2 Sum subproblems fits perfectly. No talk with my professor, I assume he was really busy. Asynchronous Node theory.
+
+**Link to Work / References** : My wholesome day, and I gotta say I'm feeling great.
+
+- [LeetCode](https://leetcode.com/)
+- [Node, Section 6](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
