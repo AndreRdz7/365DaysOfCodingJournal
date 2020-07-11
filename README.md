@@ -1930,3 +1930,12 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 7](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+
+## Day 193, Jul 10th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 430, to flatten a doubly linked list with a graph traversal, really interesting, I think it should be a classic problem on linked list, it's a very clever problem in my opinion. Had a meeting about a possible project, sounds good, but right now I need profit, and the company behind the project aren't willing to pay for it, so maybe, just maybe, we will do it for in our free time. More Node, such an awesome environment.
+
+**Link to Work / References** : High hopes on the super big project but not anything else, no one appreciates work and wants to pay super low quantities for small-medium projects.
+
+- [LeetCode](https://leetcode.com/)
+- [Node, Section 8](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
