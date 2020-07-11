@@ -1921,3 +1921,12 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 6](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+
+## Day 192, Jul 9th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 662, to calculate the width of a tree, but it felt like a ICPC problem where you have to use unsigned long long in order to not get an overflow for C++, languages like Python have less restrictions with these kind of problems. More Node.js, no official contract but I'm keeping my hopes up high.
+
+**Link to Work / References** : Another wholesome day, quite unexpected, a familiar one.
+
+- [LeetCode](https://leetcode.com/)
+- [Node, Section 7](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
