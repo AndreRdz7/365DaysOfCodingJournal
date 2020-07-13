@@ -1949,3 +1949,11 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 9](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
+## Day 195, Jul 12th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 190, a bitwise problem... yup, got stuck but somehow I got the answer, at the end I got help to accomplish it. More on React, about styling and debugging.
+
+**Link to Work / References** : Another wholesome day for me and my mind, but somehow I'm statting to getting dissapointed, since no project is confirmed.
+
+- [LeetCode](https://leetcode.com/)
+- [React 16, Section 5-6](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
