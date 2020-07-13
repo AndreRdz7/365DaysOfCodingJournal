@@ -1939,3 +1939,13 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 8](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+
+## Day 194, Jul 11th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 78, to generate a power set of a given array, so it was basically generating vectors and push them to the global vector solution, it was really interesting, to play with memory leaks and time consuming, since all the comnbinations are 2<sup>N</sup>. More on Node.js, about deployment.
+
+**Link to Work / References** : A super wholesome day, the best day in the year.
+
+- [LeetCode](https://leetcode.com/)
+- [Node, Section 9](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+
