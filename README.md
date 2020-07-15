@@ -1957,3 +1957,11 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [React 16, Section 5-6](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
+## Day 196, Jul 13th 2020
+
+**Today's Progress**: Re-solved LeetCode daily challenge, problem 100, to find if a tree is equal to another, super easy since it was a BST. Started my homework on building the Graph to represent the calendar, using the library networkx for Python, I hope my professor likes it, specially since it can be plotted and easy to visualize. I'll be working on a project with a friend, an entrepreneurial-ish stuff.
+
+**Link to Work / References** : Back to productivity.
+
+- [LeetCode](https://leetcode.com/)
