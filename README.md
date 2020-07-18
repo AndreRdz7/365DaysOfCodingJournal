@@ -1965,3 +1965,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Back to productivity.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 197, Jul 14th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1344, angle checking on clocks, an ad-hoc problem, basically, felt like a CodeForces to be honest, but fun nonetheless. Completed my graph on research, it was really cool, the networkx library is super cool.
+
+**Link to Work / References** : Research is looking great.
+
+- [LeetCode](https://leetcode.com/)
