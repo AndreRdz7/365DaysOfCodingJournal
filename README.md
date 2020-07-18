@@ -1973,3 +1973,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Research is looking great.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 198, Jul 15th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 51, to reverse words in a string, this is an example -> example an is this. Really fun, a two pointer approach was enough to do the task. So I had my meeting and... no longer a graph, it should be changed to a dictionary to avoid using so much extra memory, either a self defined class or a library. So all my work was "in vain".
+
+**Link to Work / References** : Two steps forward then three steps back on my research, not happy with changes like this.
+
+- [LeetCode](https://leetcode.com/)
