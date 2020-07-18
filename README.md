@@ -1981,3 +1981,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Two steps forward then three steps back on my research, not happy with changes like this.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 199, Jul 16th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 50, to implement a pow function, I think it's kinda obvoius I got a TLE, since the solution is a math tweak. Finished the research dictionary and started the traversal. Consolidated the product I will create as an entrepreneur with a friend, really excited about it.
+
+**Link to Work / References** : Morale ok-ish.
+
+- [LeetCode](https://leetcode.com/)
