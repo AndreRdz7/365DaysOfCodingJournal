@@ -1989,3 +1989,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Morale ok-ish.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 200, Jul 17th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 347, a priority queue problem, it was very easy to get the intuition for the data structure, however the code was not that easy since another data structure is needed, a pair. Very interesting problem, and I think it can be useful in reallity, unlike implementing my own power funcion... Another meeting, another change on research, now, not even a dict, a list of tuples that contain all ranges, now specific hour ranges are taken out, can't complain, it's easier to work with, I even got the 'pruning-traversal' of the hour ranges given a minimum support threshold.
+
+**Link to Work / References** : I feel bad about my productivity, self-steem running all time low.
+
+- [LeetCode](https://leetcode.com/)
