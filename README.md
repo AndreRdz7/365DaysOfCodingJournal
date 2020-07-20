@@ -1997,3 +1997,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : I feel bad about my productivity, self-steem running all time low.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 201, Jul 18th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 210, a topological sorting, on 'labeled courses' with prerequisites, the goal was to determine if is solvable (build the 'graph'). It took me a while, most of the hour of today, and since it's my rest day was enough for me.
+
+**Link to Work / References** : Feeling better overall.
+
+- [LeetCode](https://leetcode.com/)
