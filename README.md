@@ -2005,3 +2005,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Feeling better overall.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 202, Jul 19th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 67, add binary strings, oddly enough, it's easier for me than bitwise, start backwards and do an "add operation" bit by bit and have a carry, simple but traversing strings and adding to them it's way easier on JS and Python, but I choose C++ and I'll stick to it, I like it. Finished the XML creator, really happy about it, one step closer to start writing the paper. Finished the model of the DB of my entrepreneurial project and started the setup for the backend.
+
+**Link to Work / References** : Happier.
+
+- [LeetCode](https://leetcode.com/)
