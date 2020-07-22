@@ -2013,3 +2013,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Happier.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 203, Jul 20th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 203, a follow up of the classic remove a node from a linked list that matches a number, now, you need to remove all matching elements, so it can be 1 or more, simple yet it has a tweak if the element to remove is the head and subsequent nodes also need to be removed. A lot of interaction today, I was invited to join research on machine learning and I'll gladly be part of, the professor that invited me is the same as the one of my favorite course, intelligent systems. I wrote a recommendation for him on LinkedIn also. Had a meeting with my research professor, we fixed a little thing and he was happy with my results, now, we will polish our work and make comparisons with the belgium researchers on Resource Availability. Extracted the notebook code to simple python files, since they work properly and to reduce unnecesary printings and executions like the support dict and graph versions.
+
+**Link to Work / References** : Feels good to get noticed by a great professor.
+
+- [LeetCode](https://leetcode.com/)
