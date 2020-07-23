@@ -2021,3 +2021,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Feels good to get noticed by a great professor.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 204, Jul 21th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 79, a word search on a matrix that single letters cannot be reused, used a DFS approach with a somewhat ok-ish time complexity, Read all the Niels Martin paper, on Resourse Availability Calendars, it was really interesting, I'm a little worried since theoretically it represents a higher precision, but the code is unclear and there is no README to verefy the results and compare them. Got contacted again in LinkedIn by recruiters, looks like economy is starting to get recovered.
+
+**Link to Work / References** :.
+
+- [LeetCode](https://leetcode.com/)
+- [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437919305150?via%3Dihub)
+- [Repository](https://github.com/nielsmartin/resource_availability_calendars)
