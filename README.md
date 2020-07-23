@@ -2031,3 +2031,11 @@ Did problems 1342, 509, 346 of LeetCode.
 - [LeetCode](https://leetcode.com/)
 - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437919305150?via%3Dihub)
 - [Repository](https://github.com/nielsmartin/resource_availability_calendars)
+
+## Day 205, Jul 22th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 103, a level zig zag traversal, I remebered that I did something exactly the same, but it was another problem, so it's kind of a duplicate because the one that I did previously was a follow up from a regular level order. Had a loooong meeting with my professor, we didn't managed to run the project of Niels Martin, so we are kinda stuck since in Europe they are in vacation, so our answer will arrive on August. Prepared my research homework analyzing the bimp xml file on the calendar and id management.
+
+**Link to Work / References** :.
+
+- [LeetCode](https://leetcode.com/)
