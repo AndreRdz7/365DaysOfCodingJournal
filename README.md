@@ -2047,3 +2047,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** : Not an awful day at all, at least I finished my homework.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 207, Jul 23th 2020
+
+**Today's Progress**: Actually did not solved LeetCode daily challenge again, yeah, it was a really bad day, had a meeting with my tutor and yeah, I did wrong my homework, well, I understood wrong my tasks, because I did exactly what I though it was right. So a bit of discussion, on using BIMP, advantages and disadvantages, but concluded to be worthy, since we cannot use our own (my colleague work) just yet.
+
+**Link to Work / References** : 2 days of no LeetCode, what is wrong with me ?
+
+- [LeetCode](https://leetcode.com/)
