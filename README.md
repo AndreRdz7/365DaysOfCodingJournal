@@ -2039,3 +2039,11 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :.
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 206, Jul 23th 2020
+
+**Today's Progress**: Actually did not solved LeetCode daily challenge, I totally forgot about it, I don't know why... so my streak is over, and this is not the case I solved it in the problems section and forget to do it in the challenge section, no, no LeetCode today at all. On better results, finished my homework, but I have a bad feeling, I think I'm missing something because something does not feels right. Had an interview with CellFusion, a total failure, they needed an experienced Java developer in Spring and applets and things I've never done before, *sigh* recruiters...
+
+**Link to Work / References** : Not an awful day at all, at least I finished my homework.
+
+- [LeetCode](https://leetcode.com/)
