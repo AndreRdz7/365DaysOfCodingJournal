@@ -2046,12 +2046,21 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Link to Work / References** : Not an awful day at all, at least I finished my homework.
 
-- [LeetCode](https://leetcode.com/)
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 207, Jul 23th 2020
+## Day 207, Jul 24th 2020
 
 **Today's Progress**: Actually did not solved LeetCode daily challenge again, yeah, it was a really bad day, had a meeting with my tutor and yeah, I did wrong my homework, well, I understood wrong my tasks, because I did exactly what I though it was right. So a bit of discussion, on using BIMP, advantages and disadvantages, but concluded to be worthy, since we cannot use our own (my colleague work) just yet.
 
 **Link to Work / References** : 2 days of no LeetCode, what is wrong with me ?
 
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 208, Jul 25th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 154, search a minimum value in a rotated array, where duplicates exists, this is a follow up from the regular rotated array with duplicates added, it's not much different from a regular binary search. Stated to work on my homework but the log reader failed, I configured correctly in the BIMP interface but had problems while loading the file, I'll try it manually to see if it works.
+
+**Link to Work / References** :.
+
 - [LeetCode](https://leetcode.com/)
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
