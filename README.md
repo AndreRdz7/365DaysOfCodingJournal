@@ -1586,7 +1586,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 973, a priority queue, my approach and intuition, but got some help with the code on evaluation and implementation, but my thought processs was correct nevertheless. Finished the compilers homework, tomorrow will do some bug hunting and code cleaning. Continued the journy on the online grader, doing documentation, views and starting to do the event scheduler for announcements on the platform, going good.
 
-**Link to Work / References** : Hard to focus, I'm not quite productive and feeling more tired everyday, but I'm keeping mentally string (somewhat).
+**Thoughts**: Hard to focus, I'm not quite productive and feeling more tired everyday, but I'm keeping mentally string (somewhat).
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
@@ -1595,7 +1597,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 72, a hard dynamic programming prblem, was suuuuper though, honestly could not get the solution, and the brute force approach might fail, next month challenge will be all by me, by June 4th I'll be only with 1 exam and 1 project, so i'll be full timing on LeetCode and learning and learning and an active jobsearch for my last semester, before jumping to the big leagues. No bugs found on compilers, so just I commented some print statements and uploaded it. Finished my task on research, I think, I'm honestly lost on this one, not sure why it works or why it doesn't work. Tried to do my task on the online grader project but failed miserably, I cannot focus.
 
-**Link to Work / References** : We are close, I can taste it.
+**Thoughts** : We are close, I can taste it.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
@@ -1604,7 +1608,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Re-solved LeetCode daily challenge, problem 226, super easy, took me like 2 or less minutes since I'm familiar with it, about flipping a binary tree, as stated before, I will solve the whole June challenge by myself and be LeetCoding more every single day. Finished the databases project, and we are demoing tomorrow, happy about it and excited to make it even bigger. Final project assigned on compilers, basically add functions to the language, sounds tricky, so most likely it will definetly will be. Finally finished the most horrible course I've ever had, it was a knightmare, but it's done, one less to go.
 
-**Link to Work / References** : I've been running low on research and studying but definetly Wednesday, after a little non-intensive day tomorrow will finish my Intelligent System's project and just 2 (easy) exams and the compilers project to go.
+**Thoughts** : I've been running low on research and studying but definetly Wednesday, after a little non-intensive day tomorrow will finish my Intelligent System's project and just 2 (easy) exams and the compilers project to go.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1612,7 +1618,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 237, about deleting a node in a linked list, I think it's the most disliked questiong in LeetCode, simply because you receive the node you want to delete, not the whole list and the value you want to delete, easy nonetheless. Did the project demo for databases, got a 99/100, we missed a composite data type (part of requierements), we totally forgot about that, but the project is pretty solid and I'll be working on it on the summer. Started my intelligent systems project, it's a CS paper format about what we did in the course, basically, so it will be comparing behavior on algorithms depending on features and class imbalance, not comparing at all between algorithms (Friedman Test) because I only have 1 relatively small database. Continued my DS book, chapters 1.4, 2, 2.1 and 2.2, about dichotomy (binary search) and simulation processes.
 
-**Link to Work / References** : Feeling motivated and good, I really need a break, I feel so so so tired.
+**Thoughts** : Feeling motivated and good, I really need a break, I feel so so so tired.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Data Structure Practice for Collegiate Programming Contests and Education](https://doc.lagout.org/Others/Data%20Structures/Data%20Structure%20Practice_%20for%20Collegiate%20Programming%20Contests%20and%20Education%20%5BWu%20%26%20Wang%202016-02-04%5D.pdf)
@@ -1621,7 +1629,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 1029, a greedy algorithm, marked as easy but oh boy it may seem super easy at first but a speciall sorting or a priority queue needs to be used, very interesting way to put a problem that looks so easy in a tricky way. Talked with my professor about my presentation for tomorrow, pretty excited about it, show my contributions. Updated my CV for application marathon next week with the online grader and the research.
 
-**Link to Work / References** : My wholesome day, mentally recovered.
+**Thoughts** : My wholesome day, mentally recovered.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1629,7 +1639,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 334, in about 3 seconds, reverse a string so I used the stl, maybe it's cheating but I think I should use every tool I know. Did my presentation of my research and it went good, felt nervous for a little, but it was good. Did my Intelligent Systems exam, pretty fun and actually very easy.
 
-**Link to Work / References** : One less thing to finish, yay!.
+**Thoughts** : One less thing to finish, yay!.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1637,7 +1649,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 528, it was suuuuuuper weird, I didn't even undertood the question, it failed to deliver a good explanation by the problem, this, in a real interview scenario it's ok, because the point of interviews is to ask questions to clarify and fully understand the problem and constraints, but on LeetCode you cannot ask... that's way the question has so many dislikes, although the question is not hard per se, understanding it is quite tough. More on the Intelligent Systems project, I was so distracted, did not much at all.
 
-**Link to Work / References** : I have problems with focusing, I need to concentrate on the work to finish it quick and then take my break.
+**Thoughts** : I have problems with focusing, I need to concentrate on the work to finish it quick and then take my break.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1645,7 +1659,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 406, special sorting, and easy peasy. Did a lot for the intelligent systems problem, basically ran 18 algorithms and made comparisons, wrote a lot for the report/paper, really interesting.
 
-**Link to Work / References** : Almost one left (compilers) to go.
+**Thoughts** : Almost one left (compilers) to go.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1653,7 +1669,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 518, dynamic programming of coin change, of every possible combination, not the least amount of coins as usually is, kinda like a greedy and try every possible path in a tree, fun to do, not super hard, even tho dp is not my strenght. Finished my Intelligent Systems project, writing is not my passion, but all experimenting was super fun to do, motivated to learn-a-lot on summer about Machine Learning, and will try to apply Reinforcement Learning on videogames.
 
-**Link to Work / References** : Compilers to go, LeetCode contant, today was 5 years with my girlfriend, couldn't be more happy right now.
+**Thoughts** : Compilers to go, LeetCode contant, today was 5 years with my girlfriend, couldn't be more happy right now.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1661,7 +1679,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 231, bitwise! but I new exactly what to do but not how to, so I needed help to do the thing that I was thinking, felt good that got the intuition on bruteforce and super optimized in bitwise super quickly. Started the compilers final homework (add funtions to the language) and modified the token handler and the syntax, still thinking the best approach to build functions as treenodes to avoid another node type and exploit the capabilities of treenodes of having a symbol table.
 
-**Link to Work / References** : I... don't feel motivated... at all.
+**Thoughts** : I... don't feel motivated... at all.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1670,7 +1690,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 392, a two pointers problem, to find a "substring" in a string, was super intuitive and my approach was O(n) in time and O(1) in space, other proposed solutions on the problem involved maps and other stuff that actually complicated the problem and added memory to it. Reorganized my learning path, to achive more, I have a better plan now, looking in retrospective this year, set a more "realistic" goal but I know I can push harder and stretch as much as possible without tearing my life appart because of no deadlines.
 
-**Link to Work / References** : I feel I'm procrastinating to another level, I feel bad about it.
+**Thoughts** : I feel I'm procrastinating to another level, I feel bad about it.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1678,7 +1700,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Re-solved LeetCode daily challenge, problem 35, a binary search problem that was really easy, it's basically a regular binary search application. More C++, before the best part (stl), about streams and files, really interesting, it should be fun to try to implement every single thing of all I've learnt, maybe a hello word of WebAssembly should be really fun. Read the whole 3rd chapter of my Algorithms book, on greedy algorithms, like Kruskal, Prim, Dijkstra, and many others, they are quite complex, not taught in a regular algorithms course, I need to code them, probably will make a dynamic library on c++ on these algorithms, if the stl does include them, we'll see.
 
-**Link to Work / References** : I feel I'm procrastinating to another level, I feel bad about it.
+**Thoughts** : I feel I'm procrastinating to another level, I feel bad about it.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Introducción al diseño y análisis de algoritmos](https://www.academia.edu/38477997/Introduccion_al_diseno_y_analisis_de_algoritmos_-_Lee_Tseng_Chang_y_Tsai)
@@ -1688,7 +1712,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 95, a two pointer/sort approach, that my first thought was a count sort, but then I re-read the problem and it stated that only 3 different numbers can be in the container, always 0,1 and 2, so if statements are enough to solve the problem efficiently. Tried to debug the compilers homework, spent hours and hours and got the conclusion that the tree wasn't build correctly, part of my fault for not noticing it earlier.
 
-**Link to Work / References** : I feel so bad, like really really bad, the only thing that relieves me is that this is almost over.
+**Thoughts** : I feel so bad, like really really bad, the only thing that relieves me is that this is almost over.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1697,7 +1723,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 380, a system disign-ish question, but it was basically to "merge" a map and a vector, really interesting, also did 1266, a geometry problem, just for fun, I'm seriously excited about making a c++ library for algorithms unavailable in the stl. Did the final exam on databases, got final grade of 93, and Intelligent Systems ended with 100, so only compilers is left. Indeed the syntax tree was wrong, so my colleague fixed it and I'm reworking on my code to make it work with the new tree structuere.
 
-**Link to Work / References** : Feeling better, lately I'm feeling like a rollercoaster.
+**Thoughts** : Feeling better, lately I'm feeling like a rollercoaster.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1706,7 +1734,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 368, a mixture of math and dp, was really tough for me, got somewhat the approach and got help for the code, not sure if I'm getting worse or the lack of proper sleep and other healthy habits are dragging me down. Finished the compilers part, on fixing the execute of the code, it now works perfect.
 
-**Link to Work / References** : Now, add functions to the compiler... _sigh_.
+**Thoughts** : Now, add functions to the compiler... _sigh_.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1715,7 +1745,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 787, Dijkstra! got the intuition right away, and yes, was the first solution recommended by LeetCode so I was happy, got help with the code, since I'm not thinking that straight. Did some pseudocode and discussed with my colleague the solution for a problem we had, implemented the functions to execute functions (I know it sounds weird), but, the code broke, and I had no idea why, he told me it was done, the functions stack was working properly and the declarations of variables (symbol's table) for each function was working well, but on the last push, it broke up, now it doesn't find the variables, not even the global ones, I think it's the only part missing, because from 1 intstruction to another, another function to verify the ID is changed and it breaks, but it makes no real sense.
 
-**Link to Work / References** : So close and yet so far.
+**Thoughts** : So close and yet so far.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1724,7 +1756,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Re-solved LeetCode daily challenge, problem 700, find insertion in BST, since I had a lot to do on compilers didn't bother to think another approach I've preoviously done. I spent the whole day woking on compilers, about executing functions, the returning values, I didn't have enough time to implement recursion, sadly, but overall, there were many hours of work on it and feels good to finish the semester.
 
-**Link to Work / References** : Ok, now, to recover from stress, I'll take a "light" week to replenish my energy and boom, my productivity will spark.
+**Thoughts** : Ok, now, to recover from stress, I'll take a "light" week to replenish my energy and boom, my productivity will spark.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1733,7 +1767,9 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 468, about strings, it could be greedy, dive and conquer, regex, and probably other approaches, since I've never done before regex with C++ I tried that approach, it was kinda weird, C++ regex are very different from JS ones, so it was, weird (for the lack of a better word), and finally got help, since most of online forums are about JS regex. Had my exploratory call with Google, very happy the consider me for a full time role, my application will start on mid-August so I need to destroy my brain and fingers coding and getting better now.
 
-**Link to Work / References** : Got a 85 on compiliers, not bad, my effort was worth, now I feel relieved, rested and motivated, I still need some rest, but I'm almost ready to rise a phoenix.
+**Thoughts** : Got a 85 on compiliers, not bad, my effort was worth, now I feel relieved, rested and motivated, I still need some rest, but I'm almost ready to rise a phoenix.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1741,331 +1777,409 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 130, a DFS problem, it was really fun, a BFS approach was also valid but I opted for a DFS since the complexity are the same and a DFS always guarantees the answer. Reorganized my schedule to LeetCode and learn things to be a pro full stack, to fit with my workout schedule and leave room for proper rest. Read many small articles about web development.
 
-**Link to Work / References** : Got a 97/100 on my semester so I'm really happy, 4 courses to go.
+**Thoughts** : Got a 97/100 on my semester so I'm really happy, 4 courses to go.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 171, Jun 18th 2020
+## Day 170, Jun 18th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 274, a sorting + binary search problem, it wasn't easy at all, the description was somewhat confusing, but nevertheless it was solvable. So back on track on learning, did a super full recap on Angular, in my talk with Chase (Google Exploratory Call) we agreed that my best path for now is to become a pro at full stack so I'll be a pro at full stack, will try to master Angular and Node, with very good knowledge of UI/UX, Cloud, Mobile and other stuff. So I did about 16 chapters on Angular, starting from scratch, yep, my whole day was pure Angular and I can only say that I really like it, way way way more than React.
 
-**Link to Work / References** : I'm back at it, I know I can handle it.
+**Thoughts** : I'm back at it, I know I can handle it.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 1-14, 17](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
-## Day 172, Jun 19th 2020
+## Day 171, Jun 19th 2020
 
 **Today's Progress**: Ok so, I failed the LeetCode challenge, I looked at it, I was like, uhhmm what? I'll do it later, and that later become not today, I lost all internet conection due to a problem with the modem, so I only did 2 sections on Udemy on Angular, and took the day off, not that it was a must, but my body was screaming to rest, so I gave it a shot and did what my body told me. On the Angular part, looks like I've been doing forms wrong, or maybe not wrong, but not optimal and not in a Angular-esque way.
 
-**Link to Work / References** : I'm back at it, I know I can handle it.
+**Thoughts** : I'm back at it, I know I can handle it.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 15-16](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
-## Day 173, Jun 20th 2020
+## Day 172, Jun 20th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 60, it was as tricky as is could be, it was a math problem, about permutations, did the intuition of backtracking right, but found that the glorious stl has a next_permutation function on strings, so a cast and several calls to the function made it (super slow) into Accepted. Did more Angular, now on http request on the Angular default module, it's very powerful, I'll use it instead of axios next time.
 
-**Link to Work / References** : My wholesome day with my girlfriend, so not much to do, it's my mental + 100 day.
+**Thoughts** : My wholesome day with my girlfriend, so not much to do, it's my mental + 100 day.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 18](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
-## Day 174, Jun 21st 2020
+## Day 173, Jun 21st 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 79, a DFS + DP problem, got the intuition right, really fast, but struggled at coding at some "edge cases", nevertheless, happy that my intuition was right and as efficient as I could think off. More on Angular, I'm almost done, learnt about somo aspects of authentication I didn't knew, dynamic components, the modules structures, hoy to deploy, Angular Universal (server side rendering), Angular Animations and the offline capabilities of Service Workers, only testing and NgRx to finish the course and we are done, onto the next one.
 
-**Link to Work / References** : Productive day, happy about it.
+**Thoughts** : Productive day, happy about it.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 20-27](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
-## Day 175, Jun 22nd 2020
+## Day 174, Jun 22nd 2020
 
 **Today's Progress**: Re-solved LeetCode daily challenge, problem 134, solved like a hash problem but tried the bitwise solution, it's super elegant, I mean, not only it's O(n) in time and O(1) in space but the solution is as beautiful as it can be, seriously. No luck on enrolling for summer courses, apparently ther is a problem with the research course. More on Angular, almost done, only NgRx (partially) is left. I need to think my next big move, besides more LeetCode.
 
-**Link to Work / References** : Felt bad, had a really bad sleep, and felt tired most of the day.
+**Thoughts** : Felt bad, had a really bad sleep, and felt tired most of the day.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 28-29, 24](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
-## Day 176, Jun 23rd 2020
+## Day 175, Jun 23rd 2020
 
 **Today's Progress**: Re-solved LeetCode daily challenge, problem 222, a binary search tree problem, basically a counting nodes one, the O(n) solution is super easy to do, and it applias to every binary tree, but the problem stated that it was a complete BST, so a little tweak can be done to improve performance. I wasn't on the mood to finish the NgRx module on Angular, so I hopped through a lot of post on programming tendencies, how to write better code, how to be a good team-based programmer,etc. Got good new, I'll probably work on 3 projects this semester, enough to pay tuition, debt and have a starting money when I graduate.
 
-**Link to Work / References** : Not that I'm not motivated, _au contraire_, I'm pumped up, but today was simply not my day.
+**Thoughts** : Not that I'm not motivated, _au contraire_, I'm pumped up, but today was simply not my day.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 177, Jun 24th 2020
+## Day 176, Jun 24th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 96, A dp + BST, quite though but not impossible, on finding the amount of unique BST given a input, I got most of the logic completed but at the end got help to solve it. Had a meeting with my teammates for freelance projects, looklike we are going to have fun on the weekends. Finally was able to enroll on my research course, this will be nice because it's 5 weeks of progress with research and discipline.
 
-**Link to Work / References** : Despite being my wholesome day I'm not satisfied at all of what I did today.
+**Thoughts** : Despite being my wholesome day I'm not satisfied at all of what I did today.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 178, Jun 25th 2020
+## Day 177, Jun 25th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 287, a problem that on first sight could be a sort then linear search or linear search with a hashmap, but the restrictions con the problem specified that this two specific approaches are not valid, so a two pointer-ish approximation must be implemented, like in a linked list with the fast and slow pointer, to find a cycle, applied to an array, really interesting, coming up with this idea IMO is quite rare. Finished Angular course, finished the NgRx module, and oh boy it's boring as boredom can be, I find very tedious the Redux architecture, and, I mean, React users have little to no choice, but Angular can manage many many things without it, it seems like an overkill in any small or medium-small webapp.
 
-**Link to Work / References** : I was kinda tough to finish the NgRx part, I really really don't like it.
+**Thoughts** : I was kinda tough to finish the NgRx part, I really really don't like it.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 24](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
-## Day 179, Jun 26th 2020
+## Day 178, Jun 26th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 129, a DFS on tree problem, it was pretty interesting, the intuition can come up pretty quickly. So I spent a lot of time with a quotation for a possible clint, It will be my biggest project yet, a full retail store for multiple brands, blogging, user profiles and many more things.
 
-**Link to Work / References** : This week was a mess, an absolute mess.
+**Thoughts** : This week was a mess, an absolute mess.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 180, Jun 27th 2020
+## Day 179, Jun 27th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 279, a dp problem, with some spicy math about perfect squares, it was tricky, but found the best approach is to calculate squares first and then use dp to find the result, it wasn't super hard, but by no means it was easy. So I finished the quotation for a possiblec client, everything points to a success on a negotiation, I really hope so, it will be my most ambitious project, big and hard, with social impact, so I really hope I can work with them.
 
-**Link to Work / References** : This was the worst week of the year on productivity terms, some problems took about the hour of the challenge, and had to read articles just to fill the time, it's just, I don't know what is happening.
+**Thoughts** : This was the worst week of the year on productivity terms, some problems took about the hour of the challenge, and had to read articles just to fill the time, it's just, I don't know what is happening.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 181, Jun 28th 2020
+## Day 180, Jun 28th 2020
 
 **Today's Progress**: Missed the LeetCode challenge, like, I forgot about it, since it's usually the first thing I do, and today I started with React... so, yeah, no challenge but React basics, since I'll (most likely) will be working with it in 2 projects with my colleagues.
 
-**Link to Work / References** : Back to "productivity".
+**Thoughts** : Back to "productivity".
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [React 16, Section 1-4](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-## Day 182, Jun 29th 2020
+## Day 181, Jun 29th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 62, a dp problem, kinda similar a one that I previously solved before, actually I thought it was a repeated one but no, it wasn't. Solved more problems as part of my training, numbers 359 a system design-ish with maps, 1021 on string manipulation and 1047 on string manipulation + stack. Not much else done, helped at home, trying to get my energy and my willing to do things back.
 
-**Link to Work / References** : Back to "productivity".
+**Thoughts** : Back to "productivity".
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 183, Jun 30th 2020
+## Day 182, Jun 30th 2020
 
 **Today's Progress**: Tried to Solve the daily challenge, I got TLE on my solution after _several_ minutes of trying to get a succeed, so I searched for help and the answer was a Trie + backtracking, not a DFS, that's why I got a TLE. Not much more. I have something mentally that doesn't drive me for more, although I'm striving for success and landing a FANMAG (or WITCH) job I just can't, I'm burnt.
 
-**Link to Work / References** : Back to "productivity" (yesteday's thought... ye, no). I have something mentally that doesn't drive me for more, although I'm striving for success and landing a FANMAG (or WITCH) job I just can't, I'm burnt physically, mentally and emotinally.
+**Thoughts** : Back to "productivity" (yesteday's thought... ye, no). I have something mentally that doesn't drive me for more, although I'm striving for success and landing a FANMAG (or WITCH) job I just can't, I'm burnt physically, mentally and emotinally.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 184, Jul 1st 2020
+## Day 183, Jul 1st 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 441, a math-ish greedy-ish problem, more like and ad-hoc one than an algorithm, at the end it had a binary search approach with some math, quite interesting. So... back to research! had a long meeting with my mentor about our next steps and playing with our info. Really excited to work with it during summer. I'm just waiting for a project to be confirmed, I'm getting desperate to work.
 
-**Link to Work / References** : My wholesome day. Reorganized my schedule to work and do my workouts. Another virtually failed week, but it's something really mental.
+**Thoughts** : My wholesome day. Reorganized my schedule to work and do my workouts. Another virtually failed week, but it's something really mental.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 185, Jul 2nd 2020
+## Day 184, Jul 2nd 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 107, a level order traversal for a tree, but reversed, basically a queue problem, quite easy but I'm pretty sure my answer can be improved. Did my research homework, the second iteration of our work, now in a new file to prevent larger and harder to read files, with data display to visualize the support for workdays.
 
-**Link to Work / References** : I'm feeling better.
+**Thoughts** : I'm feeling better.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 186, Jul 3rd 2020
+## Day 185, Jul 3rd 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 957, a super weird problem, basically a game of life-ish problem, but about prison cells that get occupied if on the left and on the right are the same state (occupied or empty) and gets emptied otherwise, the main part is to dectec cycles, there are a finite amount of different states, in this case 14, so no matter how many "iterations" should be performed, there are only 14 different states and thus it's time consuming to recalculate a previous state, like a dynamic programming approach. Showed my homework to my professor, he was happy, I was happy, it's starting great, so I started my homework today and finished the first part, about obtaining work ranges, the next part will be to do de same approach but usign a work schedule with intervals, like a lunch break.
 
-**Link to Work / References** : Worked some hours, starting to regain my power, I just home my clients accepts the project and my summer will be as awesome as it could be.
+**Thoughts** : Worked some hours, starting to regain my power, I just home my clients accepts the project and my summer will be as awesome as it could be.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 187, Jul 4th 2020
+## Day 186, Jul 4th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 264, a ugly number follow-up problem, actually, to retrive the n-th ugly number, so basically, it's generating a sequence and can be optimized with a 3-pointer-ish approach, since an ugly number is divisible by 2, 3 o 5.
 
-**Link to Work / References** : My wholesome day, in this times full of pesimism, any amount of happiness is appreciated.
+**Thoughts** : My wholesome day, in this times full of pesimism, any amount of happiness is appreciated.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 188, Jul 5th 2020
+## Day 187, Jul 5th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 461, a bitwise problem, to find the hamming distance, I remember this topic from my computer organization course, back in my 3rd semester, one of my favorite courses, but yeah, the bitwise problems are the thoughest for me, I had my brute force idea but it was really slow compared to any bitwise approach, so I decided lookup for possible solutions and it turned out C++ has a builtin function, and I just need to send an and operation between the two numbers, and it took 4 ms, ranking the worst time possible, so I'm glad I didn't upload my brute force, I probably would get a TLE. I tried to do my second homework, but the Scylla simulator is incapable of doing what we need, I don't know if my colleague's simulator is finished so we can use it now.
 
-**Link to Work / References** : Feeling better.
+**Thoughts** : Feeling better.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 189, Jul 6th 2020
+## Day 188, Jul 6th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 66, similar to the naive addition of two linked list, but using constant space and O(n) in time, with a simple condition to exit to save time. Had my meeting with my professor, presenting my 2 successful homeworks, we discussed next steps, to partition in ranges of support with a greedy algorithm, fix the hour changing on october and on how to use the calculated support by representing it in a tree, but my idea is to use a DAG, weighted (the support), so a traversal with a minimum support, will lead to pruning the tree.
 
-**Link to Work / References** : Feeling great on research, I feel we are progressing quick.
+**Thoughts** : Feeling great on research, I feel we are progressing quick.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 190, Jul 7th 2020
+## Day 189, Jul 7th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 463, it was, really interesting, it reminded me about the number of islands problem, but it was to find the permiter of a single island, it was basically a counting solution, one by one, even empty spaces since the shape is unknown... it could be a U. Grinded Node.js course, since I'll be working (hopefully, fingers crossed) on a big proyect and I want to do the backend on Node with express.
 
-**Link to Work / References** : Yup, finally upgrading my Node.js.
+**Thoughts** : Yup, finally upgrading my Node.js.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 1-5](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
-## Day 191, Jul 8th 2020
+## Day 190, Jul 8th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 15, a follow up for the classic 2 Sum, the 3 sum, which basically is a O(n2), by sorting and pivoting one value, then do a regular 2 Sum but the goal is a+b+c=0, and since it's sorted, a two-pointer approach for the 2 Sum subproblems fits perfectly. No talk with my professor, I assume he was really busy. Asynchronous Node theory.
 
-**Link to Work / References** : My wholesome day, and I gotta say I'm feeling great.
+**Thoughts** : My wholesome day, and I gotta say I'm feeling great.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 6](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
-## Day 192, Jul 9th 2020
+## Day 191, Jul 9th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 662, to calculate the width of a tree, but it felt like a ICPC problem where you have to use unsigned long long in order to not get an overflow for C++, languages like Python have less restrictions with these kind of problems. More Node.js, no official contract but I'm keeping my hopes up high.
 
-**Link to Work / References** : Another wholesome day, quite unexpected, a familiar one.
+**Thoughts** : Another wholesome day, quite unexpected, a familiar one.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 7](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
-## Day 193, Jul 10th 2020
+## Day 192, Jul 10th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 430, to flatten a doubly linked list with a graph traversal, really interesting, I think it should be a classic problem on linked list, it's a very clever problem in my opinion. Had a meeting about a possible project, sounds good, but right now I need profit, and the company behind the project aren't willing to pay for it, so maybe, just maybe, we will do it for in our free time. More Node, such an awesome environment.
 
-**Link to Work / References** : High hopes on the super big project but not anything else, no one appreciates work and wants to pay super low quantities for small-medium projects.
+**Thoughts** : High hopes on the super big project but not anything else, no one appreciates work and wants to pay super low quantities for small-medium projects.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 8](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
-## Day 194, Jul 11th 2020
+## Day 193, Jul 11th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 78, to generate a power set of a given array, so it was basically generating vectors and push them to the global vector solution, it was really interesting, to play with memory leaks and time consuming, since all the comnbinations are 2<sup>N</sup>. More on Node.js, about deployment.
 
-**Link to Work / References** : A super wholesome day, the best day in the year.
+**Thoughts** : A super wholesome day, the best day in the year.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 9](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
-## Day 195, Jul 12th 2020
+## Day 194, Jul 12th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 190, a bitwise problem... yup, got stuck but somehow I got the answer, at the end I got help to accomplish it. More on React, about styling and debugging.
 
-**Link to Work / References** : Another wholesome day for me and my mind, but somehow I'm statting to getting dissapointed, since no project is confirmed.
+**Thoughts** : Another wholesome day for me and my mind, but somehow I'm statting to getting dissapointed, since no project is confirmed.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 - [React 16, Section 5-6](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-## Day 196, Jul 13th 2020
+## Day 195, Jul 13th 2020
 
 **Today's Progress**: Re-solved LeetCode daily challenge, problem 100, to find if a tree is equal to another, super easy since it was a BST. Started my homework on building the Graph to represent the calendar, using the library networkx for Python, I hope my professor likes it, specially since it can be plotted and easy to visualize. I'll be working on a project with a friend, an entrepreneurial-ish stuff.
 
-**Link to Work / References** : Back to productivity.
+**Thoughts** : Back to productivity.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 197, Jul 14th 2020
+## Day 196, Jul 14th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 1344, angle checking on clocks, an ad-hoc problem, basically, felt like a CodeForces to be honest, but fun nonetheless. Completed my graph on research, it was really cool, the networkx library is super cool.
 
-**Link to Work / References** : Research is looking great.
+**Thoughts** : Research is looking great.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 198, Jul 15th 2020
+## Day 197, Jul 15th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 51, to reverse words in a string, this is an example -> example an is this. Really fun, a two pointer approach was enough to do the task. So I had my meeting and... no longer a graph, it should be changed to a dictionary to avoid using so much extra memory, either a self defined class or a library. So all my work was "in vain".
 
-**Link to Work / References** : Two steps forward then three steps back on my research, not happy with changes like this.
+**Thoughts** : Two steps forward then three steps back on my research, not happy with changes like this.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 199, Jul 16th 2020
+## Day 198, Jul 16th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 50, to implement a pow function, I think it's kinda obvoius I got a TLE, since the solution is a math tweak. Finished the research dictionary and started the traversal. Consolidated the product I will create as an entrepreneur with a friend, really excited about it.
 
-**Link to Work / References** : Morale ok-ish.
+**Thoughts** : Morale ok-ish.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 200, Jul 17th 2020
+## Day 199, Jul 17th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 347, a priority queue problem, it was very easy to get the intuition for the data structure, however the code was not that easy since another data structure is needed, a pair. Very interesting problem, and I think it can be useful in reallity, unlike implementing my own power funcion... Another meeting, another change on research, now, not even a dict, a list of tuples that contain all ranges, now specific hour ranges are taken out, can't complain, it's easier to work with, I even got the 'pruning-traversal' of the hour ranges given a minimum support threshold.
 
-**Link to Work / References** : I feel bad about my productivity, self-steem running all time low.
+**Thoughts** : I feel bad about my productivity, self-steem running all time low.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 201, Jul 18th 2020
+## Day 200, Jul 18th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 210, a topological sorting, on 'labeled courses' with prerequisites, the goal was to determine if is solvable (build the 'graph'). It took me a while, most of the hour of today, and since it's my rest day was enough for me.
 
-**Link to Work / References** : Feeling better overall.
+**Thoughts** : Feeling better overall.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 202, Jul 19th 2020
+## Day 201, Jul 19th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 67, add binary strings, oddly enough, it's easier for me than bitwise, start backwards and do an "add operation" bit by bit and have a carry, simple but traversing strings and adding to them it's way easier on JS and Python, but I choose C++ and I'll stick to it, I like it. Finished the XML creator, really happy about it, one step closer to start writing the paper. Finished the model of the DB of my entrepreneurial project and started the setup for the backend.
 
-**Link to Work / References** : Happier.
+**Thoughts** : Happier.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 203, Jul 20th 2020
+## Day 202, Jul 20th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 203, a follow up of the classic remove a node from a linked list that matches a number, now, you need to remove all matching elements, so it can be 1 or more, simple yet it has a tweak if the element to remove is the head and subsequent nodes also need to be removed. A lot of interaction today, I was invited to join research on machine learning and I'll gladly be part of, the professor that invited me is the same as the one of my favorite course, intelligent systems. I wrote a recommendation for him on LinkedIn also. Had a meeting with my research professor, we fixed a little thing and he was happy with my results, now, we will polish our work and make comparisons with the belgium researchers on Resource Availability. Extracted the notebook code to simple python files, since they work properly and to reduce unnecesary printings and executions like the support dict and graph versions.
 
-**Link to Work / References** : Feels good to get noticed by a great professor.
+**Thoughts** : Feels good to get noticed by a great professor.
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 204, Jul 21th 2020
+## Day 203, Jul 21th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 79, a word search on a matrix that single letters cannot be reused, used a DFS approach with a somewhat ok-ish time complexity, Read all the Niels Martin paper, on Resourse Availability Calendars, it was really interesting, I'm a little worried since theoretically it represents a higher precision, but the code is unclear and there is no README to verefy the results and compare them. Got contacted again in LinkedIn by recruiters, looks like economy is starting to get recovered.
 
-**Link to Work / References** :.
+**Thoughts**: Yeah, worried, the other research looks kinda more solid than ours.
+
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437919305150?via%3Dihub)
 - [Repository](https://github.com/nielsmartin/resource_availability_calendars)
 
-## Day 205, Jul 22th 2020
+## Day 204, Jul 22th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 103, a level zig zag traversal, I remebered that I did something exactly the same, but it was another problem, so it's kind of a duplicate because the one that I did previously was a follow up from a regular level order. Had a loooong meeting with my professor, we didn't managed to run the project of Niels Martin, so we are kinda stuck since in Europe they are in vacation, so our answer will arrive on August. Prepared my research homework analyzing the bimp xml file on the calendar and id management.
 
-**Link to Work / References** :.
+**Thoughts** : Dear developer, if you are reading this, write READMEs please ! specially if the code is going to be used by other people. 
+
+**Link to Work / References** : 
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 206, Jul 23th 2020
+## Day 205, Jul 23th 2020
 
 **Today's Progress**: Actually did not solved LeetCode daily challenge, I totally forgot about it, I don't know why... so my streak is over, and this is not the case I solved it in the problems section and forget to do it in the challenge section, no, no LeetCode today at all. On better results, finished my homework, but I have a bad feeling, I think I'm missing something because something does not feels right. Had an interview with CellFusion, a total failure, they needed an experienced Java developer in Spring and applets and things I've never done before, *sigh* recruiters...
 
-**Link to Work / References** : Not an awful day at all, at least I finished my homework.
+**Thoughts** : Not an awful day at all, at least I finished my homework.
+
+**Link to Work / References** : 
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 207, Jul 24th 2020
+## Day 206, Jul 24th 2020
 
 **Today's Progress**: Actually did not solved LeetCode daily challenge again, yeah, it was a really bad day, had a meeting with my tutor and yeah, I did wrong my homework, well, I understood wrong my tasks, because I did exactly what I though it was right. So a bit of discussion, on using BIMP, advantages and disadvantages, but concluded to be worthy, since we cannot use our own (my colleague work) just yet.
 
-**Link to Work / References** : 2 days of no LeetCode, what is wrong with me ?
+**Thoughts** : 2 days of no LeetCode, what is wrong with me ?
+
+**Link to Work / References** : 
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 208, Jul 25th 2020
+## Day 207, Jul 25th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 154, search a minimum value in a rotated array, where duplicates exists, this is a follow up from the regular rotated array with duplicates added, it's not much different from a regular binary search. Stated to work on my homework but the log reader failed, I configured correctly in the BIMP interface but had problems while loading the file, I'll try it manually to see if it works.
+
+**Thoughts** : Simod and BIMP always have problems...
 
 **Link to Work / References** 
 
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
-## Day 209, Jul 26th 2020
+## Day 208, Jul 26th 2020
 
 **Today's Progress**: Actually did not solved LeetCode daily challenge again but this time was intentionally, I needed to rest, from everything on the internet, to rise like a phoenix tomorrow, had a terrible headache so I couldn't finish my homework, I'll postpone my meeting 2 days. Only read my book of Machine Learning, read the introduction of every chapter, Decision Trees, ANN, Bayesian, Computational learning, Instance-based, Genetic, Rule-based, Analytical, Inductive+Analytical, Reinforcement... Since I'll be working with my professor of intelligent systems, I need to get a little bit more on the global topics of ML.
 
