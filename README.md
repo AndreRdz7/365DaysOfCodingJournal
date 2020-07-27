@@ -2060,7 +2060,17 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 154, search a minimum value in a rotated array, where duplicates exists, this is a follow up from the regular rotated array with duplicates added, it's not much different from a regular binary search. Stated to work on my homework but the log reader failed, I configured correctly in the BIMP interface but had problems while loading the file, I'll try it manually to see if it works.
 
-**Link to Work / References** :.
+**Link to Work / References** 
 
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 209, Jul 26th 2020
+
+**Today's Progress**: Actually did not solved LeetCode daily challenge again but this time was intentionally, I needed to rest, from everything on the internet, to rise like a phoenix tomorrow, had a terrible headache so I couldn't finish my homework, I'll postpone my meeting 2 days. Only read my book of Machine Learning, read the introduction of every chapter, Decision Trees, ANN, Bayesian, Computational learning, Instance-based, Genetic, Rule-based, Analytical, Inductive+Analytical, Reinforcement... Since I'll be working with my professor of intelligent systems, I need to get a little bit more on the global topics of ML.
+
+**Thoughts**: Tomorrow a fresh start.
+
+**Link to Work / References** 
+
+- [Machine Learning, Mitchell, T.](http://profsite.um.ac.ir/~monsefi/machine-learning/pdf/Machine-Learning-Tom-Mitchell.pdf "Online PDF")
