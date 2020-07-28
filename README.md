@@ -2188,3 +2188,14 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** 
 
 - [Machine Learning, Mitchell, T.](http://profsite.um.ac.ir/~monsefi/machine-learning/pdf/Machine-Learning-Tom-Mitchell.pdf "Online PDF")
+
+## Day 209, Jul 26th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 160, to build the tree with inorder and postorder traversals, all the tree reconstruction is hard for me, I need to study it more. Also did 1528, a sort-string problem, fairly easy, to warm up for tomorrow to be a great LC day. I did as much as I could with my research homework, but the log reader failed, but for starters, the BIMP website does not work as spected, or at least not like we thought, if we try to create ranges we need to split the timetable, but using the same name is useless since the id were different and the one assigned to the resource is the first one, so manual work was done but as previously said, the log reader crashed, on the role discovery part. I was somewhat "referred" to a job position in Mexico City on Microsoft, so today was my formal application, so nervous. Fixed this journal, with the correct cardinality and added content.
+
+**Thoughts** : Not precisely the _best_ return but it was a good one, on the upside, this leaves room only for improvement wich I will.
+
+**Link to Work / References** 
+
+- [LeetCode](https://leetcode.com/)
+- [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
