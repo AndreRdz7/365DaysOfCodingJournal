@@ -2199,3 +2199,13 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
+
+## Day 210, Jul 27th 2020
+
+**Today's Progress**: Solved LeetCode problem 299, a bulls and cows problem, basically to return the amount of bulls and the amount of cows given an input and the secret. Re-made the quotation for the Utopyan project, basically he told me that he wanted me to do it, just remove some stuff to make it more affordable and start as soon as possible, there is hope at the end of the darkness. Got proposed another project, basically a Rappi clone, not big pay but it should be "easy". 
+
+**Thoughts** : My last wholesome day as used to be, next ones I will work a lot more, more stuff on reaseach, back to classes and this project and I _NEED_ to study more on LC. Morale better.
+
+**Link to Work / References** 
+
+- [LeetCode](https://leetcode.com/)
