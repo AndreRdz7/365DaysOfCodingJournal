@@ -2210,7 +2210,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 209, Jul 29th 2020
+## Day 211, Jul 29th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 304, actually got a little bit of help, because I didn't quite understood the problem as a whole, it was the follow-up number 4 of buy and sell stocks, but it lacked explanation and oh surprise, it's not a super realistic environment where I can ask questions, but at the end the solution was really really simple. Finished the quotation, I hope to get the job and start ASAP.
 
