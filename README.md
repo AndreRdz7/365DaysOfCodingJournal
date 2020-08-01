@@ -2219,3 +2219,14 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** 
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 212, Jul 30th 2020
+
+**Today's Progress**: Didn't solved LeetCode daily challenge, why? I forget to do it (yes, again). Managed to do a super schedule for my next semester, pushing 2 projects, with a 75:25 split on Utopyan and my personal entrepreneurial project, research, exercise, constant training, and even some reading. More on Node.js since I'll be working really soon on backend, testing and mailing.
+
+**Thoughts** : Not a great day to be honest, feeling kinda sad and stressed.
+
+**Link to Work / References** 
+
+- [LeetCode](https://leetcode.com/)
+- [Node, Section 15-16](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
