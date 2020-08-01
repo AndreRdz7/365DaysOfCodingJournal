@@ -2230,3 +2230,13 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 15-16](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+
+## Day 213, Jul 31st 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 70, a straight up DP problem, gave me fibonacci vibes on result is the same - 1 and same - 2 and do it recursively with of course a dynamic programming part to improve performance. Not much done besides it, a little improvement on my organization calendar. Also read some articles on current situation on programming industry, oh boi what a year to be a grad...
+
+**Thoughts** : Feeling emotionally bad, my little dog is getting really sick.
+
+**Link to Work / References** 
+
+- [LeetCode](https://leetcode.com/)
