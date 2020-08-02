@@ -2240,3 +2240,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** 
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 214, Aug 1st 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 520, really easy, basically to detect if capital letters are used correctly, so it's either 0, the first only or all the letters, so a counter and conditions made the trick with the right amount of time and space complexity, and also solved the premium exclusive 354, a logger with cooldown, it was actually solved before but it is a nice system design question. Made a list of all companies I will apply tomorrow and a list of LC problems I need to solve to achive my dreams.
+
+**Thoughts** : Good comeback on LeetCode, I'll do about 15 hours a week, and it's quite a lot, considering I'll be doing 10 hours of excercise a week and 43 (aprox) hours of work a week (split 75:25 with Utopyan(big project) and Crowd (my entrepreneurial project)) and time with my girlfriend (future fiancee) and constant training _plus_ my research in university. It was supposed to be my wholesome day, but, my little dog is very very sick, so, actually was a very sad day, I cried several times.
+
+**Link to Work / References** 
+
+- [LeetCode](https://leetcode.com/)
