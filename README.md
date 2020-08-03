@@ -2250,3 +2250,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** 
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 215, Aug 2nd 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 705, to design a hash set, yep, solved it, got an AC but did it wrong, my bad, didn't read the do not use a built in dictionary, so a good approach is a BST, with a O(log(n)) on find and insert in best cases, not even neet to check collisions or do buckets IMO. Also did problems, 953 to validate an alien dictionary, 680 to validate a palindrome by removen 0 or 1 letter, tried a stack approach, failed, did a two pointer, and got it right, 1239 to get the max length concatenating strings with unique characters, started with a wrong approach since I thought it could be only a pair of them, not multiple, got it right at the end using a greedy approach with sets.
+
+**Thoughts** : More on LC. Today was a more wholesome-ish day, feeling better thanks to my girlfriend and her support, but still very sad and worried for my little dog.
+
+**Link to Work / References** 
+
+- [LeetCode](https://leetcode.com/)
