@@ -2260,3 +2260,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** 
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 216, Aug 3rd 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 125, to validate a palindrome, so a two pointer approach solves it in O(n/2) which is O(n) and O(1) in memory, better than a stack approach, there is probably a super weird niche algorithm that solves this, but it's unrealistic in a coding interview. So, last semester enrolled, 3 and hald (and probably more like 3, cuz' the half of research I did in summer vacation) courses to go. I got confirmed on Utopyan, a really interesting e-commerce site, I'll put a part of my soul on it so I can get my payment and buy that engagement ring for my future fiancee :D, so I did a full Product Manager day, lifting requirements (also tomorrow will be and start doing the scrum cards and sprint plannings). I need to urgently learn about AWS for both Utopyan and Crowd, RDS, EC2, S3 and all the streaming products...
+
+**Thoughts** : Yes! I got the project. No! a lot more to study... oh wait, that's incredible, I love to learn new things!
+
+**Link to Work / References** 
+
+- [LeetCode](https://leetcode.com/)
