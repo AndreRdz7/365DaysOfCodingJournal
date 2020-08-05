@@ -2270,3 +2270,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** 
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 216, Aug 3rd 2020
+
+**Today's Progress**: _Didn't solved LeetCode daily challenge_, I missed the timing, I was doing other stuff, working as a PM, lifting requirements and then... the time expired for today's challenge, yeah, I lost by missing the timing. Just worked as a PM since it's my last wholesome day.
+
+**Thoughts** : I'm an idiot sandwich
+
+**Link to Work / References** 
+
+- [LeetCode](https://leetcode.com/)
