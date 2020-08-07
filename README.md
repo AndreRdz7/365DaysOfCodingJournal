@@ -2271,11 +2271,21 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 216, Aug 3rd 2020
+## Day 217, Aug 4th 2020
 
 **Today's Progress**: _Didn't solved LeetCode daily challenge_, I missed the timing, I was doing other stuff, working as a PM, lifting requirements and then... the time expired for today's challenge, yeah, I lost by missing the timing. Just worked as a PM since it's my last wholesome day.
 
-**Thoughts** : I'm an idiot sandwich
+**Thoughts** : I'm an idiot sandwich.
+
+**Link to Work / References** 
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 218, Aug 5th 2020
+
+**Today's Progress**:  Solved LeetCode daily challenge, problem 211, to add and search a word, using a trie, maps and with the inclusion of a 'wildcard' which is the '.' that represents any letter, quite interesting, its a regular trie implementation with the adition of a wildcard on any given letter. Read a little bit about Divide and Conquer approaches.
+
+**Thoughts** : I felt terrible the whole day.
 
 **Link to Work / References** 
 
