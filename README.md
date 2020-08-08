@@ -1588,7 +1588,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts**: Hard to focus, I'm not quite productive and feeling more tired everyday, but I'm keeping mentally string (somewhat).
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
@@ -1599,7 +1599,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : We are close, I can taste it.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Syntax Tree](https://github.com/AndreRdz7/Tarea5)
@@ -1610,7 +1610,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I've been running low on research and studying but definetly Wednesday, after a little non-intensive day tomorrow will finish my Intelligent System's project and just 2 (easy) exams and the compilers project to go.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1620,7 +1620,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Feeling motivated and good, I really need a break, I feel so so so tired.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Data Structure Practice for Collegiate Programming Contests and Education](https://doc.lagout.org/Others/Data%20Structures/Data%20Structure%20Practice_%20for%20Collegiate%20Programming%20Contests%20and%20Education%20%5BWu%20%26%20Wang%202016-02-04%5D.pdf)
@@ -1631,7 +1631,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : My wholesome day, mentally recovered.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1641,7 +1641,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : One less thing to finish, yay!.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1651,7 +1651,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I have problems with focusing, I need to concentrate on the work to finish it quick and then take my break.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1661,7 +1661,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Almost one left (compilers) to go.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1671,7 +1671,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Compilers to go, LeetCode contant, today was 5 years with my girlfriend, couldn't be more happy right now.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1681,7 +1681,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I... don't feel motivated... at all.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1692,7 +1692,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I feel I'm procrastinating to another level, I feel bad about it.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1702,7 +1702,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I feel I'm procrastinating to another level, I feel bad about it.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Introducción al diseño y análisis de algoritmos](https://www.academia.edu/38477997/Introduccion_al_diseno_y_analisis_de_algoritmos_-_Lee_Tseng_Chang_y_Tsai)
@@ -1714,7 +1714,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I feel so bad, like really really bad, the only thing that relieves me is that this is almost over.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1725,7 +1725,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Feeling better, lately I'm feeling like a rollercoaster.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1736,7 +1736,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Now, add functions to the compiler... _sigh_.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1747,7 +1747,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : So close and yet so far.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1758,7 +1758,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Ok, now, to recover from stress, I'll take a "light" week to replenish my energy and boom, my productivity will spark.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Compiler](https://github.com/AndreRdz7/Tarea5)
@@ -1769,7 +1769,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Got a 85 on compiliers, not bad, my effort was worth, now I feel relieved, rested and motivated, I still need some rest, but I'm almost ready to rise a phoenix.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1779,7 +1779,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Got a 97/100 on my semester so I'm really happy, 4 courses to go.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1789,7 +1789,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I'm back at it, I know I can handle it.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 1-14, 17](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
@@ -1800,7 +1800,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I'm back at it, I know I can handle it.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 15-16](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
@@ -1811,7 +1811,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : My wholesome day with my girlfriend, so not much to do, it's my mental + 100 day.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 18](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
@@ -1822,7 +1822,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Productive day, happy about it.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 20-27](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
@@ -1833,7 +1833,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Felt bad, had a really bad sleep, and felt tired most of the day.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 28-29, 24](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
@@ -1844,7 +1844,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Not that I'm not motivated, _au contraire_, I'm pumped up, but today was simply not my day.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1854,7 +1854,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Despite being my wholesome day I'm not satisfied at all of what I did today.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1864,7 +1864,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I was kinda tough to finish the NgRx part, I really really don't like it.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Angular 9, Section 24](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
@@ -1875,7 +1875,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : This week was a mess, an absolute mess.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1885,7 +1885,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : This was the worst week of the year on productivity terms, some problems took about the hour of the challenge, and had to read articles just to fill the time, it's just, I don't know what is happening.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1895,7 +1895,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Back to "productivity".
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [React 16, Section 1-4](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
@@ -1906,7 +1906,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Back to "productivity".
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1916,7 +1916,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Back to "productivity" (yesteday's thought... ye, no). I have something mentally that doesn't drive me for more, although I'm striving for success and landing a FANMAG (or WITCH) job I just can't, I'm burnt physically, mentally and emotinally.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1926,7 +1926,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : My wholesome day. Reorganized my schedule to work and do my workouts. Another virtually failed week, but it's something really mental.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1936,7 +1936,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I'm feeling better.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1946,7 +1946,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Worked some hours, starting to regain my power, I just home my clients accepts the project and my summer will be as awesome as it could be.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1956,7 +1956,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : My wholesome day, in this times full of pesimism, any amount of happiness is appreciated.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1966,7 +1966,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Feeling better.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1976,7 +1976,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Feeling great on research, I feel we are progressing quick.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -1986,7 +1986,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Yup, finally upgrading my Node.js.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 1-5](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
@@ -1997,7 +1997,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : My wholesome day, and I gotta say I'm feeling great.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 6](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
@@ -2008,7 +2008,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Another wholesome day, quite unexpected, a familiar one.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 7](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
@@ -2019,7 +2019,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : High hopes on the super big project but not anything else, no one appreciates work and wants to pay super low quantities for small-medium projects.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 8](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
@@ -2030,7 +2030,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : A super wholesome day, the best day in the year.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 9](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
@@ -2041,7 +2041,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Another wholesome day for me and my mind, but somehow I'm statting to getting dissapointed, since no project is confirmed.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [React 16, Section 5-6](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
@@ -2052,7 +2052,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Back to productivity.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2062,7 +2062,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Research is looking great.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2072,7 +2072,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Two steps forward then three steps back on my research, not happy with changes like this.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2082,7 +2082,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Morale ok-ish.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2092,7 +2092,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I feel bad about my productivity, self-steem running all time low.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2102,7 +2102,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Feeling better overall.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2112,7 +2112,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Happier.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2122,7 +2122,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Feels good to get noticed by a great professor.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2142,19 +2142,19 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 103, a level zig zag traversal, I remebered that I did something exactly the same, but it was another problem, so it's kind of a duplicate because the one that I did previously was a follow up from a regular level order. Had a loooong meeting with my professor, we didn't managed to run the project of Niels Martin, so we are kinda stuck since in Europe they are in vacation, so our answer will arrive on August. Prepared my research homework analyzing the bimp xml file on the calendar and id management.
 
-**Thoughts** : Dear developer, if you are reading this, write READMEs please ! specially if the code is going to be used by other people. 
+**Thoughts** : Dear developer, if you are reading this, write READMEs please ! specially if the code is going to be used by other people.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
 ## Day 205, Jul 23th 2020
 
-**Today's Progress**: Actually did not solved LeetCode daily challenge, I totally forgot about it, I don't know why... so my streak is over, and this is not the case I solved it in the problems section and forget to do it in the challenge section, no, no LeetCode today at all. On better results, finished my homework, but I have a bad feeling, I think I'm missing something because something does not feels right. Had an interview with CellFusion, a total failure, they needed an experienced Java developer in Spring and applets and things I've never done before, *sigh* recruiters...
+**Today's Progress**: Actually did not solved LeetCode daily challenge, I totally forgot about it, I don't know why... so my streak is over, and this is not the case I solved it in the problems section and forget to do it in the challenge section, no, no LeetCode today at all. On better results, finished my homework, but I have a bad feeling, I think I'm missing something because something does not feels right. Had an interview with CellFusion, a total failure, they needed an experienced Java developer in Spring and applets and things I've never done before, _sigh_ recruiters...
 
 **Thoughts** : Not an awful day at all, at least I finished my homework.
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
@@ -2164,7 +2164,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : 2 days of no LeetCode, what is wrong with me ?
 
-**Link to Work / References** : 
+**Link to Work / References** :
 
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
@@ -2174,7 +2174,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Simod and BIMP always have problems...
 
-**Link to Work / References** 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
@@ -2185,7 +2185,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts**: Tomorrow a fresh start.
 
-**Link to Work / References** 
+**Link to Work / References** :
 
 - [Machine Learning, Mitchell, T.](http://profsite.um.ac.ir/~monsefi/machine-learning/pdf/Machine-Learning-Tom-Mitchell.pdf "Online PDF")
 
@@ -2195,18 +2195,18 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Not precisely the _best_ return but it was a good one, on the upside, this leaves room only for improvement wich I will.
 
-**Link to Work / References** 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Simod](https://github.com/AndreRdz7/Simod "Forked Simod")
 
 ## Day 210, Jul 28th 2020
 
-**Today's Progress**: Solved LeetCode problem 299, a bulls and cows problem, basically to return the amount of bulls and the amount of cows given an input and the secret. Re-made the quotation for the Utopyan project, basically he told me that he wanted me to do it, just remove some stuff to make it more affordable and start as soon as possible, there is hope at the end of the darkness. Got proposed another project, basically a Rappi clone, not big pay but it should be "easy". 
+**Today's Progress**: Solved LeetCode problem 299, a bulls and cows problem, basically to return the amount of bulls and the amount of cows given an input and the secret. Re-made the quotation for the Utopyan project, basically he told me that he wanted me to do it, just remove some stuff to make it more affordable and start as soon as possible, there is hope at the end of the darkness. Got proposed another project, basically a Rappi clone, not big pay but it should be "easy".
 
 **Thoughts** : My last wholesome day as used to be, next ones I will work a lot more, more stuff on reaseach, back to classes and this project and I _NEED_ to study more on LC. Morale better.
 
-**Link to Work / References** 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2216,7 +2216,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Yeah, new monthly challenge, August, and I will fix my life from one day to another, I will do my very best and push to the extreme limits.
 
-**Link to Work / References** 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2226,7 +2226,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Not a great day to be honest, feeling kinda sad and stressed.
 
-**Link to Work / References** 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 - [Node, Section 15-16](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
@@ -2237,7 +2237,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Feeling emotionally bad, my little dog is getting really sick.
 
-**Link to Work / References** 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2247,7 +2247,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Good comeback on LeetCode, I'll do about 15 hours a week, and it's quite a lot, considering I'll be doing 10 hours of excercise a week and 43 (aprox) hours of work a week (split 75:25 with Utopyan(big project) and Crowd (my entrepreneurial project)) and time with my girlfriend (future fiancee) and constant training _plus_ my research in university. It was supposed to be my wholesome day, but, my little dog is very very sick, so, actually was a very sad day, I cried several times.
 
-**Link to Work / References** 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2257,7 +2257,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : More on LC. Today was a more wholesome-ish day, feeling better thanks to my girlfriend and her support, but still very sad and worried for my little dog.
 
-**Link to Work / References** 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2267,7 +2267,7 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : Yes! I got the project. No! a lot more to study... oh wait, that's incredible, I love to learn new things!
 
-**Link to Work / References** 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
@@ -2277,16 +2277,26 @@ Did problems 1342, 509, 346 of LeetCode.
 
 **Thoughts** : I'm an idiot sandwich.
 
-**Link to Work / References** 
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
 
 ## Day 218, Aug 5th 2020
 
-**Today's Progress**:  Solved LeetCode daily challenge, problem 211, to add and search a word, using a trie, maps and with the inclusion of a 'wildcard' which is the '.' that represents any letter, quite interesting, its a regular trie implementation with the adition of a wildcard on any given letter. Read a little bit about Divide and Conquer approaches.
+**Today's Progress**: Solved LeetCode daily challenge, problem 211, to add and search a word, using a trie, maps and with the inclusion of a 'wildcard' which is the '.' that represents any letter, quite interesting, its a regular trie implementation with the adition of a wildcard on any given letter. Read a little bit about Divide and Conquer approaches.
 
 **Thoughts** : I felt terrible the whole day.
 
-**Link to Work / References** 
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 219, Aug 6th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 442, find duplicates in an array, easy solved with a map, but a follow up was using a O(1) in memory, and that part was a killer for me. I spent a lot of time as a PM for a little side project just before starting with Crowd, since Crowd should be ready for November, a quick cash comes in handy, a rush of 2-3 weeks to deliver a 'betting' site, so I searched for templates for the frontend to save time and focus on backend and functionality.
+
+**Thoughts** : Yes, just what I needed right now.
+
+**Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
