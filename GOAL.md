@@ -2,7 +2,7 @@
 
 Besides forming a habit to code/learn daily, my goal is to learn a lot and become a better programmer everyday, step by step with no shortcuts, I will document what I'm learning, what I want to learn and describe the projects I'm working on or I will work on. As well as other achivements related to the field. Start a bussiness ?? Maybe...
 
-Milestone completed: 210 days!
+Milestone completed: 220 days!
 
 Next section will work like a Kanban (To Do, Doing & Done)
 

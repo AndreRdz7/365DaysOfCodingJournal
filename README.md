@@ -2300,3 +2300,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 220, Aug 7th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 314, it was really though to figure out straight away, but a map managed to track positions and also did the 987, which was the same but needed the vertical traverse to be sorted by 'column'. Really interesting problem, a top for Facebook, which btw, I'll receive a first interview around september, probably october.
+
+**Thoughts** : Taking it easy right now, the calm before the storm.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
