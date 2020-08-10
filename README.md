@@ -2320,3 +2320,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 222, Aug 9th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 994, find if the oranges will rot given a time, spreading in a BFS way, so a BFS solution is the optimal way in my opinion, used a deque to traverse and modify the grid.
+
+**Thoughts** : Cleaned my desks for working on everything, orgnized my week with extra stuff like Google's Developer Student Club which I may be part of in the future (but not for too long, as I'm graduating in December) and calls and meetings with people to get my job done properly.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
