@@ -2310,3 +2310,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 221, Aug 8th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 437, a path sum on a BST, that looks really easy at first glance but all the tracking part complicates it, fortunately the solution is the sum of all possible 'traversals' from a node to another node, no partitioning on two nodes. re-solved the problem to find the closest to target in a BST, literally a binary search, but in a tree.
+
+**Thoughts** : My wholesome day, proper rest, ready for everything.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
