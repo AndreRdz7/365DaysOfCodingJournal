@@ -2330,3 +2330,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 223, Aug 10th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 171, to convert excel column to number, it was more a math-ish ad-hoc problem than a a DS+Alg problem, also did 168 which was the opposite of 171, problem 268 to find the misssing number in a range [0...n] with bit manipulation using XOR, problem 1480 to find the running sum, basically always add the acummulator of all previous cells in an array, problem 1512 to find "good pairs", which is n[i]==n[j] and at the same time i < j, problem 1527 to perform a MYSQL query solved it with REGEXP. Had a meeting for the small project of NFL Survivor like website, the seemed very very happy, tomorrow they will confirm the start of the project, also worked a little as PM lifting requirements and designing the database. More progress on the Utopyan DB, a last revision is needed, and a big chat with the CEO. New semseter, 2 new classes wich are boring as hell, I can't stand them.
+
+**Thoughts** : Good start, let's keep it good.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
