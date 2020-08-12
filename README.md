@@ -2340,3 +2340,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 224, Aug 11th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 274, to find the h-index, actually, it was re-solved, but this time, I understood it quite better, it's definetly not binary search intuitive right away, also did 1486, to perform an XOR in an array and 1469 to find the amount of lonely nodes (only child) in a binary tree, really easy to get the answer. Got doubly confirmed on Utopyan, I'll have my first payment on Friday, I'll start tomorrow actually in the backend. Got semi-confirmed to NFL Survivor, we had to negotiate prices and future updates prices, but, we managed to convice them, good signs for our entrepreneurial project on shark tank (maybe?).
+
+**Thoughts** : Can't keep the pace on my super schedule but I'll do my best.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
