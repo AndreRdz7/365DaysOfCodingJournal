@@ -2350,3 +2350,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 225, Aug 12th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 119, to return a single row from a Pascal triangle, also did 118, wich is to generate a full Pascal triangle, solved it first actually, to understand better the 119 that feels more like a follow up. Not the brightest day, waste time doing homework from classes, practically irrelevant to this challenge.
+
+**Thoughts** : Better pace I guess, but not happy, must push harder, monday was nuts, let's aim to be like Aug 10 everyday.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
