@@ -2360,3 +2360,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 226, Aug 13th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1286, a system design, to create a iterator for combinations, basically, "generate" all permutations of a string and return the next with a function, really hard for me. Two classes, a loooooot of time wasted, it was the 4th or 5th time I see scrum in a class... c'mon, I'll be graduating in months, I must know that by now, it would be unnacceptable to not know it. More design and refinement on the database of the survivor project.
+
+**Thoughts** : Wasted a freaking lot of time doing homework, this suuuuucks.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
