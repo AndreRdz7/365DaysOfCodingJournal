@@ -2370,3 +2370,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 226, Aug 14th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 409, to find the longest palindrome available, solved with a hashamp, considering divisible by 2 and a single unique letter to create the longest palindrome. Worked as a PM for both projects, got a meeting with the client, solved some issues and stated what I needed to start. Watched Udemy for AWS, but I think is not as useful as I thought, I know how to create things but not how to use them...
+
+**Thoughts** : Payment and delivery agreement, way more formal now.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
