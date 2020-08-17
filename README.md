@@ -2371,11 +2371,21 @@ Did problems 1342, 509, 346 of LeetCode.
 
 - [LeetCode](https://leetcode.com/)
 
-## Day 226, Aug 14th 2020
+## Day 227, Aug 14th 2020
 
 **Today's Progress**: Solved LeetCode daily challenge, problem 409, to find the longest palindrome available, solved with a hashamp, considering divisible by 2 and a single unique letter to create the longest palindrome. Worked as a PM for both projects, got a meeting with the client, solved some issues and stated what I needed to start. Watched Udemy for AWS, but I think is not as useful as I thought, I know how to create things but not how to use them...
 
 **Thoughts** : Payment and delivery agreement, way more formal now.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 228, Aug 15th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 484, the premium question, to return an increasing/decreasing interval from 1 to n with a string key, like key = DI, result = [2,1,3], really interesting, solved it using a stack, and problem 435, to find overlapping intervals, sorted and using a greedy aproached did the trick. More AWS on Udemy, kinda got what I wanted but at a super low level of what I actually need. Did the Utopyan backlog, will do on Monday a Trello Kanban for my professor and my client.
+
+**Thoughts** : Got the payment, let's start the survivor.
 
 **Link to Work / References** :
 
