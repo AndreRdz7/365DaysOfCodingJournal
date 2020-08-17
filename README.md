@@ -2390,3 +2390,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 229, Aug 16th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 123, buy and sell stock second follow up, maximize revenues but perform 2 transactions, a "simulation" apporach nailed it, while always do the minimum buy and maximum sale. Spent a looooot of time trying to connect to RDS, didn't accomplished it, I need to do it now ! I cannot lose more time, I'm getting frustrated, the deadline is galloping torwards us.
+
+**Thoughts** : Ah yes, the frustration...
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
