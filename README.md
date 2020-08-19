@@ -2403,9 +2403,19 @@ Did problems 1342, 509, 346 of LeetCode.
 
 ## Day 230, Aug 17th 2020
 
-**Today's Progress**: Solved LeetCode daily challenge, problem 1103, a distribute candy problem, kinda a math problem, but solved it doing a simulation run which was not really bad, 0 ms on runtime. Finally, no more RDS, started the api with MongoDB and the auth was complete, the login with jwt and simple register, with an AuthGuard in Angular, happy with the progress
+**Today's Progress**: Solved LeetCode daily challenge, problem 1103, a distribute candy problem, kinda a math problem, but solved it doing a simulation run which was not really bad, 0 ms on runtime. Finally, no more RDS, started the api with MongoDB and the auth was complete, the login with jwt and simple register, with an AuthGuard in Angular, happy with the progress.
 
 **Thoughts** : As much as I would love to speak love about AWS, the RDS services is plain awful, not even the tutorial works to connect to the database.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 231, Aug 18th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 967, a suuuper though problem for me, basically to return a vector containing positive integers of lenght less or equal to n, which individual numbers have an absolute difference of k, it blowed my mind and searched for help, the best approach was a deque. More on the api, added photos, teams and users, with a +Guard of isAdmin attribute on the user.
+
+**Thoughts** : Going strong with a ok pace, let's get it.
 
 **Link to Work / References** :
 
