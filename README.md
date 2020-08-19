@@ -2400,3 +2400,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 230, Aug 17th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1103, a distribute candy problem, kinda a math problem, but solved it doing a simulation run which was not really bad, 0 ms on runtime. Finally, no more RDS, started the api with MongoDB and the auth was complete, the login with jwt and simple register, with an AuthGuard in Angular, happy with the progress
+
+**Thoughts** : As much as I would love to speak love about AWS, the RDS services is plain awful, not even the tutorial works to connect to the database.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
