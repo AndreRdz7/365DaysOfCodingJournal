@@ -2420,3 +2420,53 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 232, Aug 19th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 824, "goat latin" at first glance I new it was a string problem and probably similar to alien dictionary ones. Classes = hours wasted, like, hands down this could be the worst semester ever, I'm not even learning. Into the survivor project, improved the front, the navigation and added the matches preparation.
+
+**Thoughts** : I hate this semester.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 233, Aug 20th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 143, a 3 in 1 problem, reordering a list, wich basically is the sum of finding the middle (fast and slow), reverse a linked list (the second half) and merge them (merge two linked lists), it was fun tho. Pure string manipulation. More on backend and display matches. And yeah, did not logged into classes, It's plain and pure waste of time.
+
+**Thoughts** : I like this project, really fun tho.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 234, Aug 21st 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 905, to "sort" an array by parity, by this is, odd on the left "half" and evens on the other "half", a two pointer approach meade the trick, since the actual numbers doesn't even need to be sorted in their parity. Added details, like toastrs, the identity protection for non admin on first login to change password and other improvements on the frontend.
+
+**Thoughts** : First delivery, here we go.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 235, Aug 22nd 2020
+
+**Today's Progress**: No LeetCode, missed the timing, will explain... Spent all day trying to deploy the app, failed terribly with AWS, nginx, lightsail, only managed to do it on heroku, and by changing a lot the project structure, but it works, happy, but sad at the same time.
+
+**Thoughts** : I never new deploying was this awful, my first one was horrible on GCP, totally new, didn't even know what I was doing.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 236, Aug 23rd 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1032, hard, really hard, a "stream of characters", a trie helper but the intuition was really hard. Also the extra for my premium, problem 490, a BFS to get a maze solution, interesting. Did some testing on the deployed site, everything went right, tried again on AWS and failed so meh, I'll deal with it once I finish it.
+
+**Thoughts** : My wholesome day, the calm after the storm.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
