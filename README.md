@@ -2470,3 +2470,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 237, Aug 24th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 404, to find the sum of the left leaves, really easy, a simple traverse and knowing if you went left, if its a leaf, add to a global. Finished my research homework, to get multiple datasets of 2, 3 and 6 months and do preprocessing to get users on raw traces and analyze them, similar results, different processing time, at an hour range interval, no significant differences were noted. Finished time-waster homeworks... We got a new name, survivor -> predator, so updated names, display, and edit results on admin, added a game state on the backend, not quite sure if it's intuitive.
+
+**Thoughts** : Gotta love the time-waster homeworks... but I really do like my projects, too bad the Utopyan one hasn't been started yet.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
