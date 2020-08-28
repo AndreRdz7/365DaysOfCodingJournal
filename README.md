@@ -2490,3 +2490,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 239, Aug 26th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 412, the infamous FizzBuzz, work with modulo, and "string" manipulation. Created a storytelling for Utopyan for a homework and went through the horrible horrible class of today. Added a game state for predator project, to automatically display the games of the current round.
+
+**Thoughts** : Not the most productive day whatsoever, was really tired due to lack of quality sleeping.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
