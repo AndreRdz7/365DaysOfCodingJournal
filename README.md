@@ -2480,3 +2480,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 238, Aug 25th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 983, a "classic" dp problem about costs. Had my meeting with my professor, everything was ok, "good" results, we want to improve the output information so a little more work is needed. Wasted time doing homeworks... I hate thiiiiiis. More on the predator project, games per round tabs and give second opportunities to play.
+
+**Thoughts** : What a semester...
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
