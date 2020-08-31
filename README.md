@@ -2500,3 +2500,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 240, Aug 27th 2020
+
+**Today's Progress**: Did not solved the LC daily challenge, I missed the timing, I was so in depth working that when I realized it was time to do other things it was already 3 am. More classes... But into predator, edit results only by admin, added new features on login.
+
+**Thoughts** : Wow, I really love to code.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
