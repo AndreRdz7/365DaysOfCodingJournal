@@ -2530,3 +2530,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 243, Aug 30th 2020
+
+**Today's Progress**: Did not solved the LC daily challenge, at this point, I'd rather have good break and comeback stronger than struggling to do one by obligation rather than 5 for "pleasure", so yeah. Did my research homework, was easy actually. Fixed the URL on deployment for the predator, TODO: dynamic header and testing (and a right deploy on AWS, not Heroku).
+
+**Thoughts** : Tomorrow will be a new beggining, I know.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
