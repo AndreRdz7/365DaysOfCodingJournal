@@ -2510,3 +2510,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 241, Aug 28th 2020
+
+**Today's Progress**: Did not solved the LC daily challenge, cuz' I missed it yesterday, so, a break was somewhat needed. Did the hardest part on the predator project. Sadly, missed my call with my professor, I didn't finished my homework.
+
+**Thoughts** : The tiredness is powerfull.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
