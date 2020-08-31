@@ -2,7 +2,7 @@
 
 Besides forming a habit to code/learn daily, my goal is to learn a lot and become a better programmer everyday, step by step with no shortcuts, I will document what I'm learning, what I want to learn and describe the projects I'm working on or I will work on. As well as other achivements related to the field. Start a bussiness ?? Maybe...
 
-Milestone completed: 230 days!
+Milestone completed: 240 days!
 
 Next section will work like a Kanban (To Do, Doing & Done)
 
@@ -15,8 +15,6 @@ Next section will work like a Kanban (To Do, Doing & Done)
 - React Native
 - Ethereum + Solidity
 - Docker and Kubernetes
-- NoSQL -> MongoDB (improve)
-- AWS
 - Machine Learning - Mitchell, T.
 - TensorFlow 2.0
 - Hadoop
@@ -29,6 +27,8 @@ Next section will work like a Kanban (To Do, Doing & Done)
 - C++ std library and OOP for coding interviews and competitive programming
 - UI/UX prototyping & construction + Usability
 - GraphQL
+- NoSQL -> MongoDB (improve)
+- AWS
 - Data Structures Practice - Wu, Y. & Wang, J.
 - Introducción al diseño y análisis de algoritmos - R.C.T., Lee & S.S., Tseng & R.C Chang & Y.T. Tsai
 
