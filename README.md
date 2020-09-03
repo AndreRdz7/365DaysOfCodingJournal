@@ -2540,3 +2540,23 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 244, Aug 31st 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1304, weird-ish, it didn't feel like an interview problem, it was more like a CodeForces, it was to return an array of lenght n which sum is 0, so if n = 3, the array is [-1,0,1], not even needed to be sorted. also 450 to delte in a BST and of course, re-arange the children of the node (if any). More on the predator project, used ViewChild to comunicate to the header and flex-wrapping the buttons for a better mobile display, sadly the deploy on Lightsail failed.
+
+**Thoughts** : Almost done with this project.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 245, Sep 1st 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 949, to make the maximum hour posible given an array of 4, weird-ish, permutation are not the easiest to handle, fortunatley, c++ has a next_permutation function in it's STD. Also 157, to implement a read file with a read4 (4 chars), it was supposed to be an old school interview question, it was pecualiar to say the least. Got Feedback on the predator, a little bit more to do. Done User stories for the Utopyan project
+
+**Thoughts** : Oh boi that deploy...
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
