@@ -2580,3 +2580,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 248, Sep 4th 2020
+
+**Today's Progress**: Missed the timing on LeetCode, yikes... Made a call with my professor for about 2 hours, a lot of fixes (due to lack of a standard) and not to much insights, oh well, at least it worked at the end. Got feedback on the predator delivery, email sending on register, alert on current prize and styling and logos.
+
+**Thoughts** : They loved the project, I feel so well right now.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
