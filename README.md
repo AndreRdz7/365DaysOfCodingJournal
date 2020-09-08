@@ -2590,3 +2590,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 249, Sep 5th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1305, to return all elements in two binary search trees, but sorted, so, do a in order then merger, tada. Not much after it, I haven't had a light day in 2 weeks, so I took it simple, just started the backend for the predator, all the configuration, connection and basic CRUD with Sequelize.
+
+**Thoughts** : 1 project (almost) out, 1 in (with no actual green flag, and no anticipation payment, but I trust my client).
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
