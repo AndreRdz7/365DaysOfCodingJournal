@@ -2600,3 +2600,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 250, Sep 6th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 835, to find an image overlap, it was tricky, time complexity con matrix comparison can easilly go up to O(n4). Added confirmation modals for predator, with a dashboard for a better presentation, just a final test to very everything works fine and it's done.
+
+**Thoughts** : 1 project (almost) out, 1 in (with no actual green flag, and no anticipation payment, but I trust my client).
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
