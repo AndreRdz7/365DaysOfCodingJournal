@@ -2553,9 +2553,29 @@ Did problems 1342, 509, 346 of LeetCode.
 
 ## Day 245, Sep 1st 2020
 
-**Today's Progress**: Solved LeetCode daily challenge, problem 949, to make the maximum hour posible given an array of 4, weird-ish, permutation are not the easiest to handle, fortunatley, c++ has a next_permutation function in it's STD. Also 157, to implement a read file with a read4 (4 chars), it was supposed to be an old school interview question, it was pecualiar to say the least. Got Feedback on the predator, a little bit more to do. Done User stories for the Utopyan project
+**Today's Progress**: Solved LeetCode daily challenge, problem 949, to make the maximum hour posible given an array of 4, weird-ish, permutation are not the easiest to handle, fortunatley, c++ has a next_permutation function in it's STD. Also 157, to implement a read file with a read4 (4 chars), it was supposed to be an old school interview question, it was pecualiar to say the least. Got Feedback on the predator, a little bit more to do. Done User stories for the Utopyan project.
 
 **Thoughts** : Oh boi that deploy...
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 246, Sep 2nd 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 220, a hard-ish problem, not really interesting tho. The predator project is looking great, fixed the visibility, filled the DB, dynamic emailing on changing password and finally, a deploying done right on AWS with S3, it's beautiful and works perfectly fine. More HW done, ugh.
+
+**Thoughts** : Oh yeah, deploy done, happy as happiness can be (?).
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 247, Sep 3rd 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 459, not interesting at all. More on predator, solved the DNS on the domain pointing to S3 bucket, works perfectly and I'm very happy, the delivery for tomorrow will be on point. Added the rules, a scroll to top, the mobile navbar and team displaying, looks really good. Made my MSFT full time application for Redmond. Tried to accomplish my homework of research but failed, this is becoming a mess, no format specified, no standard, this is getting really hard coded for specific data.
+
+**Thoughts** : Proyect done (until feed back from the client).
 
 **Link to Work / References** :
 
