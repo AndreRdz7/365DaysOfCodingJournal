@@ -2610,3 +2610,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 251, Sep 7th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 290, to find word patterns given a string and word vector, for example, "aba" -> ["apple","banana","apple"] is a valid word pattern, really interesting, kinda heavy on extra memory to save time. More on Utopyan, finished the backlog with the user stories and my colleague helped me with the testing part, frontend setup done.
+
+**Thoughts** : I'm feeling overwhelmed.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
