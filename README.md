@@ -2660,3 +2660,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 256, Sep 12th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 216, a backtracking to find a 3 number sum. On the Utopyan project, contract signed, project officially started.
+
+**Thoughts** : Formal start, let's get it.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
