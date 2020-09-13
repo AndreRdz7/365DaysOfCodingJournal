@@ -2620,3 +2620,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 252, Sep 8th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 1022, the sum of all paths of a binary tree that represents binary numbers, quite challenging, the part of the binary sum, to get all traversing options and store them was rather the easy part. Predator project, finished the dashboard setup (not will be implemented just yet), change the birthday record from only day and month, finished testing, everything looks correct.
+
+**Thoughts** : Hapy for the project as the clients are happy with the results.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
