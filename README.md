@@ -2640,3 +2640,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 254, Sep 10th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, the bulls and cows one. The clients loved the predator platform, they are really really happy with it. Utopyan backend setup ready, connected to an Azure PostrgreSQL DB. Did a lot of homework.
+
+**Thoughts** : Super happy that the clients loved it.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
