@@ -2630,3 +2630,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 253, Sep 9th 2020
+
+**Today's Progress**: Didn't solve the LeetCode daily challenge, problem with timing again, I realized at 3 am the challenge was on my TODO list. On the predator, last iteration changes, fixed some data display and another testing that solved the birthday issues.
+
+**Thoughts** : I can't take it any longer, need a break.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
