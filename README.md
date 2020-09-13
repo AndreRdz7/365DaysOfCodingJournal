@@ -2650,3 +2650,13 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 255, Sep 11th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 152, to get the maximum product subarray, similar to a kadane's algorithm, but keeping track of the negatives and 0s, since a 0 resets, 1 negative flips and 2 negatives rises the maximum. Frist CRUD of Utopyan, working well, happy about it.
+
+**Thoughts** : Onto the next one, tomorrow I'll se my client.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
