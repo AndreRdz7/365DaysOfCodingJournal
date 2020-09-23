@@ -2670,3 +2670,23 @@ Did problems 1342, 509, 346 of LeetCode.
 **Link to Work / References** :
 
 - [LeetCode](https://leetcode.com/)
+
+## Day 257, Sep 13th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 57, to insert an interval and reduce existing intervals that fit inside the new one. Some CRUDs on the Utopyan project. Small changes on the predator project, footer, sessionStorage over localStorage.
+
+**Thoughts** : It's going to be a lot of fun working in this project, and it will push me towards my goals.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 258, Sep 14th 2020
+
+**Today's Progress**: Solved LeetCode daily challenge, problem 198, the house robber problem 57, a classic simply DP problem. More Utopyan CRUDs, liking it, but I think the DB is not optimized. Predator last feedback, loading spinners, better footer and locked visibility.
+
+**Thoughts** : I sometimes like doing LC, I sometimes hate doing LC.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
