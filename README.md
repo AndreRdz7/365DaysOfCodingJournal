@@ -2693,9 +2693,19 @@ Did problems 1342, 509, 346 of LeetCode.
 
 ## Day 259, Sep 15th 2020
 
-**Today's Progress**: Solved LeetCode daily challenge, problem 198, problem 58, to find the length of the last word, really easy. Added SSL certificate and Cloudfront, but it gave a lot of errors if F5 was pressed, and it gets me depressed (yeah, it rhymes), but improved the build by using the --prod flag.
+**Today's Progress**: Solved LeetCode daily challenge, problem 58, to find the length of the last word, really easy. Added SSL certificate and Cloudfront, but it gave a lot of errors if F5 was pressed, and it gets me depressed (yeah, it rhymes), but improved the build by using the --prod flag.
 
 **Thoughts** : I love and hate AWS.
+
+**Link to Work / References** :
+
+- [LeetCode](https://leetcode.com/)
+
+## Day 260, Sep 16th 2020
+
+**Today's Progress**: Did not solved LeetCode daily challenge, and XOR problem that was really though. More time working on the CRUDs of Utopyan.
+
+**Thoughts** : My relaxing day.
 
 **Link to Work / References** :
 
